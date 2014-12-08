@@ -1,0 +1,37 @@
+---
+Bars: {
+    Craft Pride: "http://craftprideaustin.com/",
+    CU29 Cocktail Bar: "http://cu29cocktailbar.com/",
+    Iron Works BBQ: "http://www.ironworksbbq.com/",
+    Kung Fu Saloon: "http://www.kungfusaloonaustin.com/",
+    The Ginger Man: "http://thegingerman.com/austin/",
+}
+Bar+Food: {
+    Banger's Sausage House: "http://bangersaustin.com/",
+    Casino El Camino Bar & Grill: "http://www.casinoelcamino.net/",
+    Easy Tiger: "http://easytigeraustin.com/",
+    Frank Restaurant: "http://www.hotdogscoldbeer.com/",
+    La Condesa: "https://lacondesa.com/austin",
+    Lambert's BBQ: "http://www.lambertsaustin.com/",
+    Searsucker Austin: "http://www.searsucker.com/",
+    Second Bar + Kitchen: "http://congressaustin.com/second/",
+    Swift's Attic: "http://swiftsattic.com/",
+    The Jackalope: "http://www.jackalopebar.com/",
+}
+Coffee: {
+    Cafe Ruckus: "https://www.caferuckus.com/",
+    Caffe Medici: "http://caffemedici.com/",
+    Halcyon: "http://www.halcyonaustin.com/",
+    Houndstooth Coffee: "http://www.houndstoothcoffee.com/",
+    Patika Coffee: "http://www.patikacoffee.com/kart",
+}
+Food: {
+    Amy's Ice Creams: "http://www.amysicecreams.com/",
+    Carmelo's Restorante Italiano: "http://www.carmelosrestaurant.com/",
+    Daily Juice: "http://dailyjuicecafe.com/",
+    Daruma Ramen: "http://www.darumaramen.com/",
+    Kebabalicious Downtown: "http://www.kebabalicious.com/",
+    Koriente Restaurant: "http://www.koriente.com/",
+    Leaf: "http://www.leafsalad.com/",
+    Roaring Fork: "http://www.roaringfork.com/",
+}
