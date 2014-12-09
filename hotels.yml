@@ -72,6 +72,9 @@ warning: Venue Space Only Accomodates 80
 organizer: Andrew Pinkham
 phone number: (512) 476-4440
 website: austindowntown.place.hyatt.com
+hotel rooms: 296
+hotel room block size: 150
+room price: $200 # estimated
 
 ---
 name: Hyatt Regency
