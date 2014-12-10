@@ -2,6 +2,7 @@
 name: AT&T Convention Center
 status: Under Consideration
 organizer: Barbara Shaurette
+coordinates: 30.28203, -97.74069
 
 ---
 name: Austin Convention and Visitor's Bureau
@@ -15,12 +16,14 @@ status: Rejected
 reason: Must Book 18 Months in Advance
 organizer: Andrew Pinkham
 contact: Caitlin Byrne
+coordinates: 30.263653, -97.739679
 
 ---
 name: Austin Courthouse
 status: Rejected
 reason: No Longer Hosting Events
 organizer: Andrew Pinkham
+coordinates: 30.2734082, -97.7452687
 
 ---
 name: Brazos Hall
@@ -53,6 +56,7 @@ event rooms: [ballroom: {
               }]
 hotel rooms: 189
 more info: http://www.driskillhotel.com/pdf/77563_Driskill_u12.pdf
+coordinates: 30.2680567, -97.74161
 
 ---
 name: Four Seasons Hotel
@@ -62,6 +66,7 @@ organizer: Andrew Pinkham
 contact: LuAnn Bordelon
 phone number: (512) 478-4500
 website: www.fourseasons.com/Austin
+coordinates: 30.261701, -97.742259190224
 
 ---
 name: Hampton Inn & Suites
@@ -116,6 +121,7 @@ event rooms: [Longhorn Room: {
               }]
 hotel rooms: 397
 room price: { single: 209, double: 229 }
+coordinates: 30.2723412, -97.7470334
 
 ---
 name: Palmer Convention Center
@@ -123,11 +129,13 @@ status: Under Consideration
 organizer: Andrew Pinkham
 contact: Faith Ward
 phone number: (512) 404-4210
+coordinates: 30.2606146, -97.7528849510071
 
 ---
 name: Paramount Theater
 status: Under Consideration
 organizer: Barbara Shaurette
+coordinates: 30.2693048, -97.742162
 
 ---
 name: Radisson Hotel
@@ -157,6 +165,7 @@ event rooms: [Riverside Ballroom (NWES): {
 hotel rooms: 413
 room nights: 900
 room price: $199
+coordinates: 30.26270505, -97.7438591656882
 
 ---
 name: Residence Inn Austin Downtown/Convention Center
