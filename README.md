@@ -13,5 +13,7 @@ DjangoCon is organized and run by volunteers from the Python and Django communit
 
 - Join the team: [Organizers Mailing List](https://groups.google.com/forum/#!forum/djangocon-organizers)
 - Join us on IRC: DjangoCon Organizers IRC channel (#djangocon-organizers on irc.freenode.net)
-- Help us out: [DjangoCon 2015 Tasks](https://github.com/djangocon/djangocon-us-docs/issues)
+- Help us out:
+    - [DjangoCon 2015 Tasks](https://github.com/djangocon/djangocon-us-docs/issues)
+    - [DjangoCon 2015 Website Specific Tasks](https://github.com/djangocon/djangocon.us/issues)
 - Learn more: [DjangoCon 2015 Wiki](https://github.com/djangocon/djangocon-us-docs/wiki)

@@ -4,11 +4,11 @@
 
 Continental breakfast and lunch offered. Snacks optional but desirable.
 
-### September 7: Tutorials
+### September 6: Tutorials
 
 1-4 rooms, setup classroom style, each with projector, microphone, and extension cords for students to plug into. 2 rooms most desirable. Depending on number of rooms available, 50-200 people expected.
 
-### September 8-10: Presentations
+### September 7-9: Presentations
 
 Expected attendance: 250-400.
 
