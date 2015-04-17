@@ -1,5 +1,4 @@
-DjangoCon 2015
-==============
+# DjangoCon 2015
 
 DjangoCon 2015 will be held in **Austin**, Texas, USA from September 6th – 11th, 2015.
 
@@ -9,7 +8,12 @@ DjangoCon 2015 will be held in **Austin**, Texas, USA from September 6th – 11t
 
 DjangoCon is organized and run by volunteers from the Python and Django community.
 
-**Help is very much appreciated!**
+## Code of Conduct
+
+As a contributor, you can help us keep the Django community open and inclusive.
+Please read and follow our [Code of Conduct](https://www.djangoproject.com/conduct/).
+
+### Help is very much appreciated!
 
 - Join the team: [Organizers Mailing List](https://groups.google.com/forum/#!forum/djangocon-organizers)
 - Join us on IRC: DjangoCon Organizers IRC channel (#djangocon-organizers on irc.freenode.net)
