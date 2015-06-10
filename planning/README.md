@@ -26,8 +26,8 @@ Expected attendance: 50-150.
 
 Requires sprint venues, supplied by local businesses.
 
-## September 10: DjangoGirls Workshop (date tentative) 
+## September 10: DjangoGirls Workshop (date tentative)
 
-Will use same venue space as sprints. Food provided through sponsorship. 
+Will use same venue space as sprints. Food provided through sponsorship.
 
-Expected attendance: 40-50 attendees + 15 coaches 
+Expected attendance: 40-50 attendees + 15 coaches
