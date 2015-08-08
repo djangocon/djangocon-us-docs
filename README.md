@@ -16,6 +16,7 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
 ### Help is very much appreciated!
 
 - Join the team: [Organizers Mailing List](https://groups.google.com/forum/#!forum/djangocon-organizers)
+- Join us on [Slack](https://djangoconus.slack.com/)
 - Join us on IRC: DjangoCon Organizers IRC channel (#djangocon-organizers on irc.freenode.net)
 - Help us out:
     - [DjangoCon 2015 Tasks](https://github.com/djangocon/djangocon-us-docs/issues)
