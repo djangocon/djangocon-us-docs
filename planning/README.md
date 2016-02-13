@@ -2,31 +2,31 @@
 
 ## Conference Days
 
-Continental breakfast and lunch offered. Snacks optional but desirable.
+Continental breakfast and lunch offered. Snacks are optional, but desirable.
 
-### September 6: Tutorials
+### July 17th: Tutorials
 
-1-4 rooms, setup classroom style, each with projector, microphone, and extension cords for students to plug into. 2 rooms most desirable. Depending on number of rooms available, 50-200 people expected.
+4 rooms, setup classroom style, each with projector, microphone, and extension cords for students to plug into. 2 rooms most desirable. Depending on number of rooms available, 75-200 people expected.
 
-### September 7-9: Presentations
+### July 18th - 20th: Presentations
 
-Expected attendance: 250-400.
+Expected attendance: 450-500.
 
-Morning starts with a keynote, where all attendees must fit in a single room.
+Morning starts with a keynote, where 320 attendees will fit in one room and 125 in a spill over room.
 
 For rest of day, two rooms, setup theater or classroom style are desirable, to provide two presentation tracks. If venue cannot provide two rooms, one track is an acceptable alternative.
 
 Projector and at least one microphone needed. Potential for panels means chairs and more microphones needed for stage as well. Power cords for presenters a must. If classroom style, then power supplies for attendees is desirable as well.
 
-## Sprint Days
+### July 21st - 22nd: Sprint Days
 
-No venue space necessary; hotel block still available. No food provided.
+Wharton. Light lunch provided.
 
-Expected attendance: 50-150.
+Expected attendance: 150 - 200.
 
 Requires sprint venues, supplied by local businesses.
 
-## September 10: DjangoGirls Workshop (date tentative)
+## DjangoGirls Workshop? (date tentative)
 
 Will use same venue space as sprints. Food provided through sponsorship.
 
