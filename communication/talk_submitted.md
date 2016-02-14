@@ -1,3 +1,4 @@
+# Subject: Thanks for submitting to DjangoCon US! 
 Dear [name], 
 
 Thank you for submitting your talk [talk] to DjangoCon US! Your proposal has been submitted. 
