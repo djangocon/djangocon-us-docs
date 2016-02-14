@@ -17,6 +17,6 @@ This section contains sample emails that we send. Feel free to save locally and 
 - Sold Out  
 
 ## Code of Conduct 
-- Complaint that we have one 
-- Wondering if we have one 
-- Reporting a violation 
+- [Complaint that we have one](coc_complaint.md) 
+- [Wondering if we have one](coc_about.md) 
+- [Reporting a violation](coc_violation.md) 
