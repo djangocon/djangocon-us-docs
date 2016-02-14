@@ -1,3 +1,4 @@
+# Subject: Want to speak at DjangoCon US?
 Dear [Person],
 
 I'm familiar with your talk [talk] that you gave at [other conference], and I think it would be a great fit for DjangoCon. I'd like to invite you to submit that talk (or any other talk you think would be valuable to our community) to DjangoCon before our CFP closes on [date]. 
