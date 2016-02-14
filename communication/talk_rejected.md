@@ -1,3 +1,4 @@
+# DjangoCon US Proposal Decision
 Dear [name],
 
 Thank you very much for your DjangoCon US talk proposal. As you may know, we had record-breaking levels of talk submissions -- over [number]. Both the quantity and the quality of proposals were breathtaking. Sadly, we have just [number] spots on the schedule, so many excellent talks couldn't be accommodated. This was a gut-wrenching decision as there were many very good talks that were rejected simply because of a space limitation. 
