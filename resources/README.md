@@ -18,6 +18,10 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 
 - http://2015.djangocon.eu/code-conduct/
 
+## Communication 
+
+- [sample emails](../communication/README.md)
+
 ## Diversity
 
 - http://2015.djangocon.eu/welcome/diversity/
