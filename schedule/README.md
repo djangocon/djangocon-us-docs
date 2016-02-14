@@ -34,7 +34,7 @@ __2:20pm__ Talks (2 @ 25-minutes).
 
 __2:50pm__ Talks (2 @ 25-minutes).
 
-__3:20am__ Break (Basement).
+__3:20pm__ Break (Basement).
 
 __3:50pm__ Talks (2 @ 45-minutes).
 
@@ -68,7 +68,7 @@ __2:20pm__ Talks (2 @ 25-minutes).
 
 __2:50pm__ Talks (2 @ 25-minutes).
 
-__3:20am__ Break (Basement).
+__3:20pm__ Break (Basement).
 
 __3:50pm__ Talks (2 @ 45-minutes).
 
@@ -100,7 +100,7 @@ __2:20pm__ Talks (2 @ 25-minutes).
 
 __2:50pm__ Talks (2 @ 25-minutes).
 
-__3:20am__ Break (Basement).
+__3:20pm__ Break (Basement).
 
 __3:50pm__ Talks (2 @ 45-minutes).
 
