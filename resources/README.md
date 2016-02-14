@@ -18,7 +18,7 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 
 - [DjangoCon Europe 2015's](http://2015.djangocon.eu/code-conduct/)
 - [DjangoCon US 2015's](https://2015.djangocon.us/code_of_conduct/)
-- [DUtH's CoC Transparency Report](http://blog.djangounderthehood.com/post/132867126995/coc-transparency-report) (:star:)
+- [DUtH's CoC Transparency Report](http://blog.djangounderthehood.com/post/132867126995/coc-transparency-report) :star:
 
 ## Communication 
 
