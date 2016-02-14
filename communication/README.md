@@ -8,9 +8,9 @@ This section contains sample emails that we send. Feel free to save locally and 
 - [Talk Rejected](talk_rejected.md) 
 
 ## Financial Aid 
-- Application Submitted 
-- Application Accepted 
-- Application Rejected 
+- [Application Submitted](finaid_submitted.md) 
+- [Application Accepted](finaid_accepted.md) 
+- [Application Rejected](finaid_rejected.md)
 
 ## Tickets 
 - On Sale 
