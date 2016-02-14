@@ -2,10 +2,10 @@
 This section contains sample emails that we send. Feel free to save locally and edit as needed. 
 
 ## Talk Proposals 
-- Recruiting a Talk 
-- Talk Submitted 
-- Talk Accepted 
-- Talk Rejected 
+- [Recruiting a Talk](recruiting.md) 
+- [Talk Submitted](talk_submitted.md) 
+- [Talk Accepted](talk_accepted.md) 
+- [Talk Rejected](talk_rejected.md) 
 
 ## Financial Aid 
 - Application Submitted 
