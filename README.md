@@ -24,5 +24,5 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
 - Join us on [Slack](https://djangoconus.slack.com/)
 - Help us out:
     - [DjangoCon 2016 Tasks](https://github.com/djangocon/djangocon-us-docs/issues)
-    - [DjangoCon 2016 Website Specific Tasks](https://github.com/djangocon/djangocon.us/issues)
+    - [DjangoCon 2016 Website Specific Tasks](https://github.com/djangocon/2016.djangocon.us/issues)
 - Learn more: [DjangoCon 2016 Wiki](https://github.com/djangocon/djangocon-us-docs/wiki)
