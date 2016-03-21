@@ -19,7 +19,8 @@ This section contains sample emails that we send. Feel free to save locally and 
 
 ## Tickets 
 - On Sale 
-- Sold Out  
+- Sold Out 
+- [Why should I attend DjangoCon?](why-to-attend.md)
 
 ## Volunteers 
 - [Responding to potential volunteers](volunteer.md)
