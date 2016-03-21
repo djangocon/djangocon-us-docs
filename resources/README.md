@@ -64,6 +64,10 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 - http://2014.djangocon.us/hotels/
 - http://2015.djangocon.eu/welcome/venues/
 
+## Volunteers 
+
+- https://2016.djangocon.us/volunteers/ (Also the MailChimp volunteer signup form: http://eepurl.com/bUzUfr) 
+
 ## Often Missed Details
 
 ### Advice
