@@ -1,3 +1,5 @@
+[<- back to index](../README.md)
+
 # How to integrate a new team member
 
 1. Add to Trello / https://trello.com/djangoconus/members
