@@ -81,9 +81,9 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 ## Conference Meta
 
 - [A Forkable Conference](https://medium.com/node-js-javascript/a-forkable-conference-73cbac4842dd)
-- [Handbook for open-source software community conference organisers](https://github.com/evildmp/conference-handbook)
-- [List of well designed conferences](https://github.com/olasitarska/pretty-conferences)
 - [Django Girls Organizer Manual](https://github.com/DjangoGirls/organizer-manual) - A great example of creating an organizer manual.
+- [Handbook for open-source software community conference organisers](https://github.com/evildmp/conference-handbook) by [Daniele Procida](https://github.com/evildmp) 
+- [List of well designed conferences](https://github.com/olasitarska/pretty-conferences) by [Ola Sitarska](https://github.com/olasitarska/pretty-conferences)
 
 ## Night Outings
 
