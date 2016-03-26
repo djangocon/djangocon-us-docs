@@ -84,7 +84,8 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 - [Django Girls Organizer Manual](https://github.com/DjangoGirls/organizer-manual) - A great example of creating an organizer manual.
 - [Handbook for open-source software community conference organisers](https://github.com/evildmp/conference-handbook) by [Daniele Procida](https://github.com/evildmp) 
 - [List of well designed conferences](https://github.com/olasitarska/pretty-conferences) by [Ola Sitarska](https://github.com/olasitarska/pretty-conferences)
-
+- [Write the Docs Organizer Manual](https://github.com/writethedocs/organizer-manual) by [Eric Holscher](https://github.com/ericholscher)
+- [From Python Import Conference](https://github.com/jnoller/conference) by [Jesse Noller](https://github.com/jnoller)
 ## Night Outings
 
 - http://2014.djangocon.us/night_outings/
