@@ -7,6 +7,10 @@
 - Workshops
 - Lightning Talks
 
+## Resources
+
+- [Tutorial FAQ Email](email-tutorial-faqs.md)
+
 ## Checklists
 
 ### Keynote Selection
