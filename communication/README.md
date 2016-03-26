@@ -31,7 +31,6 @@ This section contains sample emails that we send. Feel free to save locally and 
 
 ## Tasks
 
-
 - [ ] Email all attendees 1 month before DjangoCon
 - [ ] Do two email blasts to user groups (call for proposals, registration)
 - [ ] Update the @DjangoCon twitter account bio with the new DjangoCon US dates
