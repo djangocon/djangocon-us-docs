@@ -21,3 +21,5 @@
 - [ ] Email all session chairs and runners before the conference with more info
 - [ ] Save that email in this repo for future reference
 - [ ] Make sure session staff know about any messages that should be announced
+
+## [Roles](roles.md)
