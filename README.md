@@ -13,7 +13,6 @@ DjangoCon US is organized and run by volunteers from the Python and Django commu
 As a contributor, you can help us keep the Django community open and inclusive.
 Please read and follow our [Code of Conduct](https://www.djangoproject.com/conduct/).
 
-
 ## Table of Contents
 
 ### Want to help? Here's how!
@@ -27,3 +26,24 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
     - [DjangoCon 2016 Website Specific Tasks](https://github.com/djangocon/2016.djangocon.us/issues)
     - [DjangoCon 2016 volunteer sign-up form](http://eepurl.com/bUzUfr): used for both volunteer opportunities before the conference, and onsite at the conference. 
 - Learn more: [DjangoCon 2016 Wiki](https://github.com/djangocon/djangocon-us-docs/wiki)
+
+### Sections
+
+- [budget](budget/README.md)
+- [communication](communication/README.md)
+- [design](design/README.md)
+- [diversity](diversity/README.md)
+- [documents](documents/README.md)
+- [financialaid](financialaid/README.md)
+- [general](general/README.md)
+- [howtos](howtos/README.md)
+- [planning](planning/README.md)
+- [program](program/README.md)
+- [registration](registration/README.md)
+- [resources](resources/README.md)
+- [schedule](schedule/README.md)
+- [sponsors](sponsors/README.md)
+- [sprints](sprints/README.md)
+- [tickets](tickets/README.md)
+- [venue](venue/README.md)
+- [volunteers](volunteers/README.md)
