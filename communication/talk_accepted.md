@@ -1,4 +1,5 @@
 # Subject: Speaking at DjangoCon US
+
 Dear [name],
 
 I'm pleased to tell you that your talk [talk] has been accepted for DjangoCon US [year]. Congratulations!

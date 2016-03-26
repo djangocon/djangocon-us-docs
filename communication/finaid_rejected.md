@@ -1,4 +1,5 @@
 # Subject: DjangoCon US Financial Aid Decision
+
 Dear name,
 
 Thank you for applying for the DjangoCon US [year] financial aid program. We had many deserving applicants, but unfortunately we were not able to provide grants to all who applied. We regret to inform you that you have not been selected for a grant.
