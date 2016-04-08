@@ -28,6 +28,10 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 
 - http://2015.djangocon.eu/welcome/diversity/
 
+## Positivity
+
+https://github.com/erikr/happinesspackets/
+
 ## Registration
 
 - http://2014.djangocon.us/registration_info/
@@ -73,6 +77,7 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 ### Advice
 
 - http://2015.djangocon.eu/welcome/advice/
+- [Erik Romijn's](https://github.com/erikr) [The Less Obvious Conference Checklist](https://github.com/erikr/lessobviouschecklist)
 
 ### Sustainability
 
