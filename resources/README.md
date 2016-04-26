@@ -6,14 +6,6 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 
 - http://2015.djangocon.eu/welcome/accessibility/
 
-## Call for Proposals
-
-- http://2014.djangocon.us/lightning_talks_open_spaces/
-- http://2015.djangocon.eu/proposals/
-- http://2015.pycon-au.org/cfp
-- https://github.com/nodeconf/US-CFP
-- https://us.pycon.org/2015/speaking/cfp/
-
 ## Code of Conduct
 
 - [Code of Conduct incident response process](https://github.com/olasitarska/coc-incident-process)
@@ -32,6 +24,20 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 ## Positivity
 
 https://github.com/erikr/happinesspackets/
+
+## Program 
+
+### Call for Proposals Examples
+
+- http://2014.djangocon.us/lightning_talks_open_spaces/
+- http://2015.djangocon.eu/proposals/
+- http://2015.pycon-au.org/cfp
+- https://github.com/nodeconf/US-CFP
+- https://us.pycon.org/2015/speaking/cfp/
+
+### Talk Accepted
+
+- http://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/
 
 ## Registration
 
