@@ -29,7 +29,7 @@
 
 ### Talks
 
-- [ ] Reset the djangocon-pc@googlegroups.com mailing list
+- [ ] Reset the reviewers@djangocon.us mailing list
 - [ ] Update the call for proposal pages
 - [ ] Enable talk proposals on the site
 - [ ] Review proposals
