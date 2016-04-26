@@ -8,7 +8,7 @@
   - [ ] menstrual pads
   - [ ] tampons
   - [ ] individually-wrapped Claritin or other allergy tablets
-  - [ ] individually-wrapped Advil or other painkiller tablets
+  - [ ] individually-wrapped Tylenol or other painkiller tablets* 
   - [ ] bottles of Tums or other stomach medicine 
   - [ ] small bottles of lotion 
   - [ ] small bottles of hairspray
@@ -20,3 +20,5 @@
 4. Place baskets on counters in all bathrooms. Be gender-inclusive and put all items in all baskets (some men menstruate, for example). 
 5. Check on baskets at lunch and replenish if need be. 
 6. Remove baskets at the end of the conference day, and replenish and replace the next morning. 
+
+* Tylenol is an ideal painkiller because most pregnant women are able to take it, and they generally should avoid other painkillers. 
