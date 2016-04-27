@@ -1,3 +1,5 @@
+[<- back to index](../README.md)
+
 # Resources
 
 Knowing what belongs on a conference website is a challenge. Here are some resources for how other conferences and friends do it.
@@ -35,6 +37,14 @@ https://github.com/erikr/happinesspackets/
 - https://github.com/nodeconf/US-CFP
 - https://us.pycon.org/2015/speaking/cfp/
 
+### Speaker Mentors
+
+- http://2015.djangocon.eu/proposals/speaker-mentors/
+
+### Sprints
+
+- http://2014.djangocon.us/sprints/
+
 ### Talk Accepted
 
 - http://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/
@@ -49,18 +59,10 @@ https://github.com/erikr/happinesspackets/
 
 - http://2015.djangocon.eu/welcome/social-responsibility/
 
-## Speaker Mentors
-
-- http://2015.djangocon.eu/proposals/speaker-mentors/
-
 ## Sponsorship
 
 - http://2015.djangocon.eu/sponsorship/
 - http://2015.djangocon.eu/sponsorship/sponsorship-terms/
-
-## Sprints
-
-- http://2014.djangocon.us/sprints/
 
 ## Travel
 
