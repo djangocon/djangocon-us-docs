@@ -1,4 +1,3 @@
-
 Hello everyone,
 
 DjangoCon US is {{tutorial_start_date|weeks}} weeks away and I wanted to go over a few things with everyone. My apologies for the delay.
@@ -44,5 +43,3 @@ These range from 7 to 25, but we still have two+ weeks left to market them. Emai
 ## Can we promote our own tutorials?
 
 Not only can you promote your own tutorials, we would really appreciate if you would promote your tutorial via Twitter and social media :)
-
-
