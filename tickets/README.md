@@ -14,7 +14,7 @@ Late prices / day of event pricing. Since we sold out during our early bird pric
 
 Ticket tiers:
 
-1. Reduced rate (Student and Diversity)
+1. Reduced rate (Student, Diversity, and Unemployed)
 2. Individual
 3. Corporate
 4. Volunteer-only
@@ -31,7 +31,7 @@ Take your total venue capacity and subtract out reserved tickets for volunteers,
 
 ### How do I determine what our tickets should cost?
 
-We use three basic pricing tiers with DjangoCon: reduced, individual, and corporate tiers. Our goal was to price our individual tickets just above our theoretical cost. Our break even per attendee before taxes and ticket fees was around $425 which we upped to $495 to cover these fees, taxes, and charge.
+We use three basic pricing tiers with DjangoCon: reduced, individual, and corporate tiers. Our goal was to price our individual tickets just above our theoretical cost. Our break even per attendee before taxes and ticket fees was around $425 which we upped to $495 to cover these fees, taxes, and charges.
 
 We priced our reduced rate tickets below our cost and lowered our price by $200 to $295. These tickets are intended for students and diversity groups which we want to encourage to attend our event without pricing them out of the conference. 
 
