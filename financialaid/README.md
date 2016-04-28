@@ -10,6 +10,9 @@
 
 ## Tasks
 
+- [ ] Reset the djangocon-aid@googlegroups.com mailing list
+- [ ] Determine the financial aid ticket price
+- [ ] Determine the financial aid tiers
 - [x] Determine the financial aid selection criteria
 - [x] Update the financial workflow in the app
 - [x] Update the financial aid page on the site
