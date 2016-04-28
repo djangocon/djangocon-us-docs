@@ -4,16 +4,15 @@
 
 ## Roles and Volunteers
 
-- Conference Chair
-- Conference Co-Chair
+- Conference Chair/Co-Chair
 - Treasurer
-- Program Chair
+- Program Chair/Co-Chair
 - Diversity and Outreach Chair
 - Website and Technical Lead
 - Graphics Lead
 - Fundraising Chair
 - Fundraising Co-Chair
-- Publicity Chair
+- Publicity/Communications Chair
 - Lightning Talk Coordinator
 - Volunteer Coordinator
 - Speaker Liaison
@@ -28,7 +27,7 @@ Other positions mentioned:
 
 ## Role Descriptions
 
-### Conference Chair
+### Conference Chair/Co-Chair
 
 General manager of the show, responsible for overall project management. Responsible for identifying high-level tasks that need to be performed, ensuring people are found to perform those tasks, that timelines for those tasks are set and met, and that work is performed at an adequate standard. Co-responsible for finding keynote speakers. Responsible for providing opening and closing remarks at the conference itself.
 
@@ -36,18 +35,15 @@ General manager of the show, responsible for overall project management. Respons
 
 Keeper of the books and bank accounts. Responsible for developing and tracking the budget, paying debtors, tracking down creditors. 
 
-### Program Chair
+### Program Chair/Co-Chair
 
 Responsible for ensuring we have content to fill the show. Responsible for managing the call for papers, finding reviewers and managing the review process. During the conference, responsible for managing any last-minute issues that arise with presentations (e.g., no-shows or last minute withdrawals). Co-responsible with Conference chair for finding keynote speakers.
 
 ### Diversity and Outreach Chair
 
-- doing outreach to encourage a diverse speaker lineup AND participant sign-ups
-- staying educated about the Code of Conduct, advising on how to enforce it
-during the conference, holding the "CoC phone" (answering calls/complaints)
-- staying involved in other aspects of the conference planning, to give feedback on ways to encourage diversity in participation
+Responsible for doing outreach to encourage a diverse speaker lineup AND participant sign-ups, staying educated about the Code of Conduct, advising on how to enforce it during the conference, holding the "CoC phone" (answering calls/complaints). Staying involved in other aspects of the conference planning, to give feedback on ways to encourage diversity in participation. Actively ensuring accessibility of the conference website and the conference itself
 
-### Publicity Chair
+### Publicity/Communications Chair
 
 Responsible for making sure that conference messages are well communicated. Responsible for publishing (and writing, as necessary) blog entries, social media campaigns, etc. Responsible for developing the “buzz” around the event prior to the event itself.
 > The Django Circus people definitely did an outstanding job. Unfortunately I was pushing most the announcements and with a three day conference it took me a few days to figure out what I should even be posting. In the future with some organization then it should be straight forward but again, I'd love for someone to own this and coordinate it with a plan.
