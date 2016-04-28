@@ -18,6 +18,7 @@ Knowing what belongs on a conference website is a challenge. Here are some resou
 ## Communication 
 
 - [sample emails](../communication/README.md)
+- [Awesome acceptance letter](http://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/)
 
 ## Diversity
 
