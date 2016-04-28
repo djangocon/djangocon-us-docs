@@ -4,12 +4,23 @@
 
 ## Tasks
 
-- [ ] Brainstorm fun ideas
-- [ ] Determine budget for design
-- [ ] Determine budget for website
-- [ ] Determine budget for financial aid
-- [ ] Determine budget for swag
-- [ ] Determine budget for t-shirts
-- [ ] Determine budget for the opening reception
+- [x] Brainstorm fun ideas
+- [x] Determine budget for design
+- [x] Determine budget for website
+- [x] Determine budget for financial aid
+- [x] Determine budget for recording 
+- [x] Determine budget for photographer
+- [x] Determine budget for swag
+- [x] Determine budget for t-shirts
+- [x] Determine budget for the opening reception
+- [x] Determine budget for child care 
+- [x] Determine budget for accessibility enhancements (live captioning, bathroom baskets) 
 - [ ] Review budget with the DEFNA board
 - [ ] Enter all DjangoCon US expenses
+- [ ] Sign contracts with vendors 
+  - [ ] Photographer 
+  - [ ] Venue/Caterer 
+  - [ ] Recording team 
+  - [ ] Live captioner 
+  - [ ] Child care provider 
+- [ ] Allocate financial aid 
