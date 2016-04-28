@@ -6,8 +6,8 @@
 
 ### Volunteers
 
-- [ ] Update the volunteer pages on the site
-- [ ] Do *not* reset the organizers mailing list djangocon-organizers@googlegroups.com
+- [x] Update the volunteer pages on the site
+- [x] Do *not* reset the organizers mailing list djangocon-organizers@googlegroups.com
 - [ ] Help answer emails on the organizers mailing list
 - [ ] Create the on-site volunteering spreadsheet (reg desk, swag had out, etc)
 - [ ] Email volunteers before DjangoCon with more details, where they should meet etc
