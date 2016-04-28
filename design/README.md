@@ -7,24 +7,24 @@
 ### Website
 
 - [ ] Make past DjangoCon US site static
-- [ ] Branding & design pass [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Branding)
-- [ ] Stand up new DjangoCon US site
-- [ ] Compile a wish-list of website improvements
-- [ ] Determine who will be making these improvements
-- [ ] Replace all references to 2015 with 2016
-- [ ] Review all content to make sure it's current (English)
+- [x] Branding & design pass [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Branding)
+- [x] Stand up new DjangoCon US site
+- [x] Compile a wish-list of website improvements
+- [x] Determine who will be making these improvements
+- [x] Replace all references to 2015 with 2016
+- [x] Review all content to make sure it's current (English)
 
 ### Swag
 
-- [ ] Design DjangoCon US stickers
+- [x] Design DjangoCon US stickers
 - [ ] Order DjangoCon US stickers
-- [ ] Design DjangoCon US swag bag
+- [x] Design DjangoCon US swag bag
 - [ ] Order DjangoCon US swag bag
-- [ ] Brainstorm a fun DjangoCon US souvenir (travel mug, etc)
+- [x] Brainstorm a fun DjangoCon US souvenir (travel mug, etc)
 - [ ] Water table during swag bag stuffing
 - [ ] Music during swag bag stuffing
 - [ ] Better box cutters for opening swag boxes
-- [ ] Add volunteer slot to swag bag stuffing setup
+- [x] Add volunteer slot to swag bag stuffing setup
 
 ### Pictures
 
@@ -56,11 +56,11 @@
 
 - [ ] Determine a printer
 - [ ] Publish the sizes & t-shirt brand in advance
-- [ ] Design
+- [x] Design
 - [ ] Staff shirts
 - [ ] Order them
 
-## Print Program
+## Print Program -- not doing for 2016 
 
 - [ ] Determine who will be making the print program
 - [ ] Print program cover design & review
@@ -78,6 +78,6 @@
 - [ ] Determine how many print programs to order
 - [ ] Order them
 
-### Printed Schedule Handout
+### Printed Schedule Handout -- not doing for 2016
 
 - [ ] Compile a list of all events (rooms, times)
