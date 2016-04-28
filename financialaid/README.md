@@ -10,10 +10,10 @@
 
 ## Tasks
 
-- [ ] Determine the financial aid selection criteria
-- [ ] Update the financial workflow in the app
-- [ ] Update the financial aid page on the site
-- [ ] Use consistent naming on the website: financial *aid*, not assistance
+- [x] Determine the financial aid selection criteria
+- [x] Update the financial workflow in the app
+- [x] Update the financial aid page on the site
+- [x] Use consistent naming on the website: financial *aid*, not assistance
 - [ ] Review the financial aid applications
 - [ ] Generate financial aid promo codes for registration
 - [ ] Make sure financial aid recipients can register for one tutorial at a reduced rate
