@@ -15,7 +15,7 @@
 
 ### Keynote Selection
 
-- [ ] Ask the community for input [PyCon example](https://pycon.wufoo.eu/forms/pycon-2015-keynote-suggestions/)
+- [x] Ask the community for input [PyCon example](https://pycon.wufoo.eu/forms/pycon-2015-keynote-suggestions/)
 - [ ] Have a committee determine the keynotes
 - [ ] Reach out to the keynotes
 - [ ] Collect the keynote bios and headshots
@@ -29,13 +29,13 @@
 
 ### Talks
 
-- [ ] Reset the reviewers@djangocon.us mailing list
-- [ ] Update the call for proposal pages
-- [ ] Enable talk proposals on the site
+- [x] Reset the reviewers@djangocon.us mailing list
+- [x] Update the call for proposal pages
+- [x] Enable talk proposals on the site
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Draft & send the accept/decline emails
-- [ ] Save those emails in this repo for future reference
+- [x] Save those emails in this repo for future reference
 - [ ] Determine the talk schedule
 - [ ] Publish the talk schedule
 - [ ] Email all speakers with A/V requirements etc before DjangoCon US
@@ -44,8 +44,8 @@
 
 ### Tutorials
 
-- [ ] Update the call for proposal pages
-- [ ] Enable tutorial proposals on the site
+- [x] Update the call for proposal pages
+- [x] Enable tutorial proposals on the site
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Determine tutorial stipend amount
