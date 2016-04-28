@@ -33,21 +33,26 @@ This section contains sample emails that we send. Feel free to save locally and 
 
 - [ ] Email all attendees 1 month before DjangoCon
 - [ ] Do two email blasts to user groups (call for proposals, registration)
-- [ ] Update the @DjangoCon twitter account bio with the new DjangoCon US dates
+- [x] Update the @DjangoCon twitter account bio with the new DjangoCon US dates
 - [ ] Blog call for launch day sponsors [PyCon example](http://pycon.blogspot.ca/2014/06/call-for-pycon-2015-launch-day-sponsors.html)
-- [ ] Blog site launch [PyCon example](http://pycon.blogspot.ca/2014/07/pycon-2015-has-launched.html)
-- [ ] Blog call for proposals - talks [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
-- [ ] Blog call for proposals - tutorials [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
-- [ ] Blog call for proposal reviewers [PyCon example](http://pycon.blogspot.ca/2014/09/update-on-talks-tutorials-program.html)
-- [ ] Blog financial aid [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
-- [ ] Blog call for proposals reminders [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
-- [ ] Blog registration opens [PyCon example](http://pycon.blogspot.ca/2014/09/pycon-2015-registration-is-open.html)
-- [ ] Blog early bird ticket warning [PyCon example](http://pycon.blogspot.ca/2014/10/posters-due-november-1-early-bird.html)
+- [x] Blog site launch [PyCon example](http://pycon.blogspot.ca/2014/07/pycon-2015-has-launched.html)
+- [x] Blog call for proposals - talks [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
+- [x] Blog call for proposals - tutorials [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
+- [x] Blog call for proposal reviewers [PyCon example](http://pycon.blogspot.ca/2014/09/update-on-talks-tutorials-program.html)
+- [x] Blog financial aid [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
+- [x] Blog call for proposals reminders [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
+- [x] Blog registration opens [PyCon example](http://pycon.blogspot.ca/2014/09/pycon-2015-registration-is-open.html)
+- [x] Blog early bird ticket warning [PyCon example](http://pycon.blogspot.ca/2014/10/posters-due-november-1-early-bird.html)
 - [ ] Blog keynote selection
+- [ ] Blog proposal stats 
 - [ ] Blog accepted talks, tutorials [PyCon example](http://pycon.blogspot.ca/2014/12/pycon-2015-tutorial-schedule-announced.html), and posters
-- [ ] Blog financial aid reminder [PyCon example](http://pycon.blogspot.ca/2014/12/financial-aid-applications-due-january-1.html)
+- [x] Blog financial aid reminder [PyCon example](http://pycon.blogspot.ca/2014/12/financial-aid-applications-due-january-1.html)
 - [ ] Blog tutorial schedule and registration [PyCon example](http://pycon.blogspot.ca/2014/12/pycon-2015-tutorial-schedule-announced.html)
 - [ ] Blog talk schedule [PyCon example](http://pycon.blogspot.ca/2015/01/pycon-2015-schedule-announced.html)
+- [ ] Blog accommodation options 
+- [ ] Blog child care 
+- [ ] Blog "Who are the organizers?" 
+- [ ] Blog call for volunteers 
 - [ ] Blog sold out warning
 - [ ] Blog sold out
 - [ ] Blog sprints [PyCon example](http://pycon.blogspot.ca/2014/12/whats-so-special-about-sprints.html)
@@ -57,7 +62,7 @@ This section contains sample emails that we send. Feel free to save locally and 
 - [ ] Blog about tutorials, final registration push
 - [ ] Blog about the opening reception
 - [ ] Blog about onsite lightning talk selection
-- [ ] Blog about the location of DjangoCon US 2016
+- [x] Blog about the location of DjangoCon US 2016
 - [ ] Blog DjangoCon US re-cap
 - [ ] Blog Thanks!
 - [ ] Monitor twitter on-site during DjangoCon US
