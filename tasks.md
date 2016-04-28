@@ -1,20 +1,20 @@
 # DjangoCon US Checklist
 
-- [ ] Create a new DjangoCon US repo (wiki, etc)
+- [x] Create a new DjangoCon US repo (wiki, etc)
 - [ ] Thank you blog post
 - [ ] Solicit post-mortem feedback from staff
-- [ ] Enter DjangoCon US 2015 expenses
-- [ ] Backup DjangoCon US 2015 Wufoo data
-- [ ] Add the Confreaks & Slidedeck links to the DjangoCon US 2014 schedule pages
-- [ ] Fill existing DjangoCon US staff roles (use wiki, since site isn't launched yet)
+- [x] Enter DjangoCon US prior year expenses
+- [x] Backup DjangoCon US prior year Wufoo data
+- [x] Add the Confreaks & Slidedeck links to the DjangoCon US prior year schedule pages
+- [x] Fill existing DjangoCon US staff roles (use wiki, since site isn't launched yet)
 - [ ] Identify and fill new staff roles
-- [ ] Review the past DjangoCon US survey results
-- [ ] Determine tentative dates [PyCon example](https://github.com/PyCon/2015/wiki#tentative-dates) (attendee focused)
-- [ ] Determine tentative milestones [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Milestones) (staff focused)
+- [x] Review the past DjangoCon US survey results
+- [x] Determine tentative dates [PyCon example](https://github.com/PyCon/2015/wiki#tentative-dates) (attendee focused)
+- [x] Determine tentative milestones [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Milestones) (staff focused)
 
 ## DjangoCon US Staff
 
-- [ ] Reset/cull staff mailing list (djangocon-staff@googlegroups.com)
+- [x] Reset/cull staff mailing list (djangocon-staff@googlegroups.com)
 - [ ] Update staff page on the site
 - [ ] Schedule monthly staff meetings
 - [ ] Succession planning
@@ -22,35 +22,51 @@
 
 ## Budget
 
-- [ ] Brainstorm fun ideas
-- [ ] Determine budget for design
-- [ ] Determine budget for website
-- [ ] Determine budget for financial aid
-- [ ] Determine budget for swag
-- [ ] Determine budget for t-shirts
-- [ ] Determine budget for the opening reception
+- [x] Brainstorm fun ideas
+- [x] Determine budget for design
+- [x] Determine budget for website
+- [x] Determine budget for financial aid
+- [x] Determine budget for recording 
+- [x] Determine budget for photographer
+- [x] Determine budget for swag
+- [x] Determine budget for t-shirts
+- [x] Determine budget for the opening reception
+- [x] Determine budget for child care 
+- [x] Determine budget for accessibility enhancements (live captioning, bathroom baskets) 
 - [ ] Review budget with the DEFNA board
 - [ ] Enter all DjangoCon US expenses
+- [ ] Sign contracts with vendors 
+  - [ ] Photographer 
+  - [ ] Venue/Caterer 
+  - [ ] Recording team 
+  - [ ] Live captioner 
+  - [ ] Child care provider 
+- [ ] Allocate financial aid 
 
 ## Communications
 
 - [ ] Email all attendees 1 month before DjangoCon
 - [ ] Do two email blasts to user groups (call for proposals, registration)
-- [ ] Update the @DjangoCon twitter account bio with the new DjangoCon US dates
+- [x] Update the @DjangoCon twitter account bio with the new DjangoCon US dates
 - [ ] Blog call for launch day sponsors [PyCon example](http://pycon.blogspot.ca/2014/06/call-for-pycon-2015-launch-day-sponsors.html)
-- [ ] Blog site launch [PyCon example](http://pycon.blogspot.ca/2014/07/pycon-2015-has-launched.html)
-- [ ] Blog call for proposals - talks [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
-- [ ] Blog call for proposals - tutorials [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
-- [ ] Blog call for proposal reviewers [PyCon example](http://pycon.blogspot.ca/2014/09/update-on-talks-tutorials-program.html)
-- [ ] Blog financial aid [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
-- [ ] Blog call for proposals reminders [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
-- [ ] Blog registration opens [PyCon example](http://pycon.blogspot.ca/2014/09/pycon-2015-registration-is-open.html)
-- [ ] Blog early bird ticket warning [PyCon example](http://pycon.blogspot.ca/2014/10/posters-due-november-1-early-bird.html)
+- [x] Blog site launch [PyCon example](http://pycon.blogspot.ca/2014/07/pycon-2015-has-launched.html)
+- [x] Blog call for proposals - talks [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
+- [x] Blog call for proposals - tutorials [PyCon example](http://pycon.blogspot.ca/2014/08/pycon-2015-call-for-proposals-is-open.html)
+- [x] Blog call for proposal reviewers [PyCon example](http://pycon.blogspot.ca/2014/09/update-on-talks-tutorials-program.html)
+- [x] Blog financial aid [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
+- [x] Blog call for proposals reminders [PyCon example](http://pycon.blogspot.ca/2014/09/last-chance-to-submit-talk-or-tutorial.html)
+- [x] Blog registration opens [PyCon example](http://pycon.blogspot.ca/2014/09/pycon-2015-registration-is-open.html)
+- [x] Blog early bird ticket warning [PyCon example](http://pycon.blogspot.ca/2014/10/posters-due-november-1-early-bird.html)
 - [ ] Blog keynote selection
+- [ ] Blog proposal stats 
 - [ ] Blog accepted talks, tutorials [PyCon example](http://pycon.blogspot.ca/2014/12/pycon-2015-tutorial-schedule-announced.html), and posters
-- [ ] Blog financial aid reminder [PyCon example](http://pycon.blogspot.ca/2014/12/financial-aid-applications-due-january-1.html)
+- [x] Blog financial aid reminder [PyCon example](http://pycon.blogspot.ca/2014/12/financial-aid-applications-due-january-1.html)
 - [ ] Blog tutorial schedule and registration [PyCon example](http://pycon.blogspot.ca/2014/12/pycon-2015-tutorial-schedule-announced.html)
 - [ ] Blog talk schedule [PyCon example](http://pycon.blogspot.ca/2015/01/pycon-2015-schedule-announced.html)
+- [ ] Blog accommodation options 
+- [ ] Blog child care 
+- [ ] Blog "Who are the organizers?" 
+- [ ] Blog call for volunteers 
 - [ ] Blog sold out warning
 - [ ] Blog sold out
 - [ ] Blog sprints [PyCon example](http://pycon.blogspot.ca/2014/12/whats-so-special-about-sprints.html)
@@ -60,7 +76,7 @@
 - [ ] Blog about tutorials, final registration push
 - [ ] Blog about the opening reception
 - [ ] Blog about onsite lightning talk selection
-- [ ] Blog about the location of DjangoCon US 2016
+- [x] Blog about the location of DjangoCon US 2016
 - [ ] Blog DjangoCon US re-cap
 - [ ] Blog Thanks!
 - [ ] Monitor twitter on-site during DjangoCon US
@@ -85,24 +101,24 @@
 
 ## Website
 
-- [ ] Make past DjangoCon US site static
-- [ ] Branding & design pass [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Branding)
-- [ ] Stand up new DjangoCon US site
-- [ ] Compile a wish-list of website improvements
-- [ ] Determine who will be making these improvements
-- [ ] Replace all references to 2015 with 2016
-- [ ] Review all content to make sure it's current (English)
+- [x] Make past DjangoCon US site static
+- [x] Branding & design pass [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Branding)
+- [x] Stand up new DjangoCon US site
+- [x] Compile a wish-list of website improvements
+- [x] Determine who will be making these improvements
+- [x] Replace all references to prior year with new year
+- [x] Review all content to make sure it's current (English)
 
 ## Misc Tech
 
-- [ ] Solve the mass email problem (mailgun?)
-- [ ] Update DjangoCon.us site to be more current
-- [ ] Password manager
+- [x] Solve the mass email problem (MailChimp!)
+- [x] Update DjangoCon.us site to be more current
+- [x] Password manager
 - [ ] Notify Freenode as soon as we know our IP for the conference
 
 ## Keynote Selection
 
-- [ ] Ask the community for input [PyCon example](https://pycon.wufoo.eu/forms/pycon-2015-keynote-suggestions/)
+- [x] Ask the community for input [PyCon example](https://pycon.wufoo.eu/forms/pycon-2015-keynote-suggestions/)
 - [ ] Have a committee determine the keynotes
 - [ ] Reach out to the keynotes
 - [ ] Collect the keynote bios and headshots
@@ -119,10 +135,10 @@
 - [ ] Reset the djangocon-aid@googlegroups.com mailing list
 - [ ] Determine the financial aid ticket price
 - [ ] Determine the financial aid tiers
-- [ ] Determine the financial aid selection criteria
-- [ ] Update the financial workflow in the app
-- [ ] Update the financial aid page on the site
-- [ ] Use consistent naming on the website: financial *aid*, not assistance
+- [x] Determine the financial aid selection criteria
+- [x] Update the financial workflow in the app
+- [x] Update the financial aid page on the site
+- [x] Use consistent naming on the website: financial *aid*, not assistance
 - [ ] Review the financial aid applications
 - [ ] Generate financial aid promo codes for registration
 - [ ] Make sure financial aid recipients can register for one tutorial at a reduced rate
@@ -141,25 +157,25 @@
 
 ## Registration
 
-- [ ] Reset the hello@djangocon.us mailing list
+- [x] Reset the hello@djangocon.us mailing list
 - [ ] Determine which events will use the DjangoCon US registration system
 - [ ] Determine which events will use something else like Eventbrite
-- [ ] Determine this year's conference prices
-- [ ] Update the registration pages with prices etc
+- [x] Determine this year's conference prices
+- [x] Update the registration pages with prices etc
 - [ ] Make sure the registration system supports Unicode characters
-- [ ] Make the registration page "looks" better
-- [ ] Add a registration FAQ to the registration menu
+- [x] Make the registration page "looks" better
+- [x] Add a registration FAQ to the registration menu
 - [ ] Help answer misc emails to the registration mailing list
 
 ## Talks
 
-- [ ] Reset the djangocon-pc@googlegroups.com mailing list
-- [ ] Update the call for proposal pages
-- [ ] Enable talk proposals on the site
+- [x] Reset the reviewers@djangocon.us mailing list
+- [x] Update the call for proposal pages
+- [x] Enable talk proposals on the site
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Draft & send the accept/decline emails
-- [ ] Save those emails in this repo for future reference
+- [x] Save those emails in this repo for future reference
 - [ ] Determine the talk schedule
 - [ ] Publish the talk schedule
 - [ ] Email all speakers with A/V requirements etc before DjangoCon US
@@ -168,8 +184,8 @@
 
 ## Tutorials
 
-- [ ] Update the call for proposal pages
-- [ ] Enable tutorial proposals on the site
+- [x] Update the call for proposal pages
+- [x] Enable tutorial proposals on the site
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Determine tutorial stipend amount
@@ -206,41 +222,96 @@
 ## Sprints
 
 - [ ] Update the sprints pages on the site
-- [ ] Encourage projects to have a list of easy tickets ready and publish them beforehand
+- [ ] Encourage projects to have a list of easy tickets ready and publish them beforehand. Projects to reach out to: 
+  - [ ] Django 
+  - [ ] PyBee 
+  - [ ] Django Girls 
+  - [ ] PyLadies 
+  - [ ] Who else?  
 - [ ] Brainstorm ways to make sprints friendlier to new contributors
 - [ ] Make sure sprint supplies have been ordered
 - [ ] Create the sprint room allocation boards
 - [ ] Make sure sprinters know when & where lunch is so food isn't wasted
 - [ ] Check the temperature of the sprints rooms
+- [ ] Recruit sprint mentors 
+- [ ] Verify strong wifi in the venue 
 
 ## Swag
 
-- [ ] Design DjangoCon US stickers
+- [x] Design DjangoCon US stickers
 - [ ] Order DjangoCon US stickers
-- [ ] Design DjangoCon US swag bag
+- [x] Design DjangoCon US swag bag
 - [ ] Order DjangoCon US swag bag
-- [ ] Brainstorm a fun DjangoCon US souvenir (travel mug, etc)
+- [x] Brainstorm a fun DjangoCon US souvenir (travel mug, etc)
 - [ ] Water table during swag bag stuffing
 - [ ] Music during swag bag stuffing
 - [ ] Better box cutters for opening swag boxes
-- [ ] Add volunteer slot to swag bag stuffing setup
+- [x] Add volunteer slot to swag bag stuffing setup
 
 ## Opening Reception
 
-- [ ] TODO
+- [ ] Recruit sponsor 
+- [ ] Book venue 
+- [ ] Book food and drink (ensure a variety of non-alcoholic offerings, and food)
+- [ ] Add to website 
+- [ ] Tweet and blog about opening reception 
+- [ ] Tweet thanks
 
 ## Outreach
 
-- [ ] TODO
+### Call for Proposals 
+
+- [x] Reach out to PyLadies 
+- [x] Reach out to Django Girls 
+- [x] Reach out to Women of Color in Tech Chat 
+- [x] Reach out to CodeNewbies 
+- [x] Reach out to TransHack 
+- [x] Reach out to Callback Women 
+- [x] Reach out to GirlDevelopIt 
+- [x] Reach out to RailsGirls (some of those women probably also do Django!)
+- [x] Reach out to ChickTech 
+- [x] Look at other national and regional conferences and reach out to speakers who would be a good fit for DjangoCon to ask them to submit, especially on diverse topics such as: 
+  - [x] mental health 
+  - [x] committing to open source 
+  - [x] diversity in tech (women, people of color, parents, older people, veterans, LGBTQIA+ people, etc.)
+  - [x] teaching/mentoring 
+  - [x] community 
+- [x] Reach out to active regional diversity groups 
+- [x] Post CFP on r/PyLadies, r/Django, and r/Python with encouragement of underrepresented people to submit 
+- [x] Ask the committee and your social network for people who would make great (first-time) speakers 
+- [x] Email those people and personally invite them to submit talks
+- [ ] Review submissions, with an eye toward topic diversity (since submitters are anonymous in the review process)
+
+### Financial Aid 
+
+- [x] Reach out to PyLadies 
+- [x] Reach out to Django Girls 
+- [x] Reach out to Women of Color in Tech Chat 
+- [x] Reach out to CodeNewbies 
+- [x] Reach out to TransHack 
+- [x] Reach out to Callback Women 
+- [x] Reach out to GirlDevelopIt 
+- [x] Reach out to RailsGirls (some of those women probably also do Django!)
+- [x] Reach out to ChickTech 
+- [x] Reach out to active local diversity groups and programming user groups such as: 
+  - [x] Python User Groups 
+  - [x] Django User Groups 
+  - [x] PyLadies 
+  - [x] Django Girls 
+  - [x] GirlDevelopIt
+- [ ] Review financial aid applications 
 
 ## Code of Conduct
 
-- [ ] Add photography policy to site
+- [x] Add photography policy to site
+- [x] Confirm CoC is on site 
+- [ ] Add CoC contacts to site, with phone numbers 
+- [x] Add CoC contact email to site 
 
 ## Volunteers
 
-- [ ] Update the volunteer pages on the site
-- [ ] Do *not* reset the organizers mailing list djangocon-organizers@googlegroups.com
+- [x] Update the volunteer pages on the site
+- [x] Do *not* reset the organizers mailing list djangocon-organizers@googlegroups.com
 - [ ] Help answer emails on the organizers mailing list
 - [ ] Create the on-site volunteering spreadsheet (reg desk, swag had out, etc)
 - [ ] Email volunteers before DjangoCon with more details, where they should meet etc
@@ -260,6 +331,9 @@
 - [ ] Determine who will give the opening messages
 - [ ] Determine who will give the closing messages
 - [ ] Have the survey ready for the closing messages
+- [ ] Compose the opening messages 
+- [ ] Prepare slides for the opening messages, if using 
+- [ ] Compose closing messages 
 
 ## Staff Room
 
@@ -277,6 +351,7 @@
 - [ ] Determine which company will be doing the A/V
 - [ ] Who's creating video splash screen?
 - [ ] Video Editing?
+- [ ] Closed captioning of video?
 - [ ] Create new YouTube channel for the current year under the DjangoCon account (David Wolever has login info)
 - [ ] Create spreadsheet with YouTube video titles + descriptions for A/V crew to copy+paste into YouTube; video crew will paste YouTube video URLs into this spreadsheet.
 - [ ] Make sure that spreadsheet includes the DO NOT PUBLISH flag
@@ -363,7 +438,7 @@
 - [ ] Lead retrieval considerations
 - [ ] Different badges for different attendee types
 
-## Print Program
+## Print Program -- not doing
 
 - [ ] Determine who will be making the print program
 - [ ] Print program cover design & review
@@ -381,13 +456,16 @@
 - [ ] Determine how many print programs to order
 - [ ] Order them
 
-## Printed Schedule Handout
+## Printed Schedule Handout -- not doing 
 
 - [ ] Compile a list of all events (rooms, times)
 
 ## Visa Letters
 
-- [ ] TODO
+- [x] Creat template 
+- [x] Create signup form 
+- [x] Recruit someone to handle invitation letters 
+- [ ] Send people invitation letters
 
 ## Feedback & Thanks
 
