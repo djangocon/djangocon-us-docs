@@ -96,11 +96,15 @@ https://github.com/erikr/happinesspackets/
 ## Conference Meta
 
 - [A Forkable Conference](https://medium.com/node-js-javascript/a-forkable-conference-73cbac4842dd)
+- [Beginner's Guide to PyCon 2015](http://www.pydanny.com/beginners-guide-pycon-2014.html)
 - [Django Girls Organizer Manual](https://github.com/DjangoGirls/organizer-manual) - A great example of creating an organizer manual.
 - [Handbook for open-source software community conference organisers](https://github.com/evildmp/conference-handbook) by [Daniele Procida](https://github.com/evildmp) 
 - [List of well designed conferences](https://github.com/olasitarska/pretty-conferences) by [Ola Sitarska](https://github.com/olasitarska/pretty-conferences)
-- [Write the Docs Organizer Manual](https://github.com/writethedocs/organizer-manual) by [Eric Holscher](https://github.com/ericholscher)
+- [MicroConf: Attendee’s Guide](http://doubleyouraudience.com/microconf-guide/)
+- [Write the Docs: Organizer Manual](https://github.com/writethedocs/organizer-manual) by [Eric Holscher](https://github.com/ericholscher)
+- [Write the Docs: Welcome Wagon](http://www.writethedocs.org/conf/na/2016/welcome-wagon/)
 - [From Python Import Conference](https://github.com/jnoller/conference) by [Jesse Noller](https://github.com/jnoller)
+
 ## Night Outings
 
 - http://2014.djangocon.us/night_outings/
