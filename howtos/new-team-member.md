@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # New Team Members
 
 ## How to integrate a new team member

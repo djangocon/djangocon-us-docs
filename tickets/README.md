@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # Tickets
 
 Get tickets out sooner than later.

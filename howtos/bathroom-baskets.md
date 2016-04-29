@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # How to make bathroom baskets 
 
 1. Order supplies from Amazon, or acquire locally 

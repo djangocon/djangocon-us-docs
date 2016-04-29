@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # Mailing lists
 
 ## Google Groups

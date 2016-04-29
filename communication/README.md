@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # Communication
 
 This section contains sample emails that we send. Feel free to save locally and edit as needed. 

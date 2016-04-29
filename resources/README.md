@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # Resources
 
 Knowing what belongs on a conference website is a challenge. Here are some resources for how other conferences and friends do it.

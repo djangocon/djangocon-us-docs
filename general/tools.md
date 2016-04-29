@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # Tools
 
 We use various tools to organize DjangoCon US.

@@ -1,5 +1,3 @@
-[<- back to index](../README.md)
-
 # Planning Information
 
 ## Conference Days
