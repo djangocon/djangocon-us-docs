@@ -28,9 +28,11 @@
     * [Registration](registration/README.md)
     * [Sponsors](sponsors/README.md)
     * [Volunteers](volunteers/README.md)
+        * [Roles](volunteers/roles.md)
 
 * Conference
     * [Program](program/README.md)
+        * [Email Tutorial Faqs](program/email-tutorial-faqs.md)
     * [Schedule](schedule/README.md)
     * [Sprints](sprints/README.md)
 
@@ -38,5 +40,7 @@
 
 * [Resources](resources/README.md)
     * [howtos](howtos/README.md)
+    * [New Team Member](howtos/new-team-member.md)
+    * [Bathroom Baskets](howtos/bathroom-baskets.md)
 
 * [All Checklists](checklists.md)
