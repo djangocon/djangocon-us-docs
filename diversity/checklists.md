@@ -52,8 +52,8 @@
 - [x] Confirm service animals welcome, including grassy areas for them 
 - [x] Get quotes for live captioning, closed captioning for videos posted after the conference, and/or assisted listening devices 
 - [ ] Book captioning/assisted listening device services 
-- [ ] Confirm venue will permit onsite child care 
-- [ ] Get quote for onsite or offsite child care 
+- [x] Confirm venue will permit onsite child care 
+- [x] Get quote for onsite or offsite child care 
 - [ ] Book onsite or offsite child care 
 - [x] Locate nearby recovery (AA/NA) groups 
 
