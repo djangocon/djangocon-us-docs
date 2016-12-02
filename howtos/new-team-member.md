@@ -14,8 +14,8 @@
 There are all on a case by case basis.
 
 1. Social media accounts
-    a. TweetDeck
-    b. [Facebook Group](https://www.facebook.com/djangoconus/)
+  - TweetDeck
+  - [Facebook Group](https://www.facebook.com/djangoconus/)
 2. Email marketing: [Mailchimp](http://mailchimp.com/)
 3. [1Password Team](https://djangocon.1password.com/signin)
 4. Ticket system: [Ticketbud](https://ticketbud.com/)
