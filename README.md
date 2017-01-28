@@ -1,6 +1,6 @@
 # DjangoCon US 2017
 
-DjangoCon 2017 will be held in **Spokane**, Washington, USA from August 13 - 18, 2017*.
+DjangoCon 2017 will be held in **Spokane**, Washington, USA from *August 13 - 18, 2017*.
 
 - Tutorials: August 13th
 - Conference: August 13th - 16th
