@@ -1,3 +1,3 @@
 # Venue
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

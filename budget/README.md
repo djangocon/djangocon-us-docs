@@ -1,3 +1,3 @@
 # Budget
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

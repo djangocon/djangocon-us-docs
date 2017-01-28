@@ -1,3 +1,3 @@
 # Design
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

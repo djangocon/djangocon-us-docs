@@ -1,3 +1,3 @@
 # Diversity
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

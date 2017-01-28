@@ -1,6 +1,6 @@
 # Volunteers
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)
 
 ## Emails 
 

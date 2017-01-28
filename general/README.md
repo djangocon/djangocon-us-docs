@@ -1,3 +1,3 @@
 # General
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

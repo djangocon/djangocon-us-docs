@@ -26,5 +26,4 @@ This section contains sample emails that we send. Feel free to save locally and 
 ## Volunteers 
 - [Responding to potential volunteers](volunteer.md)
 
-
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

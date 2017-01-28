@@ -1,3 +1,3 @@
 # Sprints
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

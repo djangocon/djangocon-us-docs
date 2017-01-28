@@ -9,4 +9,4 @@
 
 - [Tutorial FAQ Email](email-tutorial-faqs.md)
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

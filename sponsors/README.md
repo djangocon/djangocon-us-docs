@@ -10,4 +10,4 @@ Our main advantage is that we have around 400 Django developers, designers, mana
 
 So this really depends on the type of product that a company has. 400 Django attendees can easily be more potential sales because you aren’t competing with as many booths/vendors, and everyone is here for the same reason, which isn’t quite the case with PyCon. 
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

@@ -1,3 +1,3 @@
 # Registration
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)

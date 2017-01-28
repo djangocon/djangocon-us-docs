@@ -1,3 +1,3 @@
 # Financial Aid
 
-{% include "./checklists.md" %}
+[Checklists](checklists.md)
