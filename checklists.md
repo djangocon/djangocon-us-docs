@@ -1,14 +1,14 @@
 # All Checklists
 
-{% include "./budget/checklists.md" %}
-{% include "./communication/checklists.md" %}
-{% include "./design/checklists.md" %}
-{% include "./diversity/checklists.md" %}
-{% include "./financialaid/checklists.md" %}
-{% include "./general/checklists.md" %}
-{% include "./program/checklists.md" %}
-{% include "./registration/checklists.md" %}
-{% include "./sponsors/checklists.md" %}
-{% include "./sprints/checklists.md" %}
-{% include "./venue/checklists.md" %}
-{% include "./volunteers/checklists.md" %}
+- [Budget Checklists](./budget/checklists.md)
+- [Communication Checklists](./communication/checklists.md)
+- [Design Checklists](./design/checklists.md)
+- [Diversity Checklists](./diversity/checklists.md)
+- [Financial Aid Checklists](./financialaid/checklists.md)
+- [General Checklists](./general/checklists.md)
+- [Program Checklists](./program/checklists.md)
+- [Registration Checklists](./registration/checklists.md)
+- [Sponsors Checklists](./sponsors/checklists.md)
+- [Sprints Checklists](./sprints/checklists.md)
+- [Venue Checklists](./venue/checklists.md)
+- [Volunteers Checklists](./volunteers/checklists.md)
