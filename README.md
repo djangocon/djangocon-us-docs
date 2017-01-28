@@ -1,10 +1,10 @@
-# DjangoCon US 2016
+# DjangoCon US 2017
 
-DjangoCon 2016 will be held in **Philadelphia**, Pennsylvania, USA from *July 17th – 22nd, 2016*.
+DjangoCon 2017 will be held in **Spokane**, Washington, USA from August 13 - 18, 2017*.
 
-- Tutorials: July 17th
-- Conference: July 18th - 20th
-- Sprints: July 21st - 22nd
+- Tutorials: August 13th
+- Conference: August 13th - 16th
+- Sprints: August 17th - 18th
 
 DjangoCon US is organized and run by volunteers from the Python and Django community.
 
