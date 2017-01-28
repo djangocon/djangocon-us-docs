@@ -21,11 +21,11 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
 - Join the team: [Organizer's Mailing List](https://groups.google.com/forum/#!forum/djangocon-organizers)
 - ~~Join us on IRC: DjangoCon Organizers IRC channel (#djangocon-organizers on irc.freenode.net)~~
 - Join us on [Slack](https://djangoconus.slack.com/)
-- Help us out:
-    - [DjangoCon 2016 Tasks](https://github.com/djangocon/djangocon-us-docs/issues)
-    - [DjangoCon 2016 Website Specific Tasks](https://github.com/djangocon/2016.djangocon.us/issues)
-    - [DjangoCon 2016 volunteer sign-up form](http://eepurl.com/bUzUfr): used for both volunteer opportunities before the conference, and onsite at the conference. 
-- Learn more: [DjangoCon 2016 Wiki](https://github.com/djangocon/djangocon-us-docs/wiki)
+- Help us out (This needs updated for 2017):
+    - ~~[DjangoCon 2016 Tasks](https://github.com/djangocon/djangocon-us-docs/issues)~~
+    - ~~[DjangoCon 2016 Website Specific Tasks](https://github.com/djangocon/2016.djangocon.us/issues)~~
+    - ~~[DjangoCon 2016 volunteer sign-up form](http://eepurl.com/bUzUfr): used for both volunteer opportunities before the conference, and onsite at the conference.~~
+- ~~Learn more: [DjangoCon 2016 Wiki](https://github.com/djangocon/djangocon-us-docs/wiki)~~
 
 ### Sections
 
