@@ -13,12 +13,12 @@
 There are all on a case by case basis.
 
 1. Add to:
-  - [coc@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
-  - [reviewers@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
-  - [sponsors@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
+   - [coc@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
+   - [reviewers@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
+   - [sponsors@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
 2. Social media accounts
-  - [TweetDeck](https://tweetdeck.twitter.com/)
-  - [Facebook Group](https://www.facebook.com/djangoconus/)
+   - [TweetDeck](https://tweetdeck.twitter.com/)
+   - [Facebook Group](https://www.facebook.com/djangoconus/)
 3. Email marketing: [Mailchimp](http://mailchimp.com/)
 4. [1Password Team](https://djangocon.1password.com/signin)
 5. Ticket system: [Tito](https://ti.to/)
