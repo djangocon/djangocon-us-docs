@@ -1,0 +1,307 @@
+hr {
+  margin-top: 0.5em !important;
+  margin-bottom: 1.7em !important;
+  height: 2px !important;
+}
+h2 {
+  page-break-before: always !important;
+}
+tbody {
+  width: 100%;
+}
+tr {
+  width: 100%
+}
+.space {
+  padding-top: 55vh;
+}
+.page-inner {
+  position: initial !important;
+}
+.page-title {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  height: 55vh;
+  display: flex;
+  align-items: center;
+  background-color: #FFA5AB;
+}
+.page-title-text {
+  position: relative;
+  color: #FFF;
+  font-size: 4.25em !important;
+  text-align: center;
+  width: 100%;
+}
+.activity-header {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  color: #6B6178;
+  width: 100%;
+  padding-right: 24px;
+  padding-left: 12px;
+  background-color: #fff;
+}
+.student-actions {
+  background-color: #FEF9F0;
+  margin-top: 0.5em;
+  padding:10px;
+}
+.activity-header .activity-icon {
+  width: 150px;
+  height: 150px;
+  background: url('/images/8.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 120px;
+  margin-right: 16px;
+}
+.activity-header .activity .activity-number {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.activity-header .activity {
+  flex: 1;
+}
+.activity-header .activity-length {
+  display: flex;
+  align-items: center;
+}
+.activity-header .activity-length .length-icon {
+  height: 80px;
+  width: 80px;
+  margin-right: 15px;
+  background: url('/images/3.png');
+  background-size: 80px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.activity-header .activity-length .activity-length-header {
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0 10px;
+}
+.overview-section {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2em;
+  align-items: center;
+}
+.overview-section .title {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  width: 100%;
+}
+.overview-section .title hr {
+  height: 2px;
+  width: 100%;
+  margin: 0;
+}
+.overview-section .icon {
+  height: 60px;
+  width: 60px;
+  margin-right: 15px;
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.markdown-section .action-table td {
+  width: 80%;
+  border: 0;
+  position: relative;
+  vertical-align: baseline;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.markdown-section blockquote {
+  margin-top: 0.5em;
+  border-color: #9b91c6;
+}
+.markdown-section blockquote blockquote {
+  margin-top: 0.5em;
+  border-color: #ccc;
+}
+.markdown-section .action-table td p:first-child {
+  display:inline;
+}
+.markdown-section .action-table td ol {
+  margin-left: 2.5em;
+}
+.markdown-section .action-table tr {
+  border: 0;
+}
+.markdown-section .action-table th {
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding-left: calc(3.4em + 16px);
+  border: 0;
+  width: 50%;
+}
+.markdown-section .action-table thead {
+  border-top: 2px solid #886CAF;
+}
+.markdown-section .action-table .second {
+  width: 20%;
+  min-width: 200px;
+}
+.markdown-section .action-table tr:nth-child(2n) {
+    background-color: #fff;
+}
+.markdown-section p {
+  margin-bottom: 0;
+}
+.page-inner {
+  max-width: 75%;
+}
+.section-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  position: relative;
+  margin-top: 3.5em;
+}
+.section-header .icon {
+  height: 100px;
+  width: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 80px;
+}
+.section-header .title {
+  font-size: 28px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.section-header .subtitle {
+  font-size: 20px;
+  margin-bottom: 1em;
+}
+.section-header hr {
+  position: absolute;
+  width: 100%;
+  margin-bottom: 1em;
+}
+table.action-table {
+	counter-reset: rowNumber; /* Initiate a counter */
+	margin-left:0; /* Remove the default left margin */
+	padding-left:0; /* Remove the default left padding */
+  color: #6B6178;
+  margin-bottom: 5em;
+  margin-top: 2em;
+}
+.action-table tbody tr {
+	position:relative; /* Create a positioning context */
+	margin:0 0 12px 2em; /* Give each list item a left margin to make room for the numbers */
+	padding:4px 8px; /* Add some spacing around the content */
+	list-style:none; /* Disable the normal item numbering */
+  counter-increment: rowNumber;
+}
+.action-table tr td .number {
+	content:counter(rowNumber); /* Use the counter as content */
+	/* Position and style the number */
+  display: inline-block;
+  top: -1px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+  border-radius: 2em;
+	width:2.1em;
+	/* Some space between the number and the content in browsers that support
+	   generated content but not positioning it (Camino 2 is one example) */
+	margin-right:8px;
+	padding:4px;
+	color:#4D425D;
+	background:#F7B8B1;
+	font-weight:bold;
+	font-family:"Helvetica Neue", Arial, sans-serif;
+	text-align:center;
+}
+.action-table tr td .content {
+  margin-left: 3.2em;
+  position: relative;
+  top: -30px;
+}
+.activity-body .instruction .number {
+	content:counter(rowNumber); /* Use the counter as content */
+	/* Position and style the number */
+  display: inline-block;
+  top: -1px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+  border-radius: 2em;
+	width:2.1em;
+	/* Some space between the number and the content in browsers that support
+	   generated content but not positioning it (Camino 2 is one example) */
+	margin-right:8px;
+	padding:4px;
+	color:#4D425D;
+	background:#F7B8B1;
+	font-weight:bold;
+	font-family:"Helvetica Neue", Arial, sans-serif;
+	text-align:center;
+}
+.activity-body .instruction .content {
+  margin-left: 3.2em;
+  position: relative;
+  top: -30px;
+}
+.activity-body .instruction .student-actions ol {
+  margin-bottom: 0;
+}
+.length-wrapper {
+  margin-bottom: 1em;
+}
+.length-wrapper .icon {
+  display: inline-block;
+  margin-right: 10px;
+  background-size: contain;
+  height: 35px;
+  width: 35px;
+  vertical-align: middle;
+}
+.length-wrapper .text {
+  display: inline-block;
+  font-size: 18px;
+  vertical-align: middle;
+}
+.icon.objectives {
+  background-image: url('../images/objectives.png')
+}
+.icon.agenda {
+  background-image: url('../images/agenda.png');
+}
+.icon.vocab {
+  background-image: url('../images/vocab.png');
+}
+.icon.materials {
+  background-image: url('../images/materials.png');
+}
+.icon.standards {
+  background-image: url('../images/standards.png');
+}
+.icon.activity {
+  background-image: url('../images/activity.png');
+}
+hr:nth-child(4n-3) {
+  background: #b8674e;
+}
+hr:nth-child(4n-2) {
+  background: #2baca5;
+}
+hr:nth-child(4n-1) {
+  background: #f5aaa3;
+}
+hr:nth-child(4n) {
+  background: #5b506d;
+}
+.markdown-section pre>code {
+  white-space: pre-wrap !important;
+}
