@@ -1,3 +1,0 @@
-# Venue
-
-[Checklists](checklists.md)

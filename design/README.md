@@ -1,3 +1,0 @@
-# Design
-
-[Checklists](checklists.md)

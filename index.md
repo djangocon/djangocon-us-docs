@@ -1,3 +1,8 @@
+---
+layout: page
+title: DjangoCon US
+---
+
 # DjangoCon US 2019
 
 DjangoCon 2019 will be held in **San Diego**, California, USA from September 22 - 27, 2019.
@@ -16,12 +21,3 @@ We'll chat with you about how you'd like to contribute, then add you to our mail
 
 As a contributor, you can help us keep the Django community open and inclusive.
 Please read and follow our [Code of Conduct](https://www.djangoproject.com/conduct/).
-
-## To run locally: 
-
-- Fork this repository 
-- Clone it to your machine 
-- Run `gem install jekyll bundler`
-- Run `gem install just-the-docs` 
-- Run `bundle exec jekyll serve` 
-- View in browser at `http://localhost:4000`

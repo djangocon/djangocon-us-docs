@@ -1,3 +1,0 @@
-# Diversity
-
-[Checklists](checklists.md)

@@ -1,3 +1,0 @@
-# Sprints
-
-[Checklists](checklists.md)
