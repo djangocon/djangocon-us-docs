@@ -16,28 +16,36 @@
 title: DjangoCon US Docs
 email: hello@djangocon.us
 description: >- # this means to ignore newlines until "baseurl:"
-  DjangoCon US is a six-day conference about the Django web framework that takes 
-  place each year in North America. We have a day of tutorials, three days of 
-  talks, and two days of sprints. 
+  DjangoCon US is a six-day conference about the Django web framework that takes
+  place each year in North America. We have a day of tutorials, three days of
+  talks, and two days of sprints.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: djangocon
 github_username:  djangocon
 
+sass:
+  load_paths:
+    - node_modules/
+
 # Build settings
 markdown: kramdown
-theme: "just-the-docs"
+# theme: "just-the-docs"
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

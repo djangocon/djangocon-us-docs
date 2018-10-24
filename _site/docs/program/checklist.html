@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  <title>Program Checklists - DjangoCon US Docs</title>
+  <link rel="stylesheet" href="http://localhost:8000/assets/css/just-the-docs.css">
+  <script type="text/javascript" src="http://localhost:8000/assets/js/vendor/lunr.min.js"></script>
+  <script type="text/javascript" src="http://localhost:8000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+
+  <div class="page-wrap">
+    <div class="side-bar">
+      <a href="http://localhost:8000" class="site-title fs-6 text-grey-dk-300 lh-tight">DjangoCon US Docs</a>
+      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
+      <div class="navigation main-nav js-main-nav">
+        <nav>
+  <ul class="navigation-list">
+  
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/finaid/finaid_submitted.html" class="navigation-list-link">Subject: DjangoCon US Financial Aid Application Submitted</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/finaid/finaid_accepted.html" class="navigation-list-link">Subject: DjangoCon US Financial Aid Decision</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/conduct/coc_violation.html" class="navigation-list-link">Subject: DjangoCon US Code of Conduct Violation</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/404.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/conduct/coc_complaint.html" class="navigation-list-link">Subject: Code of Conduct at DjangoCon US</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/closing.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/conduct/coc_about.html" class="navigation-list-link">Subject: About the DjangoCon US Code of Conduct</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/communication/why-to-attend.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/communication/volunteer.html" class="navigation-list-link">Subject: Thanks for offering to help!</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/opening.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/weekly.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/closing%20(1).html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/reboot.html" class="navigation-list-link">DjangoCon: Reboot</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/call-for-proposal.html" class="navigation-list-link">Call for Proposals</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/volunteer-info-email.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/program/talk_submitted.html" class="navigation-list-link">Subject: Thanks for submitting to DjangoCon US!</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/program/talk_rejected.html" class="navigation-list-link">Subject: DjangoCon US Proposal Decision</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/program/talk_accepted.html" class="navigation-list-link">Subject: Speaking at DjangoCon US</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/" class="navigation-list-link">DjangoCon US</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/program/recruiting.html" class="navigation-list-link">Subject: Want to speak at DjangoCon US?</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/finaid/finaid_rejected.html" class="navigation-list-link">Subject: DjangoCon US Financial Aid Decision</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/opening-backup.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/archive/templates/program/email-tutorials-faqs.html" class="navigation-list-link"></a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/logistics" class="navigation-list-link">Team and Logistics</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item active js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/conduct" class="navigation-list-link">Code of Conduct</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/communications" class="navigation-list-link">Communications</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/experience" class="navigation-list-link">Attendee Experience</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/program" class="navigation-list-link active">Program</a>
+          
+            
+            <ul class="navigation-list-child-list">
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li class="navigation-list-item  active">
+                  <a href="http://localhost:8000/docs/program/checklist.html" class="navigation-list-link active">Program Checklists</a>
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li class="navigation-list-item ">
+                  <a href="http://localhost:8000/docs/program/timeline.html" class="navigation-list-link">Timeline</a>
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li class="navigation-list-item ">
+                  <a href="http://localhost:8000/docs/program/example_schedule.html" class="navigation-list-link">Example Schedule</a>
+                </li>
+                
+              
+                
+                <li class="navigation-list-item ">
+                  <a href="http://localhost:8000/docs/program/orientation.html" class="navigation-list-link">Orientation</a>
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li class="navigation-list-item ">
+                  <a href="http://localhost:8000/docs/program/lightning_talks.html" class="navigation-list-link">Lightning Talks</a>
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li class="navigation-list-item ">
+                  <a href="http://localhost:8000/docs/program/sprints.html" class="navigation-list-link">Sprints</a>
+                </li>
+                
+              
+                
+                <li class="navigation-list-item ">
+                  <a href="http://localhost:8000/docs/program/sprints_checklist.html" class="navigation-list-link">Sprints Checklist</a>
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+            </ul>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/sponsors" class="navigation-list-link">Sponsors</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/finaid" class="navigation-list-link">Financial Aid</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+        <a href="http://localhost:8000/inclusion" class="navigation-list-link">Accessibility & Inclusion</a>
+          
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+      <li class="navigation-list-item js-side-nav-item">
+        
+      </li>
+  
+  </ul>
+</nav>
+
+      </div>
+      <footer role="contentinfo" class="site-footer">
+        <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+      </footer>
+    </div>
+    <div class="main-content-wrap">
+      <div class="page-header">
+        <div class="main-content pb-0">
+          <div class="search js-search">
+            <div class="search-input-wrap">
+              <input type="text" class="js-search-input search-input" placeholder="Search DjangoCon US Docs" aria-label="Search DjangoCon US Docs" autocomplete="off">
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
+            </div>
+            <div class="js-search-results search-results-wrap"></div>
+          </div>
+          
+        </div>
+      </div>
+      <div class="main-content">
+        
+          
+            <nav class="breadcrumb-nav">
+              <ol class="breadcrumb-nav-list">
+                <li class="breadcrumb-nav-list-item"><a href="http://localhost:8000/program">Program</a></li>
+                <li class="breadcrumb-nav-list-item"><span>Program Checklists</span></li>
+              </ol>
+            </nav>
+          
+        
+        <div class="page-content">
+          <h1 id="program-checklists">Program Checklists</h1>
+
+<h2 id="keynote-selection">Keynote Selection</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Ask the community for input <a href="https://pycon.wufoo.eu/forms/pycon-2015-keynote-suggestions/">PyCon example</a></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Have a small group determine the keynotes</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Reach out to the keynotes</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Collect the keynote bios and headshots</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update the keynotes on the website schedule</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Assign someone to be “responsible” for each keynote (keynote happiness)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Book the keynote hotel rooms</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Reimburse keynotes for flights</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Select a keynote master of ceremonies</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Thank the keynotes</li>
+</ul>
+
+<h2 id="talks">Talks</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Reset the reviewers@djangocon.us mailing list</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update the call for proposal pages on the website</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Set up Papercall page for this year</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Recruit speaker mentors</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publicize the existence of speaker mentors</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publicize the CFP and deadlines</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Review proposals</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Provide proposal feedback</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Draft &amp; send the accept/decline emails</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Determine the talk schedule</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publish the talk schedule</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Email all speakers with A/V requirements, etc. before DjangoCon US</li>
+</ul>
+
+<h2 id="tutorials">Tutorials</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update the call for proposal pages on the website</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Set up Papercall page for this year</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Recruit speaker mentors</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publicize the existence of speaker mentors</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publicize the CFP and deadlines</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Review proposals</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Provide proposal feedback</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Determine tutorial stipend amount</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Communicate the stipend amount in the accept emails</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Draft &amp; send the accept/decline emails</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Create a form to collect instructor info (address, tax info, etc)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Schedule the tutorials</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Publish the tutorial schedule on the site (without room numbers)</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Monitor attendance numbers, cap tutorials, etc.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Update the tutorial schedule on the site with room numbers</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Email all instructors with A/V requirements, etc. before DjangoCon US</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Email instructors with their attendees and prompt them to prepare installation instructions before the tutorials day</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Drop printed material (or an alternative) off in each room</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Take tutorial attendance</li>
+</ul>
+
+<h2 id="sponsor-workshops-if-doing">Sponsor Workshops (if doing)</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Schedule the sponsor workshops on the site</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Create registration for the sponsor workshops</li>
+</ul>
+
+<h2 id="lightning-talks">Lightning Talks</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Enable lightning talk signup at the conference</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Communicate daily lightning talk signup and deadlines</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Select lightning talks daily and communicate accept/decline</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Emcee lightning talks and enforce 5-minute limit</li>
+</ul>
+
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</html>
