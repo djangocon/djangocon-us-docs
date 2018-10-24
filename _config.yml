@@ -24,9 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: djangocon
 github_username:  djangocon
 
-sass:
-  load_paths:
-    - node_modules/
+# sass:
+#   load_paths:
+#     - node_modules/
 
 # Build settings
 markdown: kramdown
