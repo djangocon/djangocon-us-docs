@@ -1,3 +1,0 @@
-# General
-
-[Checklists](checklists.md)

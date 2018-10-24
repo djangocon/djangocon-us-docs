@@ -1,7 +1,0 @@
-{
-    "title": "DjangoCon US Organizer's Manual",
-    "plugins": [
-        "tasklist",
-        "heading-anchors"
-    ]
-}
