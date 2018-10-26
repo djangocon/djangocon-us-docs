@@ -49,3 +49,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# Aux links for the upper right navigation
+aux_links:
+  "DjangoCon US Docs on GitHub":
+  - "https://github.com/djangocon/djangocon-us-docs"
