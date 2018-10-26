@@ -7,9 +7,7 @@ nav_order: 3
 
 # Budget and Finance
 
-Team Size: 1. This role is generally filled by the DEFNA Treasurer
-
-## Responsibilities 
+The DEFNA Treasurer generally oversees the budget. 
 
 - Create and track the yearly conference budget, including: 
     - Ticket pricing and sales 
