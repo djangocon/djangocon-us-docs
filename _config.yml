@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: djangocon
 github_username:  djangocon
+github_repo: https://github.com/djangocon/djangocon-us-docs
 
 # sass:
 #   load_paths:

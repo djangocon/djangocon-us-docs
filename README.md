@@ -19,9 +19,8 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
 
 ## To run locally: 
 
-- Fork this repository 
+- Fork [this repository]({{site.github_repo}})
 - Clone it to your machine 
 - Run `gem install jekyll bundler`
-- Run `gem install just-the-docs` 
 - Run `bundle exec jekyll serve` 
 - View in browser at `http://localhost:4000`
