@@ -1,4 +1,12 @@
-# Subject: DjangoCon US Code of Conduct Violation 
+---
+layout: page
+title: CoC - Response to Code of Conduct Report
+parent: Templates
+---
+
+# Code of Conduct - Response to Code of Conduct Report
+
+## Subject: Thank you for reporting 
 
 This template shouldn't be just copied and pasted. Every Code of Conduct incident is unique and should be handled sensitively and compassionately, and not with a form letter. This example exists to provide you with some useful wording in the unfortunate event that you need to respond to a Code of Conduct violation because coming up with the right words when you know someone has been hurt can be difficult. But again, please don't treat this example as a fill-in-the-blank form letter. Treat this example as a jumping-off point from which you can craft the right response to someone who has trusted you by reporting a Code of Conduct violation. 
 

@@ -1,4 +1,12 @@
-# Subject: Thanks for offering to help! 
+---
+layout: page
+title: Experience - Offer to Volunteer
+parent: Templates
+---
+
+# Experience - Offer to Volunteer 
+
+## Subject: Thanks for offering to help! 
 
 Hi [name]! 
 

@@ -1,4 +1,12 @@
-# Subject: DjangoCon US Financial Aid Application Submitted
+---
+layout: page
+title: Financial Aid - Application Submitted 
+parent: Templates
+---
+
+# Financial Aid - Application Submitted
+
+## Subject: DjangoCon US Financial Aid Application Submitted
 
 Dear [name], 
 

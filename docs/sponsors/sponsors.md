@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sponsors
-permalink: /sponsors/
 nav_order: 6
 has_children: true
 parent: Sponsors

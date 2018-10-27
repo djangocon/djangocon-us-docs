@@ -1,4 +1,12 @@
-# Subject: DjangoCon US Financial Aid Decision
+---
+layout: page
+title: Financial Aid - Accepted 
+parent: Templates
+---
+
+# Financial Aid - Accepted  
+
+## Subject: DjangoCon US Financial Aid Decision
 
 Dear [name],
 

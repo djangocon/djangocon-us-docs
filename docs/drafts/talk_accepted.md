@@ -1,4 +1,12 @@
-# Subject: Speaking at DjangoCon US
+---
+layout: page
+title: Program - Accepted
+parent: Templates
+---
+
+# Program - Accepted
+
+## Subject: Speaking at DjangoCon US
 
 Dear [name],
 

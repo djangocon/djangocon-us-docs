@@ -1,9 +1,16 @@
+---
+layout: page
+title: Experience - Informational Email to Volunteers
+parent: Templates
+---
+
+# Experience - Informational Email to Volunteers
+
 Audience: Session chairs, session runners, registration staff 
 
 Hey there, volunteers! 
 
 Thank you so much for volunteering with DjangoCon US! We truly couldn't do this without your help, and we appreciate your time. Here are some things that might make your volunteer experience easier: 
-
 
 - The [volunteer handbook](2016.djangocon.us/volunteers/handbook) is online. This includes contact information for the conference staff, important phone numbers, a schedule of events, locations of important rooms, and some tips for sessions chairs and session runners. 
 - Review the volunteer shifts you signed up for, and set yourself a reminder so you don't lose track of time. (It's easy to do at a conference where so many awesome things are going on!) 

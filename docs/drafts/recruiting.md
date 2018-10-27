@@ -1,4 +1,12 @@
-# Subject: Want to speak at DjangoCon US?
+---
+layout: page
+title: Program - Recruit Speaker
+parent: Templates
+---
+
+# Program - Recruit Speaker
+
+## Subject: DjangoCon US CFP
 
 Dear [Person],
 

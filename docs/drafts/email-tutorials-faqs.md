@@ -1,3 +1,11 @@
+---
+layout: page
+title: Program - FAQs about Presenting a Tutorial 
+parent: Templates
+---
+
+# Proram - FAQs about Presenting a Tutorial 
+
 Hello everyone,
 
 DjangoCon US is {{tutorial_start_date|weeks}} weeks away and I wanted to go over a few things with everyone. My apologies for the delay.

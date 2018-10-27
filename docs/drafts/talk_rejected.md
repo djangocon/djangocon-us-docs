@@ -1,4 +1,12 @@
-# Subject: DjangoCon US Proposal Decision
+---
+layout: page
+title: Program - Declined
+parent: Templates
+---
+
+# Program - Declined
+
+## Subject: DjangoCon US Proposal Decision
 
 Dear [name],
 

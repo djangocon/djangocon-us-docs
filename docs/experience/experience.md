@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Attendee Experience 
+title: Attendee Experience
 nav_order: 4
 has_children: true
 parent: Attendee Experience 

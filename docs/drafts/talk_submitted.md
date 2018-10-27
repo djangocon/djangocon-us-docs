@@ -1,4 +1,12 @@
-# Subject: Thanks for submitting to DjangoCon US! 
+---
+layout: page
+title: Program - Submission Received
+parent: Templates
+---
+
+# Program - Submission Received
+
+## Subject: Thanks for submitting to DjangoCon US! 
 
 Dear [name], 
 

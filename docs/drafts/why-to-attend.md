@@ -1,3 +1,11 @@
+---
+layout: page
+title: Experience - Why to Attend
+parent: Templates
+---
+
+# Experience - Why should I attend?
+
 *Sometimes we get the question, "What can I tell my manager to help them decide to let me attend DjangoCon?" before the schedule is up.*
 
 Dear [name], 

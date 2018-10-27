@@ -1,4 +1,12 @@
-# Subject: Code of Conduct at DjangoCon US  
+---
+layout: page
+title: CoC - Complaint About the Code of Conduct
+parent: Templates
+---
+
+# Code of Conduct - Complaint About the Code of Conduct
+
+## Subject: Code of Conduct at DjangoCon US  
 
 Dear [name],
 
