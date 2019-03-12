@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swag & Graphics 
-parent: Team and Logistics
+parent: Logistics
 nav_order: 10
 ---
 

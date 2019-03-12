@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Team and Logistics
+title: Logistics
 nav_order: 1
 has_children: true
-parent: Team and Logistics
+parent: Logistics
 permalink: /logistics
 ---
 
-# Team and Logistics 
+# Logistics 
 
 ## About organizing DjangoCon US 
 
