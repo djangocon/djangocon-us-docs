@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Website
-parent: Team and Logistics
+parent: Logistics
 nav_order: 9
 ---
 

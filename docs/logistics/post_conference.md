@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Post-Conference Checklist
-parent: Team and Logistics
+parent: Logistics
 nav_order: 13
 ---
 

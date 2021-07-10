@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue Checklists
-parent: Team and Logistics
+parent: Logistics
 nav_order: 5
 ---
 

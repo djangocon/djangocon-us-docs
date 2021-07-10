@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swag, Graphics, & Website Checklists
-parent: Team and Logistics
+parent: Logistics
 nav_order: 11
 ---
 

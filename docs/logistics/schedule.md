@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-parent: Team and Logistics
+parent: Logistics
 nav_order: 2
 ---
 
