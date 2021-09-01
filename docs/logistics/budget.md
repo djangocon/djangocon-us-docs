@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Budget and Finance
-parent: Team and Logistics
+parent: Logistics
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue
-parent: Team and Logistics
+parent: Logistics
 nav_order: 4
 ---
 
