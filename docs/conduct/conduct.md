@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Code of Conduct
 nav_order: 2
-has_children: true
-parent: Code of Conduct
-permalink: /conduct
+parent: Conduct
+title: Code of Conduct
 ---
 
 # Code of Conduct 

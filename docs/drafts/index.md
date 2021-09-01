@@ -1,4 +1,4 @@
 ---
 has_children: true
-title: Drafts
+title: Templates
 ---

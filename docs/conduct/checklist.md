@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Code of Conduct Checklist
-parent: Code of Conduct
+title: Checklist
+parent: Conduct
 nav_order: 2
 ---
 
