@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   DjangoCon US is a six-day conference about the Django web framework that takes
   place each year in North America. We have a day of tutorials, three days of
   talks, and two days of sprints.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/djangocon-us-docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: djangocon
 github_username:  djangocon
