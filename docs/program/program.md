@@ -33,22 +33,23 @@ Team Size: 1-4
 
 ## Logistics 
 
-- We use [Papercall](https://www.papercall.io/) to accept proposals. 
-- We recruit reviewers from the community and add them to Papercall as "reviewers" to let them review 
-- We do not discount talks for being "not Pythonic/Djangonic" enough 
-- Tutorial presenters and speakers get complimentary conference passes 
+- We use [Pretalx](https://www.pretalx.com/) to accept proposals.
+- We recruit reviewers from the community and add them to Pretalx as "reviewers" to let them review
+- We do not discount talks for being "not Pythonic/Djangonic" enough
+  - We do, however, discount talks for not being a good fit for our type of audience
+- Tutorial presenters and speakers get complimentary conference passes
 
 ## Notes 
 
 When selecting the program, look for these things: 
 
-- We don't give people more than one speaking slot. If someone is presenting a tutorial, they may still give a talk, but we prioritize other proposers. 
-- If you have two highly-rated submissions from the same speaker and that speaker is from an underrepresented group, accept the more technical talk 
-- Make sure the speakers from underrepresented groups aren't solely giving "soft" talks 
-- Talks on trendy topics tend to be highly rated. Don't accept multiple talks on the same or very similar topics; make sure to select a program that covers a wide range of topics 
-- It's fine to select organizers as speakers, but be wary of the program being too heavy on organizers. 
-- We don't accept panels where the moderator or panelists haven't been selected. We are generally wary of panels, but we have accepted them before. 
-- We will not present an all-white or all-male panel. 
+- We don't give people more than one speaking slot. If someone is presenting a tutorial, they may still give a talk under extroadinary circumstances only, but we prioritize other proposers.
+- If you have two highly-rated submissions from the same speaker and that speaker is from an underrepresented group, accept the more technical talk
+- Make sure the speakers from underrepresented groups aren't solely giving "soft" talks
+- Talks on trendy topics tend to be highly rated. Don't accept multiple talks on the same or very similar topics; make sure to select a program that covers a wide range of topics
+- It's fine to select organizers as speakers, but be wary of the program being too heavy on organizers.
+- We don't accept panels where the moderator or panelists haven't been selected. We are generally wary of panels, but we have accepted them before. The program committee is welcome to organize their own panel, though.
+- We will not present an all-white or all-male panel.
 
 ## Resources
 

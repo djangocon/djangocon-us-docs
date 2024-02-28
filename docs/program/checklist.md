@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program Checklists 
+title: Program Checklists
 parent: Program
 nav_order: 2
 ---
@@ -17,45 +17,49 @@ nav_order: 2
 - [ ] Assign someone to be "responsible" for each keynote (keynote happiness)
 - [ ] Book the keynote hotel rooms
 - [ ] Reimburse keynotes for flights
-- [ ] Select a keynote master of ceremonies
+- [ ] Coordinate with the speaker giving opening remarks to make sure the introduction works
 - [ ] Thank the keynotes
 
 ## Talks
 
-- [ ] Reset the reviewers@djangocon.us mailing list
-- [ ] Update the call for proposal pages on the website 
-- [ ] Set up Papercall page for this year 
-- [ ] Recruit speaker mentors 
-- [ ] Publicize the existence of speaker mentors 
-- [ ] Publicize the CFP and deadlines 
+- [ ] Update the call for proposals pages on the website
+- [ ] Set up Pretalx page for this year
+- [ ] Recruit speaker mentors
+- [ ] Publicize the existence of speaker mentors
+- [ ] Publicize the CFP and deadlines
+   - [ ] (what's left of) Twitter
+   - [ ] Mastodon
+   - [ ] Django Forum
+   - [ ] Django Discord
+   - [ ] PSF Community Mailing List
+   - [ ] DSF Members Mailing List
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Draft & send the accept/decline emails
+  - In past years, we've used sendy to send the accept/decline/waitlist functions, but we can use pretalx to use the first two
+- [ ] Create form to collect speaker info (name, video preferences, pronouns, etc.)
 - [ ] Determine the talk schedule
+- [ ] Export schedule from pretalx
 - [ ] Publish the talk schedule
+- [ ] Draft "two months to go" email
+- [ ] Draft "one month to go" email
+- [ ] Send "two months to go" email
+- [ ] Send "one month to go" email
 - [ ] Email all speakers with A/V requirements, etc. before DjangoCon US
 
 ## Tutorials
 
-- [ ] Update the call for proposal pages on the website 
-- [ ] Set up Papercall page for this year 
-- [ ] Recruit speaker mentors 
-- [ ] Publicize the existence of speaker mentors 
-- [ ] Publicize the CFP and deadlines 
-- [ ] Review proposals
-- [ ] Provide proposal feedback
-- [ ] Determine tutorial stipend amount
-- [ ] Communicate the stipend amount in the accept emails
-- [ ] Draft & send the accept/decline emails
+- [ ] Work with DEFNA Board to determine tutorial payment amount (percentage of ticket sales)
+- [ ] Draft & send the accept/decline/waitlist emails
 - [ ] Create a form to collect instructor info (address, tax info, etc)
 - [ ] Schedule the tutorials
-- [ ] Publish the tutorial schedule on the site (without room numbers)
-- [ ] Monitor attendance numbers, cap tutorials, etc. 
+- [ ] Publish the tutorial schedule on the site (without specific room numbers; use "Tutorial Room A" as an example placeholder)
+- [ ] Monitor attendance numbers, cap tutorials, etc.
 - [ ] Update the tutorial schedule on the site with room numbers
 - [ ] Email all instructors with A/V requirements, etc. before DjangoCon US
-- [ ] Email instructors with their attendees and prompt them to prepare installation instructions before the tutorials day
+- [ ] One month out: remind instructors to send installation instructions to attendees about a week in advance
+- [ ] Coordinate with ticket chair to make sure instructors have access to their attendee lists
 - [ ] Drop printed material (or an alternative) off in each room
-- [ ] Take tutorial attendance
 
 ## Sponsor Workshops (if doing)
 
