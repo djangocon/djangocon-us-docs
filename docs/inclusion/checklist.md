@@ -13,6 +13,7 @@ nav_order: 3
 - [ ] Reach out to Django Girls
 - [ ] Reach out to Women of Color in Tech Chat
 - [ ] Reach out to CodeNewbies
+- [ ] Reach out to Black Python Devs
 - [ ] Reach out to TransHack
 - [ ] Reach out to Callback Women
 - [ ] Reach out to GirlDevelopIt
@@ -35,6 +36,7 @@ nav_order: 3
 - [ ] Reach out to PyLadies
 - [ ] Reach out to Django Girls
 - [ ] Reach out to Women of Color in Tech Chat
+- [ ] Reach out to Black Python Devs
 - [ ] Reach out to CodeNewbies
 - [ ] Reach out to TransHack
 - [ ] Reach out to Callback Women
