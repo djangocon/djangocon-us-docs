@@ -12,7 +12,7 @@ The current mailing lists for DjangoCon US are:
 | Mailing List | Purpose | Who receives emails addressed to this list? |
 | --- | --- |
 | hello@ | Internal communication among organizers <br />Community helpline for those with questions about the conference | All organizers |
-| condcuct@ | Code of Conduct reports | Members of the Code of Conduct team; conference chairs |
+| conduct@ | Code of Conduct reports | Members of the Code of Conduct team; conference chairs |
 | financialaid@ | Applicants and recipients of financial aid | Members of the financial aid team; conference chairs |
 | sponsors@ | List for active and potential sponsors | Members of the sponsors team; conference chairs |
 | visas@ | List for attendees who have questions about international travel or who need visa invitation letters | Members of the visas team |
