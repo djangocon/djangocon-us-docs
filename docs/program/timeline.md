@@ -11,7 +11,7 @@ nav_order: 3
 
 - Plan the Call for Proposals. Draft the text, review it with other team members
 - Make list of groups and people to contact to encourage them to submit
-- Decide on deadlines and coordinate those with Financial Aid
+- Decide on deadlines and coordinate those with Opportunity Grants
 - Decide on number of tracks and talks
 - Decide on review criteria
 

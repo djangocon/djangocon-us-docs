@@ -31,7 +31,7 @@ nav_order: 3
 - [ ] Email those people and personally invite them to submit talks
 - [ ] Review submissions, with an eye toward topic diversity (since submitters are anonymous in the review process)
 
-## Financial Aid
+## Opportunity Grants
 
 - [ ] Reach out to PyLadies
 - [ ] Reach out to Django Girls
@@ -49,7 +49,7 @@ nav_order: 3
   - [ ] Local PyLadies
   - [ ] Local Django Girls
   - [ ] Local GirlDevelopIt
-- [ ] Review financial aid applications
+- [ ] Review Opportunity Grant applications
 
 ## Venue/Hotel Accessibility
 

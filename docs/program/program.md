@@ -22,8 +22,8 @@ Team Size: 1-4
 - Select final proposals, keeping in mind:
 - Track presenter diversity across multiple vectors (ability, gender, race, ethnicity, sexual orientation, geographic location) as well as possible without collecting demographics
 - Topics that need to be covered
-- Coordinate with financial aid to ensure that all speakers who need aid are adequately funded
-- Work with financial aid to manage any unexpected speaker financial aid requests
+- Coordinate with Opportunity Grants to ensure that all speakers who need aid are adequately funded
+- Work with Opportunity Grants to manage any unexpected speaker grant requests
 - Ensure acceptance and rejection emails are drafted
 - Send acceptance and rejection notifications by deadline
 - Design schedule and ensure it makes it to the website

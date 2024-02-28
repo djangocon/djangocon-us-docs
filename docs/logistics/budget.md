@@ -31,9 +31,9 @@ Consider these costs:
   - Microphones: 1 per presenter + 1-2 for introductions and Q&A
   - Hardware to connect laptops to projectors
   - Video recording
-  - Live transcription (if doing)
+  - Live captioning
 - Website redesign
-- Financial aid (We usually get $20,000 from DSF, PSF, and DEFNA)
+- Opportunity Grants (We usually get $20,000 from DSF, PSF, and DEFNA)
 - Swag ($5,000)
   - Stickers
   - Tote bags
@@ -48,7 +48,7 @@ Consider these costs:
 - [ ] Brainstorm fun ideas
 - [ ] Determine budget for design
 - [ ] Determine budget for website
-- [ ] Determine budget for financial aid
+- [ ] Determine budget for Opportunity Grants
 - [ ] Determine budget for recording
 - [ ] Determine budget for photographer
 - [ ] Determine budget for swag
@@ -64,4 +64,4 @@ Consider these costs:
   - [ ] Recording team
   - [ ] Live captioner
   - [ ] Child care provider
-- [ ] Allocate financial aid
+- [ ] Allocate Opportunity Grants

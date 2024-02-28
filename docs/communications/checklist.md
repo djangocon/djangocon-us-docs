@@ -13,9 +13,9 @@ nav_order: 3
 - [ ] Website Launch
 - [ ] CFP Open - Talks
 - [ ] CFP Open - Tutorials
-- [ ] Financial aid open
+- [ ] Opportunity Grants open
 - [ ] Call for reviewers
-- [ ] CFP and financial aid almost closed
+- [ ] CFP and Opportunity Grants almost closed
 - [ ] Registration open and ticket prices released
 - [ ] Early bird tickets almost sold out
 - [ ] Keynote selection
@@ -36,7 +36,7 @@ nav_order: 3
 ## Mailing List Email
 
 - [ ] Update template to use current year's branding
-- [ ] CFP and Financial Aid Open
+- [ ] CFP and Opportunity Grants Open
 - [ ] Registration Open
 
 ## Attendee Emails

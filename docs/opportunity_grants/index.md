@@ -1,4 +1,4 @@
 ---
 has_children: true
-title: Financial Aid
+title: Opportunity Grants
 ---

@@ -13,7 +13,7 @@ Team Size: 1-3
 
 ## Responsibilities
 
-- Coordinate with other teams (program, financial aid, diversity and outreach, visas, venue, volunteer) to communicate necessary updates to conference attendees, proposal submitters, speakers, sponsors, etc.
+- Coordinate with other teams (program, opportunity grants, diversity and outreach, visas, venue, volunteer) to communicate necessary updates to conference attendees, proposal submitters, speakers, sponsors, etc.
 - Manage the Twitter account at @djangocon
 - Manage the Facebook account at facebook.com/djangoconus
 - Ensure that emails to hello@djangocon.us receive a response
