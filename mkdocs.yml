@@ -1,0 +1,19 @@
+markdown_extensions:
+  - toc:
+      permalink: false
+nav:
+  - 'index.md'
+  - 'communications/index.md'
+  - 'conduct/index.md'
+  - 'drafts/index.md'
+  - 'experience/index.md'
+  - 'inclusion/index.md'
+  - 'logistics/index.md'
+  - 'opportunity_grants/index.md'
+  - 'program/index.md'
+  - 'sponsors/index.md'
+
+repo_url: https://github.com/djangocon/djangocon-us-docs
+site_name: DjangoCon US Docs
+theme:
+  name: material
