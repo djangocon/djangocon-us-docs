@@ -68,7 +68,7 @@ nav_order: 2
 
 ## Lightning Talks
 
-- [ ] Enable lightning talk signup at the conference 
-- [ ] Communicate daily lightning talk signup and deadlines 
-- [ ] Select lightning talks daily and communicate accept/decline 
-- [ ] Emcee lightning talks and enforce 5-minute limit 
+- [ ] Enable lightning talk signup at the conference
+- [ ] Communicate daily lightning talk signup and deadlines
+- [ ] Select lightning talks daily and communicate accept/decline
+- [ ] Emcee lightning talks and enforce 5-minute limit

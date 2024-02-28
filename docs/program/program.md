@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program 
+title: Program
 nav_order: 5
 has_children: true
 parent: Program
@@ -9,29 +9,29 @@ permalink: /program
 
 # Program
 
-Team Size: 1-4 
+Team Size: 1-4
 
-## Responsibilities 
+## Responsibilities
 
-- Recruit people to submit proposals 
+- Recruit people to submit proposals
 - Write the CFP and set a deadline
-- Coordinate with communication team to promote CFP 
-- Prepare reviewing guidelines 
-- Score all proposals 
-- Recruit reviewers from the community to help score proposals and ensure they have familiarized themselves with reviewing guidelines 
-- Select final proposals, keeping in mind: 
-- Presenter diversity across multiple vectors (ability, gender, race, ethnicity, sexual orientation, geographic location) 
-- Topics that need to be covered 
-- Coordinate with financial aid to ensure that all speakers who need aid are adequately funded 
-- Work with financial aid to manage any unexpected speaker financial aid requests 
-- Ensure acceptance and rejection emails are drafted 
-- Send acceptance and rejection notifications by deadline 
-- Design schedule and ensure it makes it to the website 
-- Advise on keynote speakers as requested 
-- At the conference, ensure speakers have what they need (water at podiums, microphones, etc.) 
-- At the conference, manage unexpected schedule changes (no-shows, ill speakers, etc.) 
+- Coordinate with communication team to promote CFP
+- Prepare reviewing guidelines
+- Score all proposals
+- Recruit reviewers from the community to help score proposals and ensure they have familiarized themselves with reviewing guidelines
+- Select final proposals, keeping in mind:
+- Track presenter diversity across multiple vectors (ability, gender, race, ethnicity, sexual orientation, geographic location) as well as possible without collecting demographics
+- Topics that need to be covered
+- Coordinate with financial aid to ensure that all speakers who need aid are adequately funded
+- Work with financial aid to manage any unexpected speaker financial aid requests
+- Ensure acceptance and rejection emails are drafted
+- Send acceptance and rejection notifications by deadline
+- Design schedule and ensure it makes it to the website
+- Advise on keynote speakers as requested
+- At the conference, ensure speakers have what they need (water at podiums, microphones, etc.)
+- At the conference, manage unexpected schedule changes (no-shows, ill speakers, etc.)
 
-## Logistics 
+## Logistics
 
 - We use [Pretalx](https://www.pretalx.com/) to accept proposals.
 - We recruit reviewers from the community and add them to Pretalx as "reviewers" to let them review
@@ -39,9 +39,9 @@ Team Size: 1-4
   - We do, however, discount talks for not being a good fit for our type of audience
 - Tutorial presenters and speakers get complimentary conference passes
 
-## Notes 
+## Notes
 
-When selecting the program, look for these things: 
+When selecting the program, look for these things:
 
 - We don't give people more than one speaking slot. If someone is presenting a tutorial, they may still give a talk under extroadinary circumstances only, but we prioritize other proposers.
 - If you have two highly-rated submissions from the same speaker and that speaker is from an underrepresented group, accept the more technical talk
@@ -55,7 +55,7 @@ When selecting the program, look for these things:
 
 - [Tutorial FAQ Email](email-tutorial-faqs.md)
 
-### Call for Proposals Examples 
+### Call for Proposals Examples
 
 - http://2014.djangocon.us/lightning_talks_open_spaces/
 - http://2015.djangocon.eu/proposals/
