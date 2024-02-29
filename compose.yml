@@ -1,0 +1,11 @@
+services:
+  docs:
+    build:
+      context: .
+      dockerfile: .dockerfiles/Dockerfile
+    init: true
+    ports:
+      - 8000:8000
+    tty: true
+    volumes:
+      - .:/code:cached
