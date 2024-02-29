@@ -53,7 +53,7 @@ When selecting the program, look for these things:
 
 ## Resources
 
-- [Tutorial FAQ Email](email-tutorial-faqs.md)
+- [Tutorial FAQ Email](../drafts/email-tutorials-faqs.md)
 
 ### Call for Proposals Examples
 
@@ -63,4 +63,4 @@ When selecting the program, look for these things:
 - https://github.com/nodeconf/US-CFP
 - https://us.pycon.org/2015/speaking/cfp/
 
-[Checklists](checklists.md)
+[Checklists](./checklist.md)

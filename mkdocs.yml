@@ -1,5 +1,6 @@
 markdown_extensions:
   - def_list
+  - footnotes
   - pymdownx.tasklist:
       custom_checkbox: true
   - tables:
@@ -54,11 +55,11 @@ nav:
     - 'logistics/post_conference.md'
     - 'logistics/schedule.md'
     - 'logistics/swag.md'
-    - 'logistics/tickets.md]'
-    - 'logistics/timeline.md]'
-    - 'logistics/venue.md]'
-    - 'logistics/venue_checklist.md]'
-    - 'logistics/website.md]'
+    - 'logistics/tickets.md'
+    - 'logistics/timeline.md'
+    - 'logistics/venue.md'
+    - 'logistics/venue_checklist.md'
+    - 'logistics/website.md'
   - 'Opportunity Grants':
     - 'opportunity_grants/checklist.md'
     - 'opportunity_grants/opportunity_grants.md'
