@@ -1,9 +1,17 @@
 @_default:
     just --list
 
-@bootstrap:
+bootstrap:
+    #!/usr/bin/env bash
+    set -euo pipefail
+
     python -m pip install --upgrade pip uv
     python -m uv pip install --requirement requirements.in
+
+    if [ ! -f "compose.override.yml" ]; then
+        echo "compose.override.yml created"
+        cp compose.override.yml-dist compose.override.yml
+    fi
 
 @build:
     python -m mkdocs build
