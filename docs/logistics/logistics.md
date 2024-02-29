@@ -7,9 +7,9 @@ parent: Logistics
 permalink: /logistics
 ---
 
-# Logistics 
+# Logistics
 
-## About organizing DjangoCon US 
+## About organizing DjangoCon US
 
 The Django Software Foundation has published [guidelines](https://www.djangoproject.com/foundation/conferences/) for hosting an event that is branded "DjangoCon."
 
@@ -19,7 +19,7 @@ Some areas of responsibility come into play very early in the planning process. 
 
 The responsibilities for each area described here are meant to be comprehensive, but not necessarily exhaustive. Other to-do items will come up in the planning process; every year is different. All organizers are free to help other areas as needed. 
 
-## Tools 
+## Tools
 
 | Tool | Usage | 
 | --- | --- | 
@@ -27,13 +27,13 @@ The responsibilities for each area described here are meant to be comprehensive,
 | [GitHub](https://github.com/djangocon/) | Github is our main code sharing tool | 
 | [Google Drive](https://drive.google.com/) | We use one shared DjangoCon US folder to manage our files | 
 | [Google Hangouts](https://hangouts.google.com/)<br />BlueJeans | Services we use to hold organizer meetings | 
-| [Mailchimp](https://mailchimp.com/) | Used for mass emails to attendees, sponsors, speakers, and people on our informational mailing list. See [Mailing Lists](docs/communications/mailing_lists.html) for more information. | 
-| Google Groups mailing lists | Used for internal communication. See [Mailing Lists](docs/communications/mailing_lists.html) for more information. |
+| [Mailchimp](https://mailchimp.com/) | Used for mass emails to attendees, sponsors, speakers, and people on our informational mailing list. See [Mailing Lists](../communications/mailing_lists.md) for more information. | 
+| Google Groups mailing lists | Used for internal communication. See [Mailing Lists](../communications/mailing_lists.md) for more information. |
 | [Slack](https://slack.com/) | Our realtime and async communication medium. We have public and private channels for a wide variety of conference topics | 
 | [Trello](https://trello.com/) | Our project management tool and todo list | 
 | [Tweetdeck](https://tweetdeck.twitter.com/) <br /> Buffer | Tools we use to schedule promotional social media posts |
 
-## Resources 
+## Resources
 
 - [The Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist)
 - [Handbook for open-source software community conference organisers](https://github.com/evildmp/conference-handbook) by [Daniele Procida](https://github.com/evildmp)

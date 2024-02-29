@@ -35,9 +35,9 @@ Continental breakfast and lunch offered. Snacks are optional, but desirable.
 - Can book sprint venue at the same venue as the rest of the conference, but this will be the most expensive option for catering
 - Can book sprint venue at an alternate venue (possibly a local tech company or coworking space will donate their space). This can be less expensive for catering, but may require attendees to travel from the hotel.
 
-## Optional Events 
+## Optional Events
 
-See [Special Events](/docs/experience/special_events.html) for other special event ideas. 
+See [Special Events](../experience/special_events.md) for other special event ideas. 
 
 ### Newcomer Orientation
 
@@ -48,7 +48,7 @@ See [Special Events](/docs/experience/special_events.html) for other special eve
   - Impostor syndrome 
   - Self care, using the quiet room, trying to exercise the extrovert muscle 
 
-### Other Sponsor Events 
+### Other Sponsor Events
 
 - Cost: Free for the conference
 - At sponsor discretion 

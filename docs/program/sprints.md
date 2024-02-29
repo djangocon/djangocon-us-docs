@@ -9,7 +9,7 @@ nav_order: 7
 
 Team Size: 1
 
-## Responsibilities 
+## Responsibilities
 
 - Recruit a sprint venue, if not being provided by the conference venue 
 - Ensure the sprint venue has adequate wifi, power, etc. 
@@ -20,10 +20,10 @@ Team Size: 1
 - Recruit sprint volunteers to help onboard new sprinters 
 - Attend sprints and help when needed 
 
-## Notes 
+## Notes
 
 In 2018, we started an Intro to Sprinting workshop, designed to teach people the basics of open source software contribution including finding a ticket, using Git and GitHub, and opening a pull request. 
 
 We also started a Git Help Desk, a collection of volunteers to help sprinters with Git issues. 
 
-[Checklists](checklists.md)
+[Checklists](./checklist.md)
