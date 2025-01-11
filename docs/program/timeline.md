@@ -35,7 +35,7 @@ nav_order: 3
 ## 3-4 Months Prior
 
 - Publish schedule
-- Make sure to send speaker registration codes
+- Make sure to send speaker ticket codes/links
 
 ## 1 Month Prior
 
@@ -51,6 +51,28 @@ nav_order: 3
 
 ## At the conference
 
-- Ensure bottled water is at the podium
-- Ensure extra adapters and dongles are available to debug speaker laptop issues
-- Ensure each session has an emcee and runner
+- Ensure bottled water is at the podium (the venue may be doing this)
+- Ensure extra adapters and dongles are available to debug speaker laptop issues (A/V team will have plenty)
+- Ensure each session has an emcee and runner (if using)
+
+## Example deadlines
+
+These deadlines were from 2024, where the conference was held the week of September 22. You can use these as a guideline for future conferences by adjusting forward/backward by the relevant number of weeks.
+
+- April 29 - CFP closes; notify talk reviewers who have messaged us about wanting to do reviews that they can start to review
+- May 10 - talk reviews done by this date
+- May 13 week - thunderdome
+- First week of June- notification emails to talks/tutorials
+- June 14 - decision notifications sent out by no later than this date
+- June 21 - talk and tutorial speaker deadline to let us know if they accept our acceptance
+- June 28 - waitlisted talks deadline to let us know they accept waitlist
+- June 28 - export from pretalx to github schedule - but do not publish yet
+- July 8 - talk speakers let us know if time slot is ok
+- July 8 - notification date (stay quiet on socials until this has passed)
+- July 9 - publish the schedule as a blog post
+- July 19 - let waitlisted know if their talk was swapped into schedule or not
+early August - send out Google drive link to online talks
+- August 19 - online talk recordings uploaded by this date
+- August 23 - hotel reservations by attendees must be received on or before this date
+- August 25 - redeem speaker ticket by this date
+- Sept 22 (Sun) - tutorials (in person this year)
