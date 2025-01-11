@@ -5,16 +5,16 @@ parent: Logistics
 nav_order: 6
 ---
 
-# Organizers 
+# Organizers
 
-## Ongoing responsibilities 
+## Ongoing responsibilities
 
-- Reset/cull staff mailing list (hello@djangocon.us) at the start of a new cycle 
+- Reset/cull staff mailing list (hello@djangocon.us) at the start of a new cycle
 - Update staff page on the website
 - Schedule monthly staff meetings
 - Succession planning
-- Collect staff phone numbers before DjangoCon US 
-- Collect dates DjangoCon US organizers arrive/leave before DjangoCon US 
+- Collect staff phone numbers before DjangoCon US
+- Collect dates DjangoCon US organizers arrive/leave before DjangoCon US
 
 ## How to integrate a new team member
 
@@ -24,9 +24,9 @@ nav_order: 6
 4. Add to [Google Drive](https://drive.google.com/drive/u/0/folders/0B9CaqKMu3IDSckh2V3hERFo4NTQ)
 5. Add to [Trello](https://trello.com/djangoconus/members)
 
-## Where else to add people? 
+## Where else to add people?
 
-There are all on a case by case basis, depending on the area the organizer is helping with. 
+There are all on a case by case basis, depending on the area the organizer is helping with.
 
 - Add to:
    - [conduct@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
@@ -35,7 +35,7 @@ There are all on a case by case basis, depending on the area the organizer is he
    - [financialaid@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
    - [visas@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
 - Social media accounts
-   - [TweetDeck](https://tweetdeck.twitter.com/)
+   - Buffer
    - [Facebook page](https://www.facebook.com/djangoconus/)
 - Email marketing: [Mailchimp](http://mailchimp.com/)
 - [1Password Team](https://djangocon.1password.com/signin)

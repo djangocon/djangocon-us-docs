@@ -48,10 +48,13 @@ nav_order: 3
 
 Update all social media with new branding and dates each year
 
-- [ ] Twitter
+- [ ] Mastodon
+- [ ] Bluesky
+- [ ] LinkedIn
 - [ ] Facebook
 - [ ] YouTube
 - [ ] Flickr
+- [ ] Attendee slack
 
 ## Other
 

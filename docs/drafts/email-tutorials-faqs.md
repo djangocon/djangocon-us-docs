@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Program - FAQs about Presenting a Tutorial 
+title: Program - FAQs about Presenting a Tutorial
 parent: Templates
 ---
 
-# Proram - FAQs about Presenting a Tutorial 
+# Proram - FAQs about Presenting a Tutorial
 
 Hello everyone,
 
@@ -14,7 +14,7 @@ A few of you have asked about tutorial fees and I thought it'd be best to discus
 
 ## How much are tutorials?
 
-Tutorials are ${{tutorial_price}} a person and we pay *you* {{tutorial_speaker_percent}} of that. 
+Tutorials are ${{tutorial_price}} a person and we pay *you* {{tutorial_speaker_percent}} of that.
 
 ## What does the ${{tutorial_price}} cover?
 
@@ -46,8 +46,8 @@ We originally were capped at 25 attendees per room but we upgraded rooms. In the
 
 ## How many attendees have signed up for my tutorial?
 
-These range from 7 to 25, but we still have two+ weeks left to market them. Email me for an exact number. 
+These range from 7 to 25, but we still have two+ weeks left to market them. Email me for an exact number.
 
 ## Can we promote our own tutorials?
 
-Not only can you promote your own tutorials, we would really appreciate if you would promote your tutorial via Twitter and social media :)
+Not only can you promote your own tutorials, we would really appreciate if you would promote your tutorial via social media :)

@@ -11,17 +11,18 @@ nav_order: 11
 
 - [ ] Make past DjangoCon US site static
 - [ ] Branding & design pass [PyCon example](https://github.com/PyCon/2015/wiki/PyCon-2015-Branding)
-- [ ] Create new website repository 
+- [ ] Create new website repository
 - [ ] Stand up new DjangoCon US site
 - [ ] Compile a wish-list of website improvements
 - [ ] Determine who will be making these improvements
 - [ ] Replace all references to past year with current year
 - [ ] Review all content to make sure it's current (red pen)
-- [ ] Branding files for: 
-  - [ ] Social media avatar 
-  - [ ] Facebook cover photo 
-  - [ ] Twitter cover photo 
-  - [ ] YouTube cover photo 
+- [ ] Branding files for:
+  - [ ] Social media avatar
+  - [ ] Facebook cover photo
+  - [ ] Mastodon cover photo
+  - [ ] Bluesky cover photo
+  - [ ] YouTube cover photo
 
 ## Swag
 
@@ -41,22 +42,22 @@ nav_order: 11
 
 ### Signage
 
-- [ ] Large panel banners: 
+- [ ] Large panel banners:
     - [ ] Two 3-panel banner sets for presentation rooms (with upper-tier sponsors)
     - [ ] Two single-panel banners for registration, etc.
-- [ ] Large foamboard signs on easels: 
-    - [ ] Two with WiFi information 
-    - [ ] Two with Code of Conduct policy 
-    - [ ] Two with Code of Conduct contact information 
-    - [ ] One with photo policy 
-    - [ ] One to label Quiet Room 
-    - [ ] One to label Speaker Room 
+- [ ] Large foamboard signs on easels:
+    - [ ] Two with WiFi information
+    - [ ] Two with Code of Conduct policy
+    - [ ] Two with Code of Conduct contact information
+    - [ ] One with photo policy
+    - [ ] One to label Quiet Room
+    - [ ] One to label Speaker Room
     - [ ] One for bathroom policy
 - [ ] 8.5 x 11 signage in standup sign holders:
     - [ ] 1 per each sponsor with a booth
-    - [ ] 1 per bathroom for bathroom baskets 
-    - [ ] 1 with wifi info for registration 
-    - [ ] 2 sets of speaker timekeeping (15 / 10 / 5 / 0) 
+    - [ ] 1 per bathroom for bathroom baskets
+    - [ ] 1 with wifi info for registration
+    - [ ] 2 sets of speaker timekeeping (15 / 10 / 5 / 0)
 - [ ] Order easels from the venue
 - [ ] Registration desk branding
 - [ ] Podium branding
@@ -66,7 +67,7 @@ nav_order: 11
 - [ ] Print sprint room sign-up board on foam core*
 - [ ] T-shirt signs (when unclaimed t-shirts will go on sale, etc)*
 
-* If doing 
+* If doing
 
 ### T-shirts
 
@@ -81,7 +82,7 @@ nav_order: 11
 - [ ] Badge Design
 - [ ] Lead retrieval considerations
 - [ ] Ribbons for attendee types (speaker, sponsor, "ask me", etc.)
-- [ ] Pronoun buttons 
-- [ ] Print extra blank badges for onsite registrants or spelling mistakes 
-- [ ] Lanyard -- if sponsored, coordinate with sponsor on who is ordering. 
-- [ ] Order lanyards in red/yellow/other color for photography policy 
+- [ ] Pronoun buttons
+- [ ] Print extra blank badges for onsite registrants or spelling mistakes
+- [ ] Lanyard -- if sponsored, coordinate with sponsor on who is ordering.
+- [ ] Order lanyards in red/yellow/other color for photography policy
