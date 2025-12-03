@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Program Checklists
-parent: Program
+title: Program and Schedule Checklists
+parent: Program and Schedule
 nav_order: 2
 ---
 
@@ -27,12 +27,12 @@ nav_order: 2
 - [ ] Recruit speaker mentors
 - [ ] Publicize the existence of speaker mentors
 - [ ] Publicize the CFP and deadlines
-   - [ ] (what's left of) Twitter
-   - [ ] Mastodon
-   - [ ] Django Forum
-   - [ ] Django Discord
-   - [ ] PSF Community Mailing List
-   - [ ] DSF Members Mailing List
+  - [ ] (what's left of) Twitter
+  - [ ] Mastodon
+  - [ ] Django Forum
+  - [ ] Django Discord
+  - [ ] PSF Community Mailing List
+  - [ ] DSF Members Mailing List
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Draft & send the accept/decline emails

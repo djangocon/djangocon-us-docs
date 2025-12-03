@@ -81,15 +81,15 @@ nav:
   - "Opportunity Grants":
       - "opportunity_grants/checklist.md"
       - "opportunity_grants/opportunity_grants.md"
-  - "Program":
-      - "program/checklist.md"
-      - "program/example_schedule.md"
-      - "program/lightning_talks.md"
-      - "program/orientation.md"
-      - "program/program.md"
-      - "program/sprints.md"
-      - "program/sprints_checklist.md"
-      - "program/timeline.md"
+  - "Program and Schedule":
+      - "program_and_schedule/checklist.md"
+      - "program_and_schedule/example_schedule.md"
+      - "program_and_schedule/lightning_talks.md"
+      - "program_and_schedule/orientation.md"
+      - "program_and_schedule/program.md"
+      - "program_and_schedule/sprints.md"
+      - "program_and_schedule/sprints_checklist.md"
+      - "program_and_schedule/timeline.md"
   - "Social Events":
       - "social_events/checklist.md"
   - "Sponsors":

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orientation
-parent: Program
+parent: Program and Schedule
 nav_order: 5
 ---
 

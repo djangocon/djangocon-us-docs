@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Timeline
-parent: Program
+parent: Program and Schedule
 nav_order: 3
 ---
 
@@ -71,7 +71,7 @@ These deadlines were from 2024, where the conference was held the week of Septem
 - July 8 - notification date (stay quiet on socials until this has passed)
 - July 9 - publish the schedule as a blog post
 - July 19 - let waitlisted know if their talk was swapped into schedule or not
-early August - send out Google drive link to online talks
+  early August - send out Google drive link to online talks
 - August 19 - online talk recordings uploaded by this date
 - August 23 - hotel reservations by attendees must be received on or before this date
 - August 25 - redeem speaker ticket by this date

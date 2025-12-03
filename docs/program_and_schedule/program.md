@@ -3,7 +3,7 @@ layout: page
 title: Program
 nav_order: 5
 has_children: true
-parent: Program
+parent: Program and Schedule
 permalink: /program
 ---
 
