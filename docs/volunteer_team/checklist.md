@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Volunteer Team Checklist
+parent: Volunteer Team
 nav_order: 1
 ---
 

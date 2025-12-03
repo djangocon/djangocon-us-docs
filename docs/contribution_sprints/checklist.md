@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Contribution Sprints Checklist
+parent: Contribution Sprints
 nav_order: 1
 ---
 

@@ -12,14 +12,22 @@ nav:
   - "index.md"
   - "Conference Chair":
       - "conference_chair/checklist.md"
+  - "A/V":
+      - "av/checklist.md"
   - "Communications":
       - "communications/checklist.md"
       - "communications/communications.md"
       - "communications/mailing_lists.md"
       - "communications/remarks.md"
+  - "Community":
+      - "community/checklist.md"
+      - "community/visas.md"
+      - "community/orientation.md"
   - "Conduct":
       - "conduct/checklist.md"
       - "conduct/conduct.md"
+  - "Contribution Sprints":
+      - "contribution_sprints/checklist.md"
   - "Drafts":
       - "drafts/coc_about.md"
       - "drafts/coc_complaint.md"
@@ -43,10 +51,14 @@ nav:
       - "experience/special_events.md"
       - "experience/visas.md"
       - "experience/volunteers.md"
+  - "Health and Safety":
+      - "health_and_safety/checklist.md"
   - "Inclusion":
       - "inclusion/checklist.md"
       - "inclusion/childcare.md"
       - "inclusion/inclusion.md"
+  - "Lightning Talks":
+      - "lightning_talks/checklist.md"
   - "Logistics":
       - "logistics/av.md"
       - "logistics/budget.md"
@@ -62,6 +74,10 @@ nav:
       - "logistics/venue.md"
       - "logistics/venue_checklist.md"
       - "logistics/website.md"
+  - "Marketing":
+      - "marketing/checklist.md"
+  - "Online Committee":
+      - "online_committee/checklist.md"
   - "Opportunity Grants":
       - "opportunity_grants/checklist.md"
       - "opportunity_grants/opportunity_grants.md"
@@ -74,9 +90,21 @@ nav:
       - "program/sprints.md"
       - "program/sprints_checklist.md"
       - "program/timeline.md"
+  - "Social Events":
+      - "social_events/checklist.md"
   - "Sponsors":
       - "sponsors/checklist.md"
       - "sponsors/sponsors.md"
+  - "Swag":
+      - "swag/checklist.md"
+  - "Tickets":
+      - "tickets/checklist.md"
+  - "Venue":
+      - "venue/checklist.md"
+  - "Volunteer Team":
+      - "volunteer_team/checklist.md"
+  - "Website":
+      - "website/checklist.md"
 plugins:
   - search
 repo_url: https://github.com/djangocon/djangocon-us-docs

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Tickets Checklist
+parent: Tickets
 nav_order: 1
 ---
 

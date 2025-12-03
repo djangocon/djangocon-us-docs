@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Marketing Checklist
+parent: Marketing
 nav_order: 1
 ---
 

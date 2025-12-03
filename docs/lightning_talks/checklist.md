@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Lightning Talks Checklist
+parent: Lightning Talks
 nav_order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Community Checklist
+parent: Community
 nav_order: 1
 ---
 

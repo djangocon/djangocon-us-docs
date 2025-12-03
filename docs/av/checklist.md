@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: A/V Checklist
+parent: A/V
 nav_order: 1
 ---
 

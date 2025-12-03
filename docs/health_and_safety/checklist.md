@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Health and Safety Checklist
+parent: Health and Safety
 nav_order: 1
 ---
 

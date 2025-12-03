@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Swag Checklist
+parent: Swag
 nav_order: 1
 ---
 

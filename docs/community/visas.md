@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
-nav_order: 1
+title: Visas
+parent: Community
+nav_order: 2
 ---
 
 ## First list

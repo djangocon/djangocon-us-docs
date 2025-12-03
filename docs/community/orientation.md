@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
-nav_order: 1
+title: Orientation
+parent: Community
+nav_order: 3
 ---
 
 ## First list
