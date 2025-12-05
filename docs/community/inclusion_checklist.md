@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Accessibility & Inclusion Checklists
-parent: Accessibility & Inclusion
-nav_order: 3
+parent: Community
+nav_order: 4
 ---
 
 # Accessibility & Inclusion Checklists

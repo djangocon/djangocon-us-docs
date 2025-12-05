@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Sprints
-parent: Program and Schedule
-nav_order: 7
+parent: Contribution Sprints
+nav_order: 2
 ---
 
 # Sprints

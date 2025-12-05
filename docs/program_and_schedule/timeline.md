@@ -1,8 +1,12 @@
+<!-- TODO: Move any info regarding Lightning Talks, Orientation, and Sprints to their respective folders -->
+
 ---
+
 layout: page
 title: Timeline
 parent: Program and Schedule
 nav_order: 3
+
 ---
 
 # Program Timeline

@@ -5,17 +5,18 @@ parent: Community
 nav_order: 2
 ---
 
-## First list
+Team Size: 1
 
-- [ ] First item
-- [ ] Second item
+## Responsibilities
 
-## Second List
+- Manage visas@djangocon.us email account
+- Update visa invitation template
+- Issue visa invitation letters when requested by potential attendees
+- Make sure that visa and international travel information is posted on website in a timely manner
 
-- [ ] First item
-- [ ] Second item
+## Checklist
 
-## Other
-
-- [ ] First item
-- [ ] Second item
+- [ ] Update template
+- [ ] Create form for people to fill out with the information we need to fill out their invitation letter
+- [ ] Send people invitation letters
+- [ ] Post a blog post with international travel recommendations

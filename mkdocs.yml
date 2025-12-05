@@ -12,22 +12,6 @@ nav:
   - "index.md"
   - "Conference Chair":
       - "conference_chair/checklist.md"
-  - "A/V":
-      - "av/checklist.md"
-  - "Communications":
-      - "communications/checklist.md"
-      - "communications/communications.md"
-      - "communications/mailing_lists.md"
-      - "communications/remarks.md"
-  - "Community":
-      - "community/checklist.md"
-      - "community/visas.md"
-      - "community/orientation.md"
-  - "Conduct":
-      - "conduct/checklist.md"
-      - "conduct/conduct.md"
-  - "Contribution Sprints":
-      - "contribution_sprints/checklist.md"
   - "Drafts":
       - "drafts/coc_about.md"
       - "drafts/coc_complaint.md"
@@ -44,38 +28,38 @@ nav:
       - "drafts/volunteer-info-email.md"
       - "drafts/volunteer.md"
       - "drafts/why-to-attend.md"
-  - "Experience":
-      - "experience/bathroom-baskets.md"
-      - "experience/experience.md"
-      - "experience/registration.md"
-      - "experience/special_events.md"
-      - "experience/visas.md"
-      - "experience/volunteers.md"
+  - "A/V":
+      - "av/checklist.md"
+  - "Community":
+      - "community/checklist.md"
+      - "community/visas.md"
+      - "community/orientation.md"
+      - "community/inclusion_checklist.md"
+      - "community/childcare.md"
+      - "community/inclusion.md"
+  - "Conduct":
+      - "conduct/checklist.md"
+      - "conduct/conduct.md"
+  - "Contribution Sprints":
+      - "contribution_sprints/checklist.md"
+      - "contribution_sprints/sprints.md"
   - "Health and Safety":
       - "health_and_safety/checklist.md"
-  - "Inclusion":
-      - "inclusion/checklist.md"
-      - "inclusion/childcare.md"
-      - "inclusion/inclusion.md"
   - "Lightning Talks":
       - "lightning_talks/checklist.md"
   - "Logistics":
-      - "logistics/av.md"
       - "logistics/budget.md"
       - "logistics/design_website_checklist.md"
       - "logistics/logistics.md"
       - "logistics/organizers.md"
       - "logistics/photographer.md"
       - "logistics/post_conference.md"
-      - "logistics/schedule.md"
-      - "logistics/swag.md"
-      - "logistics/tickets.md"
       - "logistics/timeline.md"
-      - "logistics/venue.md"
-      - "logistics/venue_checklist.md"
-      - "logistics/website.md"
   - "Marketing":
       - "marketing/checklist.md"
+      - "marketing/communications.md"
+      - "marketing/mailing_lists.md"
+      - "marketing/remarks.md"
   - "Online Committee":
       - "online_committee/checklist.md"
   - "Opportunity Grants":
@@ -84,27 +68,33 @@ nav:
   - "Program and Schedule":
       - "program_and_schedule/checklist.md"
       - "program_and_schedule/example_schedule.md"
-      - "program_and_schedule/lightning_talks.md"
-      - "program_and_schedule/orientation.md"
       - "program_and_schedule/program.md"
-      - "program_and_schedule/sprints.md"
-      - "program_and_schedule/sprints_checklist.md"
       - "program_and_schedule/timeline.md"
+      - "program_and_schedule/schedule.md"
   - "Social Events":
       - "social_events/checklist.md"
+      - "social_events/special_events.md"
   - "Sponsors":
       - "sponsors/checklist.md"
       - "sponsors/sponsors.md"
   - "Swag":
       - "swag/checklist.md"
+      - "swag/swag.md"
   - "Tickets":
       - "tickets/checklist.md"
+      - "tickets/tickets.md"
   - "Venue":
       - "venue/checklist.md"
+      - "venue/venue.md"
+      - "venue/bathroom-baskets.md"
+      - "venue/experience.md"
   - "Volunteer Team":
       - "volunteer_team/checklist.md"
+      - "volunteer_team/registration.md"
   - "Website":
       - "website/checklist.md"
+      - "website/website.md"
+
 plugins:
   - search
 repo_url: https://github.com/djangocon/djangocon-us-docs

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Communications
-nav_order: 3
+nav_order: 2
 has_children: true
-parent: Communications
-permalink: /communications
+parent: Marketing
+permalink: /marketing
 ---
 
 # Communications and Social Media
@@ -25,13 +25,13 @@ Team Size: 1-3
 - Create this year's conference attendee Slack channel
 - Write post-conference wrap up and coordinate with sponsors to make sure DSF, PSF, and DEFNA receive the post (as requested when they sponsor)
 
-| Site | Handle |
-| --- | --- |
-| Twitter | [@djangocon](https://twitter.com/djangocon) |
-| Facebook | [djangoconus](https://www.facebook.com/djangoconus) |
-| YouTube | [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw) |
-| GitHub | [djangocon](https://github.com/djangocon/) (Not just US) |
-| Flickr | [DjangoCon US](https://www.flickr.com/people/144080672@N05/) |
+| Site     | Handle                                                                   |
+| -------- | ------------------------------------------------------------------------ |
+| Twitter  | [@djangocon](https://twitter.com/djangocon)                              |
+| Facebook | [djangoconus](https://www.facebook.com/djangoconus)                      |
+| YouTube  | [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw) |
+| GitHub   | [djangocon](https://github.com/djangocon/) (Not just US)                 |
+| Flickr   | [DjangoCon US](https://www.flickr.com/people/144080672@N05/)             |
 
 ## Notes
 
