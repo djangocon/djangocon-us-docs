@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Conference Chair Checklist
-parent: Conference Chair
+title: Online Committee Checklist
+parent: Online Committee
 nav_order: 1
 ---
 
