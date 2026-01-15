@@ -2,7 +2,7 @@
 layout: page
 title: Child Care
 parent: Community
-nav_order: 5
+nav_order: 6
 ---
 
 # Child Care
