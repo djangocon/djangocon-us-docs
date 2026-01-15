@@ -27,8 +27,7 @@ nav_order: 2
 - [ ] Recruit speaker mentors
 - [ ] Publicize the existence of speaker mentors
 - [ ] Publicize the CFP and deadlines
-  - [ ] (what's left of) Twitter
-  - [ ] Mastodon
+  - [ ] Social media (coordinate with communications team)
   - [ ] Django Forum
   - [ ] Django Discord
   - [ ] PSF Community Mailing List

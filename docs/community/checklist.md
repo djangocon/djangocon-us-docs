@@ -7,7 +7,7 @@ nav_order: 2
 
 ## 7 months out
 
-- [ ] Touch base with person overseeing Visas and person giving orientation speach. Let them know they can come to you if you need anything.
+- [ ] Talk to person overseeing Visas and person giving orientation speech. Let them know they can come to you if you need anything.
 - [ ] Confirm Visa email is set up
 
 ## 6 months out
@@ -15,9 +15,11 @@ nav_order: 2
 - [ ] Outreach to local groups ([example tracking](https://docs.google.com/spreadsheets/d/1LORNqrTTv-9aqt6XWeaCsCpSePvN-cXrFesFuXi6W4o/edit?usp=sharing) from previous years) <strong>- This didn't seem very effective, do we want to rethink or abandon it?</strong>
 - [ ] Design and put up flyers in conference city - ideally before early bird ticket cutoff
 
-## 2 months out
+## When list of talks is released
 
 - [ ] Confirm speakers have gotten their Visa letter (esp keynote speakers)
+
+## 2 months out
 - [ ] Confirm with Venue team that there is a space for Private Wellness Room (including fridge for nursing parents to use)
 - [ ] Child care - check on reputable places near the venue we can recommend
   - [ ] We have been giving stipend of $150/day, but confirm that’s accurate
@@ -25,7 +27,7 @@ nav_order: 2
 
 ## During conference
 
-- [ ] Day or two before: Send out email with map of conference layout, including side rooms
+- [ ] Day or two before: Send out email to attendees with a map of conference layout, including side rooms
 - [ ] Put up Private Wellness Room signs (examples of [sign 1](https://docs.google.com/document/d/1K-zmQ9yFXwniNPN6REOZJSaJiI4qEf4dY7BoD6G7d7U/edit?usp=sharing), [sign 2](https://docs.google.com/document/d/19c0SeDO8AX_iepGZDGD3g8ytRbO73pNHSKz2frseiQQ/edit?tab=t.0))
 
 ## After conference
@@ -41,4 +43,4 @@ nav_order: 2
 
 ## Hackathon
 
-- TBD if we will do hackathon
+- TBD if we will do hackathon in 2026

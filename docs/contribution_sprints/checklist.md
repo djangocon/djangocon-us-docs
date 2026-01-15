@@ -8,7 +8,7 @@ nav_order: 1
 ## Sprints Checklist
 
 - [ ] Update the sprints page on the site
-- [ ] Encourage projects to have a list of easy tickets ready and publish them beforehand. Projects to reach out to:
+- [ ] Encourage projects to have a list of easy tickets ready and publish them beforehand. Projects to reach out to (TODO: Add links to projects):
   - [ ] Django
   - [ ] PyBee
   - [ ] Django Girls
@@ -22,4 +22,4 @@ nav_order: 1
 - [ ] Make sure sprinters know when & where lunch is so food isn't wasted
 - [ ] Check the temperature of the sprints rooms
 - [ ] Recruit sprint mentors
-- [ ] Verify strong wifi in the venue
+- [ ] Verify strong Wi-Fi in the venue (work with the venue team on this)

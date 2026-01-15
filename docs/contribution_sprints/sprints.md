@@ -12,8 +12,8 @@ Team Size: 1
 ## Responsibilities
 
 - Recruit a sprint venue, if not being provided by the conference venue
-- Ensure the sprint venue has adequate wifi, power, etc.
-- Coordinate sprint catering, if catering is not being provided by the regular conference venue contract
+- Ensure the sprint venue has adequate Wi-Fi, power, etc.
+- Coordinate sprint catering if it is not being provided by the regular conference venue contract
 - Be the point of contact for open-source projects that wish to sprint
 - Manage sprint announcements at the conference prior to sprints
 - Confirm sprint rooms

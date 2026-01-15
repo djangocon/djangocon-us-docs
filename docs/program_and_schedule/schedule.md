@@ -42,7 +42,7 @@ See [Special Events](../social_events/special_events.md) for other special event
 ### Newcomer Orientation
 
 - Cost: free
-- Schedule the evening after tutorials, or the first day of talks before the keynote
+- Schedule the first day of talks before the keynote
 - Presentation that lasts about 30-60 minutes and covers:
   - Code of Conduct
   - Impostor syndrome
@@ -52,4 +52,4 @@ See [Special Events](../social_events/special_events.md) for other special event
 
 - Cost: Free for the conference
 - At sponsor discretion
-- May include an evening event that they ask us to promote but we are not involved in (2018 Mini-Golf with Caktus), or a hosted lunch (2018's Women and Non-Binary Luncheon hosted by Microsoft Azuere Advocates) at the venue that we help them coordinate with venue staff but they fund.
+- May include an evening event that they ask us to promote but we are not involved in (2018 Mini-Golf with Caktus), or a hosted lunch at the venue that we help them coordinate with venue staff but they fund.

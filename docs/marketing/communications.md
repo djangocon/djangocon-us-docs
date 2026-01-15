@@ -25,6 +25,8 @@ Team Size: 1-3
 - Create this year's conference attendee Slack channel
 - Write post-conference wrap up and coordinate with sponsors to make sure DSF, PSF, and DEFNA receive the post (as requested when they sponsor)
 
+TODO: Add BlueSky, Mastodon and LinkedIn
+
 | Site     | Handle                                                                   |
 | -------- | ------------------------------------------------------------------------ |
 | Twitter  | [@djangocon](https://twitter.com/djangocon)                              |

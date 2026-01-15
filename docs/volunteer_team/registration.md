@@ -21,7 +21,7 @@ People will line up to check in about 15-30 minutes prior to the posted "open" t
 
 The tutorials day acts as a "dry run" for the first conference day.
 
-The first day of talks is the busiest day for registration.
+The first day of talks is the busiest day for registration, especially the morning thereof.
 
 ## Checklists
 

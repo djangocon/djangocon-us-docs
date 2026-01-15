@@ -29,7 +29,7 @@ nav_order: 2
 - Organizer room - meeting room
 - Speaker green room - meeting room
 - Quiet room - meeting room
-- (Possible) Nursing room - meeting room preferably with no windows, a door that closes and/or locks, and access to a sink and/or fridge
+- (Possible) Lactation room - meeting room preferably with no windows, a door that closes and locks, and access to a sink and/or fridge
 - 2-3 tutorials rooms, capacity 30-40 each
 - 2 large presentation rooms, 1 of which must seat ~400 people
 - Space for an exhibit hall for ~12 sponsor tables

@@ -11,8 +11,8 @@ Team Size: 1
 
 ## Responsibilities
 
-- Work with treasurer to develop budget for childcare
-- Work with DEFNA and venue liaison to confirm options for onsite childcare (usually not an option for insurance purposes)
+- Work with DEFNA treasurer to develop budget for childcare
+- Work with DEFNA and venue liaison to confirm options for onsite childcare (usually not an option due to insurance limitations)
 - Work with local volunteers to find a childcare provider
 - Work with communications to communicate childcare signup form and other relevant details
 - Make sure attendees using childcare are informed of processes

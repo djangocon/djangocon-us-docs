@@ -19,4 +19,4 @@ Team Size: 1
 - [ ] Update template
 - [ ] Create form for people to fill out with the information we need to fill out their invitation letter
 - [ ] Send people invitation letters
-- [ ] Post a blog post with international travel recommendations
+- [ ] Post a blog post with international travel recommendations ([2024 example](https://github.com/djangocon/2024.djangocon.us/blob/main/src/_content/posts/guide-to-america.md))

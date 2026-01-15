@@ -66,7 +66,7 @@ We set 5% as an overselling goal. After polling half a dozen conference organize
 
 Tutorials are currenty priced at $195/session. From 2015-2017, they were $150/session. We have 2 or 3 morning tutorials and 2 or 3 afternoon tutorials, for 4-6 tutorials total. The decision to host 4 or 6 tutorials can change year to year; in 2018, the conference sold almost entirely out of 6 tutorials.
 
-Tutorial presenters receive $60/attendee and a complimentary conference ticket; the rest of the tutorial cost generally goes toward catering. Tutorials are not profitable (nor are they designed to be).
+Tutorial presenters receive a percentage of the attendee ticket paid and a complimentary conference ticket; the rest of the tutorial cost generally goes toward catering. Tutorials are not profitable (nor are they designed to be).
 
 The attendance cap per tutorial depends on the room sizes in the venue; generally, the initial cap is 30 attendees, but we have been able to go as high as 35.
 

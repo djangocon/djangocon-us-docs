@@ -8,7 +8,7 @@ nav_order: 3
 Order supplies from Amazon, or acquire locally
 
 - [ ] small plastic baskets
-- [ ] Shout wipes
+- [ ] single-serve laundry support (e.g. Shout wipes, Tide pens)
 - [ ] menstrual pads
 - [ ] tampons
 - [ ] individually-wrapped Claritin or other allergy tablets
@@ -26,8 +26,8 @@ Assemble baskets (1 per bathroom). Put one of each item that can be resued (loti
 
 Place baskets on counters in all bathrooms. Be gender-inclusive and put all items in all baskets (some men menstruate, for example).
 
-Check on baskets at lunch and replenish if need be.
+Check on baskets after each break and replenish if need be.
 
 Remove baskets at the end of the conference day, and replenish and replace the next morning.
 
-- Tylenol is an ideal painkiller because most pregnant women are able to take it, and they generally should avoid other painkillers.
+- Tylenol is an ideal painkiller because most pregnant people are able to take it, and they generally should avoid other painkillers. However, if you can have both Tylenol and an NSAID like Advil, that is best as different people respond differently to different medications.

@@ -23,15 +23,13 @@ The responsibilities for each area described here are meant to be comprehensive,
 
 | Tool                                                           | Usage                                                                                                                                                                         |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bitbucket                                                      | Where we store private documents like Letter of Invitations and other sensitive documents                                                                                     |
 | [GitHub](https://github.com/djangocon/)                        | Github is our main code sharing tool                                                                                                                                          |
 | [Google Drive](https://drive.google.com/)                      | We use one shared DjangoCon US folder to manage our files                                                                                                                     |
-| [Google Hangouts](https://hangouts.google.com/)<br />BlueJeans | Services we use to hold organizer meetings                                                                                                                                    |
+| [Google Meet](https://meet.google.com/) and Zoom | Services we use to hold organizer meetings                                                                                                                                    |
 | [Mailchimp](https://mailchimp.com/)                            | Used for mass emails to attendees, sponsors, speakers, and people on our informational mailing list. See [Mailing Lists](../marketing/mailing_lists.md) for more information. |
 | Google Groups mailing lists                                    | Used for internal communication. See [Mailing Lists](../marketing/mailing_lists.md) for more information.                                                                     |
 | [Slack](https://slack.com/)                                    | Our realtime and async communication medium. We have public and private channels for a wide variety of conference topics                                                      |
-| [Trello](https://trello.com/)                                  | Our project management tool and todo list                                                                                                                                     |
-| [Tweetdeck](https://tweetdeck.twitter.com/) <br /> Buffer      | Tools we use to schedule promotional social media posts                                                                                                                       |
+| [Buffer](https://buffer.com)      | Tools we use to schedule promotional social media posts                                                                                                                       |
 
 ## Resources
 

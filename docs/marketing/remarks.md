@@ -12,7 +12,7 @@ nav_order: 4
 - [ ] Opening slide with branding
 - [ ] Internal slide with branding, but more internal space for messages
 - [ ] All sponsor logos (broken down by level)
-- [ ] Quiet room
+- [ ] Quiet room, Green Room, Wellness Room
 - [ ] Time/place of special events
 - [ ] Code of Conduct and contact info
 - [ ] Photo policy

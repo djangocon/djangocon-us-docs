@@ -7,5 +7,5 @@ nav_order: 8
 
 ## Previous Community Chairs
 
-- Nathan (2023-2024)
-- Jason (2022)
+- Nathan Zeager (2023-2024)
+- Jason Judkins (2022)
