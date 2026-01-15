@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accessibility & Inclusion
-nav_order: 6
+nav_order: 7
 has_children: true
 parent: Community
 permalink: /inclusion

@@ -31,12 +31,14 @@ nav:
   - "A/V":
       - "av/checklist.md"
   - "Community":
+      - "community/about.md"
       - "community/checklist.md"
       - "community/visas.md"
       - "community/orientation.md"
       - "community/inclusion_checklist.md"
       - "community/childcare.md"
       - "community/inclusion.md"
+      - "community/history.md"
   - "Conduct":
       - "conduct/checklist.md"
       - "conduct/conduct.md"

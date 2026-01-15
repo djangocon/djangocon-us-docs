@@ -2,7 +2,7 @@
 layout: page
 title: Orientation
 parent: Community
-nav_order: 3
+nav_order: 4
 ---
 
 # Orientation
