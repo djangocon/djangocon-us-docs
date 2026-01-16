@@ -9,6 +9,36 @@ We'll chat with you about how you'd like to contribute, then add you to our mail
 As a contributor, you can help us keep the Django community open and inclusive.
 Please read and follow our [Code of Conduct](https://www.djangoproject.com/conduct/).
 
-## To run locally:
+## To run locally
 
-Check out our docs: https://djangocon.github.io/djangocon-us-docs/#to-run-locally
+### With Docker Compose
+
+```bash
+# Start the docs server
+just up
+
+# Or run in detached mode
+just up -d
+
+# Stop the server
+just down
+```
+
+The docs will be available at http://127.0.0.1:8000
+
+### With uv (without Docker)
+
+Requires [uv](https://docs.astral.sh/uv/) to be installed.
+
+```bash
+# Install dependencies
+just bootstrap
+
+# Serve docs locally
+just serve
+
+# Build static site
+just build
+```
+
+The docs will be available at http://127.0.0.1:8000
