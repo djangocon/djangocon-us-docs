@@ -1,0 +1,10 @@
+[project]
+name = "djangocon-us-docs"
+version = "2026.1"
+description = "DjangoCon US organizer documentation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs",
+    "mkdocs-material",
+]

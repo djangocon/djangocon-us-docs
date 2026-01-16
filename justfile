@@ -1,23 +1,18 @@
 @_default:
     just --list
 
-bootstrap:
-    #!/usr/bin/env bash
-    set -euo pipefail
+# Install project dependencies
+@bootstrap:
+    uv sync
 
-    python -m pip install --upgrade pip uv
-    python -m uv pip install --requirement requirements.in
-
-    if [ ! -f "compose.override.yml" ]; then
-        echo "compose.override.yml created"
-        cp compose.override.yml-dist compose.override.yml
-    fi
-
+# Build the static documentation site
 @build:
-    python -m mkdocs build
+    uv run mkdocs build
 
+# Update uv.lock with latest dependency versions
 @lock:
-    python -m uv pip compile --output-file requirements.txt requirements.in
+    uv lock
 
+# Serve docs locally at http://127.0.0.1:8000
 @serve:
-    python -m mkdocs serve
+    uv run mkdocs serve

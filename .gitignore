@@ -1,12 +1,2 @@
-.bundle
 .DS_Store
-.jekyll-metadata
-.sass-cache
-.vendor
-_site
-bower_components/
-compose.override.yml
-Gemfile.lock
-node_modules/
-npm-debug.log
-site
+site/
