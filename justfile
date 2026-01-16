@@ -16,3 +16,11 @@
 # Serve docs locally at http://127.0.0.1:8000
 @serve:
     uv run mkdocs serve
+
+# Start Docker containers
+@up *ARGS:
+    docker compose up {{ ARGS }}
+
+# Stop Docker containers
+@down *ARGS:
+    docker compose down {{ ARGS }}
