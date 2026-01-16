@@ -11,24 +11,26 @@ Please read and follow our [Code of Conduct](https://www.djangoproject.com/condu
 
 ## To run locally
 
-### With Docker Compose
+### With uv
+
+Requires [uv](https://docs.astral.sh/uv/) to be installed.
 
 ```bash
-# Start the docs server
-just up
+# Install dependencies
+uv sync
 
-# Or run in detached mode
-just up -d
+# Serve docs locally
+uv run mkdocs serve
 
-# Stop the server
-just down
+# Build static site
+uv run mkdocs build
 ```
 
 The docs will be available at http://127.0.0.1:8000
 
-### With uv (without Docker)
+### With just
 
-Requires [uv](https://docs.astral.sh/uv/) to be installed.
+Requires [just](https://github.com/casey/just) and [uv](https://docs.astral.sh/uv/) to be installed.
 
 ```bash
 # Install dependencies
@@ -39,6 +41,23 @@ just serve
 
 # Build static site
 just build
+```
+
+The docs will be available at http://127.0.0.1:8000
+
+### With Docker Compose
+
+Requires [just](https://github.com/casey/just) and [Docker](https://www.docker.com/) to be installed.
+
+```bash
+# Start the docs server
+just up
+
+# Or run in detached mode
+just up -d
+
+# Stop the server
+just down
 ```
 
 The docs will be available at http://127.0.0.1:8000
