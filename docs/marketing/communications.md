@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Communications
-nav_order: 2
+nav_order: 4
 has_children: true
 parent: Marketing
 permalink: /marketing

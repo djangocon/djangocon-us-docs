@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Tickets
+title: About
 parent: Tickets
-nav_order: 2
+nav_order: 1
 ---
 
-# Tickets
+## Overview of Tickets Responsibilities
 
 Get tickets on sale sooner rather than later.
 

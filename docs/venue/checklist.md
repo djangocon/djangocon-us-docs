@@ -2,7 +2,7 @@
 layout: page
 title: Venue Checklist
 parent: Venue
-nav_order: 1
+nav_order: 2
 ---
 
 # Venue Checklists

@@ -1,0 +1,7 @@
+services:
+  docs:
+    # for intel machines:
+    # platform: linux/amd64
+
+    # for mac M1+ machines:
+    platform: linux/arm64

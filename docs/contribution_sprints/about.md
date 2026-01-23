@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sprints
+title: About
 parent: Contribution Sprints
-nav_order: 2
+nav_order: 1
 ---
 
-# Sprints
+## Overview of Contribution Sprints Responsibilities
 
 Team Size: 1
 

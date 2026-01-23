@@ -11,7 +11,9 @@ markdown_extensions:
 nav:
   - "index.md"
   - "Conference Chair":
+      - "conference_chair/about.md"
       - "conference_chair/checklist.md"
+      - "conference_chair/history.md"
   - "Drafts":
       - "drafts/coc_about.md"
       - "drafts/coc_complaint.md"
@@ -29,7 +31,9 @@ nav:
       - "drafts/volunteer.md"
       - "drafts/why-to-attend.md"
   - "A/V":
+      - "av/about.md"
       - "av/checklist.md"
+      - "av/history.md"
   - "Community":
       - "community/about.md"
       - "community/checklist.md"
@@ -40,15 +44,21 @@ nav:
       - "community/inclusion.md"
       - "community/history.md"
   - "Conduct":
+      - "conduct/about.md"
       - "conduct/checklist.md"
-      - "conduct/conduct.md"
+      - "conduct/history.md"
   - "Contribution Sprints":
+      - "contribution_sprints/about.md"
       - "contribution_sprints/checklist.md"
-      - "contribution_sprints/sprints.md"
+      - "contribution_sprints/history.md"
   - "Health and Safety":
+      - "health_and_safety/about.md"
       - "health_and_safety/checklist.md"
+      - "health_and_safety/history.md"
   - "Lightning Talks":
+      - "lightning_talks/about.md"
       - "lightning_talks/checklist.md"
+      - "lightning_talks/history.md"
   - "Logistics":
       - "logistics/budget.md"
       - "logistics/design_website_checklist.md"
@@ -58,44 +68,60 @@ nav:
       - "logistics/post_conference.md"
       - "logistics/timeline.md"
   - "Marketing":
+      - "marketing/about.md"
       - "marketing/checklist.md"
+      - "marketing/history.md"
       - "marketing/communications.md"
       - "marketing/mailing_lists.md"
       - "marketing/remarks.md"
   - "Online Committee":
+      - "online_committee/about.md"
       - "online_committee/checklist.md"
+      - "online_committee/history.md"
   - "Opportunity Grants":
+      - "opportunity_grants/about.md"
       - "opportunity_grants/checklist.md"
-      - "opportunity_grants/opportunity_grants.md"
+      - "opportunity_grants/history.md"
   - "Program and Schedule":
+      - "program_and_schedule/about.md"
       - "program_and_schedule/checklist.md"
+      - "program_and_schedule/history.md"
       - "program_and_schedule/example_schedule.md"
       - "program_and_schedule/program.md"
       - "program_and_schedule/timeline.md"
       - "program_and_schedule/schedule.md"
   - "Social Events":
+      - "social_events/about.md"
       - "social_events/checklist.md"
+      - "social_events/history.md"
       - "social_events/special_events.md"
   - "Sponsors":
+      - "sponsors/about.md"
       - "sponsors/checklist.md"
-      - "sponsors/sponsors.md"
+      - "sponsors/history.md"
   - "Swag":
+      - "swag/about.md"
       - "swag/checklist.md"
-      - "swag/swag.md"
+      - "swag/history.md"
   - "Tickets":
+      - "tickets/about.md"
       - "tickets/checklist.md"
-      - "tickets/tickets.md"
+      - "tickets/history.md"
   - "Venue":
+      - "venue/about.md"
       - "venue/checklist.md"
-      - "venue/venue.md"
       - "venue/bathroom-baskets.md"
       - "venue/experience.md"
+      - "venue/history.md"
   - "Volunteer Team":
+      - "volunteer_team/about.md"
       - "volunteer_team/checklist.md"
       - "volunteer_team/registration.md"
+      - "volunteer_team/history.md"
   - "Website":
+      - "website/about.md"
       - "website/checklist.md"
-      - "website/website.md"
+      - "website/history.md"
 
 plugins:
   - search

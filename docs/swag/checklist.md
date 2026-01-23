@@ -2,7 +2,7 @@
 layout: page
 title: Swag Checklist
 parent: Swag
-nav_order: 1
+nav_order: 2
 ---
 
 ## First list

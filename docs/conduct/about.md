@@ -1,11 +1,11 @@
 ---
 layout: page
-nav_order: 2
+title: About
 parent: Conduct
-title: Code of Conduct
+nav_order: 1
 ---
 
-# Code of Conduct 
+## Overview of Conduct Responsibilities
 
 Team Size: 3-4
 

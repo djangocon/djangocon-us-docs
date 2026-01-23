@@ -2,7 +2,7 @@
 layout: page
 title: Special Events
 parent: Social Events
-nav_order: 2
+nav_order: 4
 ---
 
 ## Special Events

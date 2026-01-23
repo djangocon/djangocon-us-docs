@@ -2,7 +2,7 @@
 layout: page
 title: Lightning Talks Checklist
 parent: Lightning Talks
-nav_order: 1
+nav_order: 2
 ---
 
 ## Responsibilities

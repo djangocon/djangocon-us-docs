@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 parent: Program and Schedule
-nav_order: 5
+nav_order: 6
 ---
 
 # Schedule

@@ -2,7 +2,7 @@
 layout: page
 title: Marketing Checklist
 parent: Marketing
-nav_order: 3
+nav_order: 2
 ---
 
 ## Blog Posts

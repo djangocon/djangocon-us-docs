@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Website
+title: About
 parent: Website
-nav_order: 2
+nav_order: 1
 ---
 
-# Website
+## Overview of Website Responsibilities
 
 ## Responsibilities
 

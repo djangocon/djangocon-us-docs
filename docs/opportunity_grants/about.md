@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Opportunity Grants
-nav_order: 7
-has_children: true
+title: About
 parent: Opportunity Grants
-permalink: /finaid
+nav_order: 1
 ---
 
-# Opportunity Grants
+## Overview of Opportunity Grants Responsibilities
 
 Team size: 1-2
 

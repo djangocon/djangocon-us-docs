@@ -2,7 +2,7 @@
 layout: page
 title: Social Events Checklist
 parent: Social Events
-nav_order: 1
+nav_order: 2
 ---
 
 ## First list

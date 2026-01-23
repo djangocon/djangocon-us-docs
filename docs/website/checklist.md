@@ -2,7 +2,7 @@
 layout: page
 title: Website Checklist
 parent: Website
-nav_order: 1
+nav_order: 2
 ---
 
 ## First list

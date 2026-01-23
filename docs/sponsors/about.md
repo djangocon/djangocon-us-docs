@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Sponsors
-nav_order: 6
-has_children: true
+title: About
 parent: Sponsors
-permalink: /sponsors
+nav_order: 1
 ---
 
-# Sponsors
+## Overview of Sponsors Responsibilities
 
 Team Size: 1-2
 
