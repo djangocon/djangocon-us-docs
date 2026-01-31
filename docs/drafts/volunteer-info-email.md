@@ -12,7 +12,7 @@ Hey there, volunteers!
 
 Thank you so much for volunteering with DjangoCon US! We truly couldn't do this without your help, and we appreciate your time. Here are some things that might make your volunteer experience easier: 
 
-- The [volunteer handbook](https://2016.djangocon.us/volunteers/handbook/) is online. This includes contact information for the conference staff, important phone numbers, a schedule of events, locations of important rooms, and some tips for sessions chairs and session runners. 
+- The volunteer handbook (TBD) is online. This includes contact information for the conference staff, important phone numbers, a schedule of events, locations of important rooms, and some tips for sessions chairs and session runners. 
 - Review the volunteer shifts you signed up for, and set yourself a reminder so you don't lose track of time. (It's easy to do at a conference where so many awesome things are going on!) 
 - If you witness a Code of Conduct violation, or someone reports one to you, please call conference staff as soon as possible; let the person who reported the violation know you have done so; offer to stay with them until we arrive; offer to help them with contacting a friend, hotel security, law enforcement, or anyone else; and do not make any public statements about the event. Respect their privacy. 
 
