@@ -2,7 +2,7 @@
 layout: page
 title: Conference Chair Checklist
 parent: Conference Chair
-nav_order: 1
+nav_order: 2
 ---
 
 ## First list

@@ -4,7 +4,7 @@
 layout: page
 title: Timeline
 parent: Program and Schedule
-nav_order: 3
+nav_order: 7
 ---
 
 # Program Timeline

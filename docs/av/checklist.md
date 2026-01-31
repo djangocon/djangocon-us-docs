@@ -2,7 +2,7 @@
 layout: page
 title: A/V Checklist
 parent: A/V
-nav_order: 1
+nav_order: 2
 ---
 
 ## Responsibilities

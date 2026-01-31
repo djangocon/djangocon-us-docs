@@ -2,7 +2,7 @@
 layout: page
 title: Health and Safety Checklist
 parent: Health and Safety
-nav_order: 1
+nav_order: 2
 ---
 
 ## First list

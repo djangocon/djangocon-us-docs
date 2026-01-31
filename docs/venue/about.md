@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Venue
+title: About
 parent: Venue
-nav_order: 2
+nav_order: 1
 ---
 
-# Venue
+## Overview of Venue Responsibilities
 
 ## Prior to the conference
 

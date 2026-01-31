@@ -2,7 +2,7 @@
 layout: page
 title: Volunteer Team Checklist
 parent: Volunteer Team
-nav_order: 1
+nav_order: 2
 ---
 
 Team Size: 1-2

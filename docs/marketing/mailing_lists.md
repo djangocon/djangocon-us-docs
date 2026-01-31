@@ -2,7 +2,7 @@
 layout: page
 title: Mailing Lists
 parent: Marketing
-nav_order: 3
+nav_order: 5
 ---
 
 # Mailing Lists

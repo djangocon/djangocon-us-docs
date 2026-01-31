@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Swag & Graphics
+title: About
 parent: Swag
-nav_order: 2
+nav_order: 1
 ---
 
-# Swag & Graphics
+## Overview of Swag Responsibilities
+
+*From Nathan: In the old documentation this was meant to cover Swag and Graphics*
 
 ## Responsibilities
 
