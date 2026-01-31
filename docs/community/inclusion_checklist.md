@@ -81,4 +81,4 @@ nav_order: 5
   - [ ] Invitation to contact us for accommodation not listed
 - [ ] Confirm registration asks for dietary restrictions
 - [ ] Confirm existence of student/diversity rate for registration
-- [ ] Tweet/blog about student/diversity rate
+- [ ] Post on social media/blog about student/diversity rate

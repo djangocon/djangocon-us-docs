@@ -46,12 +46,15 @@ nav_order: 2
 
 Update all social media with new branding and dates each year
 
-- [ ] Twitter
+- [ ] X
+- [ ] Bluesky
+- [ ] Mastodon
+- [ ] LinkedIn
 - [ ] Facebook
 - [ ] YouTube
 - [ ] Flickr
 
 ## Other
 
-- [ ] Tweet about each blog post as it happens
+- [ ] Post about each blog post on social media as it happens
 - [ ] Use

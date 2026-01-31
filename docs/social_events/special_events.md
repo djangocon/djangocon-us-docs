@@ -26,8 +26,8 @@ All of these are optional.
 - [ ] Book venue
 - [ ] Book food and drink (ensure a variety of non-alcoholic offerings, and food)
 - [ ] Add to website
-- [ ] Tweet and blog about opening reception
-- [ ] Tweet thanks
+- [ ] Post on social media and blog about opening reception
+- [ ] Post thanks on social media
 
 ## Speaker Dinner
 

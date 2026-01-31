@@ -19,7 +19,7 @@ nav_order: 2
 - [ ] Add sponsors to Mailchimp footer 
 - [ ] Send sponsor registration codes 
 - [ ] Email sponsors - reminders about logos and other assets
-- [ ] Tweet each sponsor as they sign up
+- [ ] Post about each sponsor on social media as they sign up
 - [ ] Help coordinate sponsor after-parties
 - [ ] Help answer the emails from sponsors with questions
 - [ ] Thank sponsors onsite during booth setup

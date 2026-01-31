@@ -102,7 +102,7 @@ nav_order: 1
 - **Website and Graphics** 
     - Finalize website copy 
 - **Communication** 
-    - Start regularly scheduling tweets and Facebook posts to promote things like ticket sales, hotel bookings, sponsorship opportunities, the Call for Proposals being open, the Opportunity Grant application being open
+    - Start regularly scheduling social media posts to promote things like ticket sales, hotel bookings, sponsorship opportunities, the Call for Proposals being open, the Opportunity Grant application being open
 - **Inclusion and Accessibility**
     - Make sure venue accessibility information is on the website  
     - Make sure Alcoholics Anonymous meetings are on the website 

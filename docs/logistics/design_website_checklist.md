@@ -20,7 +20,7 @@ nav_order: 11
 - [ ] Branding files for: 
   - [ ] Social media avatar 
   - [ ] Facebook cover photo 
-  - [ ] Twitter cover photo 
+  - [ ] X cover photo 
   - [ ] YouTube cover photo 
 
 ## Swag

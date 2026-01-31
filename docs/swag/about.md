@@ -12,7 +12,7 @@ nav_order: 1
 ## Responsibilities
 
 - Develop the visual brand for the conference together with the design team (outside hire)
-- Ensure brand is uniformly applied across conference materials and online presence (website, Facebook, Twitter, YouTube, other social media)
+- Ensure brand is uniformly applied across conference materials and online presence (website and social media)
 - Ensure the following swag items are ordered and delivered:
   - Swag bag itself
   - Stickers and/or buttons

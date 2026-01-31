@@ -13,7 +13,7 @@ Team Size: 1-2; all organizers
 
 ## Responsibilities
 
-- Recruit proposal submitters to ensure a diverse speaker lineup, including actively reaching out to groups and individuals to encourage proposals, and providing sample tweets/emails to other conference volunteers to aid in their recruitment
+- Recruit proposal submitters to ensure a diverse speaker lineup, including actively reaching out to groups and individuals to encourage proposals, and providing sample posts/emails to other conference volunteers to aid in their recruitment
 - Stay educated on the code of conduct and its enforcement. Not required to serve as a code of conduct contact, however.
 - Advise program team on selection
 - Score Opportunity Grant applications

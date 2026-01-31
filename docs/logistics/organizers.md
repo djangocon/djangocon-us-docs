@@ -34,9 +34,7 @@ There are all on a case by case basis, depending on the area the organizer is he
    - [sponsors@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
    - [financialaid@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
    - [visas@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
-- Social media accounts
-   - [TweetDeck](https://tweetdeck.twitter.com/)
-   - [Facebook page](https://www.facebook.com/djangoconus/)
+- Social media accounts (X, Bluesky, Mastodon, LinkedIn, Facebook)
 - Email marketing: [Mailchimp](http://mailchimp.com/)
 - [1Password Team](https://djangocon.1password.com/signin)
 - Ticket system: [Tito](https://ti.to/)
