@@ -21,5 +21,7 @@ nav_order: 2
 - [ ] Create the sprint room allocation boards
 - [ ] Make sure sprinters know when & where lunch is so food isn't wasted
 - [ ] Check the temperature of the sprints rooms
+- [ ] Work with venue team to ensure sprinters have water
+- [ ] Give or find someone willing to give lightning talk plugging sprints
 - [ ] Recruit sprint mentors
 - [ ] Verify strong Wi-Fi in the venue (work with the venue team on this)
