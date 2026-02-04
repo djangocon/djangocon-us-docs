@@ -5,4 +5,7 @@ parent: Contribution Sprints
 nav_order: 3
 ---
 
-## Previous Contribution Sprints Chairs
+
+## Previous Community Chairs
+
+- Sean Helvey (2024-2025)
