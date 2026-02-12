@@ -64,6 +64,7 @@ These deadlines were from 2024, where the conference was held the week of Septem
 - April 29 - CFP closes; notify talk reviewers who have messaged us about wanting to do reviews that they can start to review
 - May 10 - talk reviews done by this date
 - May 13 week - thunderdome
+- May 20 week - review speakers with CoC teams in DSF and PSF
 - First week of June- notification emails to talks/tutorials
 - June 14 - decision notifications sent out by no later than this date
 - June 21 - talk and tutorial speaker deadline to let us know if they accept our acceptance
