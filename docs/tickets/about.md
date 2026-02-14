@@ -35,7 +35,7 @@ Take your total venue capacity and subtract out reserved tickets for volunteers,
 
 ## How do I determine what our tickets should cost?
 
-We use three basic pricing tiers with DjangoCon: reduced, individual, and corporate tiers. Our goal was to price our individual tickets just above our theoretical cost.
+We use three basic pricing tiers with DjangoCon US: reduced, individual, and corporate tiers. Our goal was to price our individual tickets just above our theoretical cost.
 
 **Individual**: Take the break-even, per-attendee, before-taxes-and-ticket-fees cost and round it up to the nearest 95 (so if your break-even per-attendee cost is $435, round up to $495).
 
