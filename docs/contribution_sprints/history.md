@@ -6,6 +6,6 @@ nav_order: 3
 ---
 
 
-## Previous Community Chairs
+## Previous Contribution Sprints Chairs
 
 - Sean Helvey (2024-2025)

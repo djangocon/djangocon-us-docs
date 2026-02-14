@@ -24,7 +24,7 @@ nav_order: 1
 
 - **Organizers** 
     - Former chairs help onboard new chairs 
-    - Recruit team members, especially leads for Program, Opportunity Grants, Sponsors, Communucation
+    - Recruit team members, especially leads for Program, Opportunity Grants, Sponsors, Communication
     - Schedule initial meetings with team leads and former chairs 
 - **Logistics** 
     - Start thinking about overall deadlines for call for proposals, opportunity grants, etc. 
@@ -34,7 +34,7 @@ nav_order: 1
 - **Tickets** 
     - Create conference tickets in Ti.to or other ticketing software 
     - Set questions for name, company, dietary restrictions, t-shirt sizes, etc. 
-    - Create "invisible" ticket types for organizers, speakers, opportunity grant receipients, sponsors 
+    - Create "invisible" ticket types for organizers, speakers, opportunity grant recipients, sponsors 
     - Create "visible" ticket types for: 
         - Patron 
         - Corporate 

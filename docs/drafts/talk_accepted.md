@@ -16,7 +16,7 @@ We'll be announcing the list of accepted talks immediately, so if you can no lon
 
 We are proud to offer speakers a complimentary ticket to the conference. Please claim your ticket at [link] as soon as possible. 
 
-If you applied for financial aid, you will be notified about the decision shortly.
+If you applied for an Opportunity Grant, you will be notified about the decision shortly.
 
 For assistance with visas or immigration documents, please contact [name and email]. If you have any other questions, comments, or feedback, please feel free to contact me or the conference chair, [name and email].
 

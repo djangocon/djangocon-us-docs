@@ -4,7 +4,7 @@ title: Program - FAQs about Presenting a Tutorial
 parent: Templates
 ---
 
-# Proram - FAQs about Presenting a Tutorial 
+# Program - FAQs about Presenting a Tutorial 
 
 Hello everyone,
 

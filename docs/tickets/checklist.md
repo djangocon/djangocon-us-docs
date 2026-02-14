@@ -5,12 +5,12 @@ parent: Tickets
 nav_order: 2
 ---
 
-## First list
+## Tickets Checklist
 
 - [ ] First item
 - [ ] Second item
 
-## Second List
+## Pre-Conference
 
 - [ ] First item
 - [ ] Second item

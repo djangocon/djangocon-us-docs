@@ -65,8 +65,8 @@ nav_order: 5
 
 ## Website
 
-- [ ] Run website through accessiblity checker
-- [ ] File accessiblity issues on GitHub
+- [ ] Run website through accessibility checker
+- [ ] File accessibility issues on GitHub
 - [ ] Ensure accessibility issues are addressed in a timely manner
 - [ ] Post accessibility information on website, including:
     - [ ] Step-free access

@@ -36,6 +36,6 @@ The responsibilities for each area described here are meant to be comprehensive,
 - [The Less Obvious Conference Checklist](https://github.com/mxsasha/lessobviouschecklist)
 - [Handbook for open-source software community conference organisers](https://github.com/evildmp/conference-handbook) by [Daniele Procida](https://github.com/evildmp)
 - [List of well designed conferences](https://github.com/olasitarska/pretty-conferences) by [Ola Sitarska](https://github.com/olasitarska/pretty-conferences)
-- [MicroConf: Attendee’s Guide](http://doubleyouraudience.com/microconf-guide/)
+- [MicroConf: Attendee's Guide](https://doubleyouraudience.com/microconf-guide/)
 - [Write the Docs: Organizer Manual](https://organizer-manual.readthedocs.io/en/latest/) by [Eric Holscher](https://github.com/ericholscher)
-- [Write the Docs: Welcome Wagon](http://www.writethedocs.org/conf/na/2016/welcome-wagon/)
+- [Write the Docs: Welcome Wagon](https://www.writethedocs.org/conf/na/2016/welcome-wagon/)

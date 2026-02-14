@@ -15,7 +15,7 @@ All of these are optional.
 - Schedule on the evening of the first talks day
 - Can be sponsored by one or more sponsors, or can be hosted by the main conference.
 - Add the event to the schedule and promote it
-- We require that the event not provide free alcohol, but it can be held in a place where people can purchase their own alcoholic beveraes
+- We require that the event not provide free alcohol, but it can be held in a place where people can purchase their own alcoholic beverages
 - We ask that light appetizers be served
 - We ask that the event be held in a place where consumption of alcohol isn't the main activity (bowling alley, arcade, mini golf, etc.)
 - Expected attendance: about 70% of the attendees

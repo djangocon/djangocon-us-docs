@@ -35,6 +35,6 @@ There are all on a case by case basis, depending on the area the organizer is he
    - [financialaid@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
    - [visas@djangocon.us](https://groups.google.com/a/djangocon.us/forum/)
 - Social media accounts (X, Bluesky, Mastodon, LinkedIn, Facebook)
-- Email marketing: [Mailchimp](http://mailchimp.com/)
+- Email marketing: [Mailchimp](https://mailchimp.com/)
 - [1Password Team](https://djangocon.1password.com/signin)
 - Ticket system: [Tito](https://ti.to/)
