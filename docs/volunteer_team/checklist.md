@@ -27,7 +27,7 @@ Team Size: 1-2
 - [ ] Update the volunteer pages on the site
 - [ ] Help answer emails on the organizers mailing list
 - [ ] Create the on-site volunteering spreadsheet (reg desk, swag had out, etc)
-- [ ] Email volunteers before DjangoCon with more details, where they should meet etc
+- [ ] Email volunteers before DjangoCon US with more details, where they should meet etc
 - [ ] Save those emails in this repo for future reference
 
 ### Session Chairs & Runners

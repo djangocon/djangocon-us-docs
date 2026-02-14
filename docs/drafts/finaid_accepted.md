@@ -23,7 +23,7 @@ If you have a US bank account, we'll issue you a check. Please send us your full
 
 If you need an invitation letter to obtain a visa, please contact [name] at [email]. 
 
-On behalf of all of the staff: we hope to see you at DjangoCon!
+On behalf of all of the staff: we hope to see you at DjangoCon US!
 
 Warmly, 
 
