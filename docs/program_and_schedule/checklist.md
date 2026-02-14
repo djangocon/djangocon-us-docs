@@ -27,15 +27,15 @@ nav_order: 2
 - [ ] Recruit speaker mentors
 - [ ] Publicize the existence of speaker mentors
 - [ ] Publicize the CFP and deadlines
-  - [ ] Social media (coordinate with communications team)
-  - [ ] Django Forum
-  - [ ] Django Discord
-  - [ ] PSF Community Mailing List
-  - [ ] DSF Members Mailing List
+    - [ ] Social media (coordinate with communications team)
+    - [ ] Django Forum
+    - [ ] Django Discord
+    - [ ] PSF Community Mailing List
+    - [ ] DSF Members Mailing List
 - [ ] Review proposals
 - [ ] Provide proposal feedback
 - [ ] Draft & send the accept/decline emails
-  - In past years, we've used sendy to send the accept/decline/waitlist functions, but we can use pretalx to use the first two
+    - In past years, we've used sendy to send the accept/decline/waitlist functions, but we can use pretalx to use the first two
 - [ ] Create form to collect speaker info (name, video preferences, pronouns, etc.)
 - [ ] Determine the talk schedule
 - [ ] Export schedule from pretalx

@@ -27,21 +27,21 @@ Consider these costs:
 - Venue rental
 - Catering (see [DEFNA's post](https://www.defna.org/announcements/2017/7/25/the-joys-of-catering-part-1-tickets-sold-does-not-equal-catering-count) on estimating a catering headcount; this is by far the largest expense)
 - A/V
-  - Projectors for tutorial rooms and presentation rooms
-  - Microphones: 1 per presenter + 1-2 for introductions and Q&A
-  - Hardware to connect laptops to projectors
-  - Video recording
-  - Live captioning
+    - Projectors for tutorial rooms and presentation rooms
+    - Microphones: 1 per presenter + 1-2 for introductions and Q&A
+    - Hardware to connect laptops to projectors
+    - Video recording
+    - Live captioning
 - Website redesign
 - Opportunity Grants (We usually get $20,000 from DSF, PSF, and DEFNA)
 - Swag ($5,000)
-  - Stickers
-  - Tote bags
-  - Speaker / organizer gifts
+    - Stickers
+    - Tote bags
+    - Speaker / organizer gifts
 - Photographer ($3,000-6,000)
 - Misc ($1,000)
-  - Bathroom baskets
-  - Registration supplies
+    - Bathroom baskets
+    - Registration supplies
 
 ## Budget Checklists
 
@@ -59,9 +59,9 @@ Consider these costs:
 - [ ] Review budget with the DEFNA board
 - [ ] Enter all DjangoCon US expenses
 - [ ] Sign contracts with vendors
-  - [ ] Photographer
-  - [ ] Venue/Caterer
-  - [ ] Recording team
-  - [ ] Live captioner
-  - [ ] Child care provider
+    - [ ] Photographer
+    - [ ] Venue/Caterer
+    - [ ] Recording team
+    - [ ] Live captioner
+    - [ ] Child care provider
 - [ ] Allocate Opportunity Grants
