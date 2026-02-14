@@ -5,12 +5,12 @@ parent: Online Committee
 nav_order: 2
 ---
 
-## First list
+## Online Committee Checklist
 
 - [ ] First item
 - [ ] Second item
 
-## Second List
+## Pre-Conference
 
 - [ ] First item
 - [ ] Second item

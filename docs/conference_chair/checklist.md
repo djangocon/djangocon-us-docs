@@ -5,12 +5,12 @@ parent: Conference Chair
 nav_order: 2
 ---
 
-## First list
+## Conference Chair Checklist
 
 - [ ] First item
 - [ ] Second item
 
-## Second List
+## Pre-Conference
 
 - [ ] First item
 - [ ] Second item

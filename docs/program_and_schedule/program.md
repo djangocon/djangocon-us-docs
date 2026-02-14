@@ -57,9 +57,9 @@ When selecting the program, look for these things:
 
 ### Call for Proposals Examples
 
-- http://2014.djangocon.us/lightning_talks_open_spaces/
-- http://2015.djangocon.eu/proposals/
-- http://2015.pycon-au.org/cfp
+- https://2014.djangocon.us/lightning_talks_open_spaces/
+- https://2015.djangocon.eu/proposals/
+- https://2015.pycon-au.org/cfp
 - https://github.com/nodeconf/US-CFP
 - https://us.pycon.org/2015/speaking/cfp/
 

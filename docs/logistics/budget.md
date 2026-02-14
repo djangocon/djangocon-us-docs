@@ -20,7 +20,7 @@ The DEFNA Treasurer generally oversees the budget.
 - Pay vendors
 - Manage invoicing for sponsors
 
-## Setting a bugdet
+## Setting a budget
 
 Consider these costs:
 

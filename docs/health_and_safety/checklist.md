@@ -5,12 +5,12 @@ parent: Health and Safety
 nav_order: 2
 ---
 
-## First list
+## Health and Safety Checklist
 
 - [ ] First item
 - [ ] Second item
 
-## Second List
+## Pre-Conference
 
 - [ ] First item
 - [ ] Second item

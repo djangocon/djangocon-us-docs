@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Organizations to contact
 
-- [DEFNA](http://www.defna.org/)
+- [DEFNA](https://www.defna.org/)
 - [DSF](https://www.djangoproject.com/foundation/)
 - [PSF](https://www.python.org/psf/grants/)
 
@@ -18,7 +18,7 @@ nav_order: 2
 - [ ] Reset the finaid@djangocon.us mailing list
 - [ ] Determine the Opportunity Grants selection criteria
 - [ ] Update the Opportunity Grants page on the site
-- [ ] Use consistent naming on the website: financial *aid*, not assistance
+- [ ] Use consistent naming on the website: *Opportunity Grants*, not financial aid or assistance
 - [ ] Review the Opportunity Grants applications
 - [ ] Ask ticket chair for Opportunity Grants promo codes for registration
 - [ ] Draft & send the accept/decline emails
