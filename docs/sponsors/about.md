@@ -12,9 +12,9 @@ Team Size: 1-2
 ## Responsibilities 
 
 - Together with conference chairs, treasurer, and DEFNA, develop sponsorship prospectus including: 
-  - sponsorship levels and cost 
-  - rewards per level 
-  - any discounts for returning sponsors 
+    - sponsorship levels and cost 
+    - rewards per level 
+    - any discounts for returning sponsors 
 - Manage sponsors@djangocon.us email account
 - Recruit sponsors for the conference from companies that use Django and local companies/organizations 
 - Coordinate with treasurer to invoice sponsors 

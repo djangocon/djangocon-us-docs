@@ -18,10 +18,10 @@ nav_order: 11
 - [ ] Replace all references to past year with current year
 - [ ] Review all content to make sure it's current (red pen)
 - [ ] Branding files for: 
-  - [ ] Social media avatar 
-  - [ ] Facebook cover photo 
-  - [ ] X cover photo 
-  - [ ] YouTube cover photo 
+    - [ ] Social media avatar 
+    - [ ] Facebook cover photo 
+    - [ ] X cover photo 
+    - [ ] YouTube cover photo 
 
 ## Swag
 

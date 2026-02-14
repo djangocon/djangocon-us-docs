@@ -10,8 +10,8 @@ Team Size: 1-2
 ## Responsibilities
 
 - Coordinate management of registration desk during the conference, including:
-  - Distributing badges
-  - Answering questions (aka being an Information Desk)
+    - Distributing badges
+    - Answering questions (aka being an Information Desk)
 - Ensure registration desk is staffed at all times as defined in volunteer signup spreadsheet
 - Ensuring registration desk is supplied with standard office supplies
 

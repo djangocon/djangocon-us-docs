@@ -27,12 +27,12 @@ nav_order: 2
 ### Green Room
 
 - [ ] Green room supplies:
-  - flipchart paper
-  - 4x150 post-it notes in different colors
-  - pens
-  - printer
-  - printer paper
-  - large analog clock
+    - flipchart paper
+    - 4x150 post-it notes in different colors
+    - pens
+    - printer
+    - printer paper
+    - large analog clock
 - [ ] Prepare staff + speaker check-in
 - [ ] Prepare and print session staff + speaker information sheets
 
