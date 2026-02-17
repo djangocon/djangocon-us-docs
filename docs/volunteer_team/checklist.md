@@ -10,12 +10,12 @@ Team Size: 1-2
 ## Responsibilities
 
 - Create the volunteer sign-up spreadsheet to recruit:
-  - Registration desk staff
-  - Session emcees
-  - Session managers/runners
-  - Sprint mentors
-  - Swag bag stuffers
-  - Online moderators
+    - Registration desk staff
+    - Session emcees
+    - Session managers/runners
+    - Sprint mentors
+    - Swag bag stuffers
+    - Online moderators
 - Make sure spreadsheet is added to website and communicated
 - Make sure all volunteer slots get filled, including actively recruiting volunteers
 - Train volunteers on their roles through sharing written resources and/or onsite debriefing
@@ -27,9 +27,9 @@ Team Size: 1-2
 
 - [ ] Consider adding a question to ticket registration: "Would you be interested in volunteering?"
 - [ ] Update the documentation:
-  - [ ] Update the [Volunteer Handbook](handbook.md)
-  - [ ] Update Volunteer Spreadsheet template
-  - [ ] Update schedule when set
+    - [ ] Update the [Volunteer Handbook](handbook.md)
+    - [ ] Update Volunteer Spreadsheet template
+    - [ ] Update schedule when set
 - [ ] Set up automation to email volunteers docs and contact info when they sign up
 - [ ] Coordinate with Online Committee to update online volunteer handbook
 - [ ] Check testimonials from previous years for blog post content
@@ -52,10 +52,10 @@ Team Size: 1-2
 ### Week -2 to Week -1
 
 - [ ] Prepare print materials:
-  - [ ] Registration desk volunteer instructions (2 copies)
-  - [ ] Session manager instructions (2 copies)
-  - [ ] [Time cards](timecards.pdf) (2 sets)
-  - [ ] Session emcee sheets with speaker names (coordinate with Program team)
+    - [ ] Registration desk volunteer instructions (2 copies)
+    - [ ] Session manager instructions (2 copies)
+    - [ ] [Time cards](timecards.pdf) (2 sets)
+    - [ ] Session emcee sheets with speaker names (coordinate with Program team)
 - [ ] Send email to registered volunteers with expectations/responsibilities (see [Email Templates](email_templates.md))
 - [ ] Have volunteers join Slack and the #volunteering-at-dcus channel
 - [ ] Recruit additional volunteers on Slack with priority for session emcees
@@ -108,8 +108,3 @@ A Google Apps Script can automatically email volunteers when they sign up. See [
 | Role | Estimated People | Notes |
 |------|------------------|-------|
 | Online Moderators | 4-8 at a time | 2 per track, monitoring chat and enforcing CoC |
-
-### Volunteer Compensation
-
-- Local/student volunteers: 7 hours volunteering = 1 full conference ticket
-- Online moderators: Full conference = free online ticket (or 1 day for partial)
