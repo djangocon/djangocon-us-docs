@@ -19,7 +19,7 @@ Team size: 1-2
 - Make sure Opportunity Grants registration codes are created (ask ticket chair)
 - Coordinate notification timeline with program team
 - Send accept/decline notifications about Opportunity Grant awards
-- Collect receipts from receipients for reimbursement
+- Collect receipts from recipients for reimbursement
 - Work with treasurer to ensure that Opportunity Grants reimbursements are sent
 
 ## Notes

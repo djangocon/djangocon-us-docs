@@ -13,8 +13,8 @@ permalink: /experience
 
 Here are some examples of good conference pages on travel to the conference
 
-- http://2014.djangocon.us/travel/
-- http://2015.djangocon.eu/welcome/getting-here/
-- http://www.meetattexas.com/page/directions
-- http://www.meetattexas.com/page/transportation
+- https://2014.djangocon.us/travel/
+- https://2015.djangocon.eu/welcome/getting-here/
+- https://www.meetattexas.com/page/directions
+- https://www.meetattexas.com/page/transportation
 - https://us.pycon.org/2013/venue/traveling/

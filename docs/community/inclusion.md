@@ -24,9 +24,9 @@ Team Size: 1-2; all organizers
 
 In the past, this position has been combined with Opportunity Grants and been its own position.
 
-It is the responsibility of all conference organizers to ensure that diversity, inclusion, and accessibility are part of their recruitment and decision-making process; setting aside these goals in their own area of resposibility is not an attempt to make diversity one person's responsibility.
+It is the responsibility of all conference organizers to ensure that diversity, inclusion, and accessibility are part of their recruitment and decision-making process; setting aside these goals in their own area of responsibility is not an attempt to make diversity one person's responsibility.
 
 ## Resources
 
-- [DjangoCon Europe 2015 Accessibility Statement](http://2015.djangocon.eu/welcome/accessibility/)
-- [DjangoCon Europe 2015 Diversity Statement](http://2015.djangocon.eu/welcome/diversity/)
+- [DjangoCon Europe 2015 Accessibility Statement](https://2015.djangocon.eu/welcome/accessibility/)
+- [DjangoCon Europe 2015 Diversity Statement](https://2015.djangocon.eu/welcome/diversity/)

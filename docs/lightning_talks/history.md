@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: History
 parent: Lightning Talks
-nav_order: 1
+nav_order: 3
 ---
 
-## Overview of Lightning Talks Responsibilities
+## Previous Lightning Talks Chairs

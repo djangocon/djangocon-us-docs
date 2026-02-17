@@ -5,12 +5,12 @@ parent: Social Events
 nav_order: 2
 ---
 
-## First list
+## Social Events Checklist
 
 - [ ] First item
 - [ ] Second item
 
-## Second List
+## Pre-Conference
 
 - [ ] First item
 - [ ] Second item

@@ -47,5 +47,5 @@ For standard announcements (CFP open, tickets on sale, keynote announcements), w
 - [Unsplash](https://unsplash.com/) for free "generic" photos
 - [Mailchimp](https://mailchimp.com/) for mailing lists; ask to be added to our group
 - [Buffer](https://buffer.com) for scheduling social media posts
-- [Awesome acceptance letter](http://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/)
+- [Awesome acceptance letter](https://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/)
 - [Happiness Packets](https://github.com/erikr/happinesspackets/)

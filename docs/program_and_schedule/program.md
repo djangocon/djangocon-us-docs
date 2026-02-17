@@ -36,7 +36,7 @@ Team Size: 1-4
 - We use [Pretalx](https://www.pretalx.com/) to accept proposals.
 - We recruit reviewers from the community and add them to Pretalx as "reviewers" to let them review
 - We do not discount talks for being "not Pythonic/Djangonic" enough
-  - We do, however, discount talks for not being a good fit for our type of audience
+    - We do, however, discount talks for not being a good fit for our type of audience
 - Tutorial presenters and speakers get complimentary conference passes
 
 ## Notes
@@ -57,9 +57,9 @@ When selecting the program, look for these things:
 
 ### Call for Proposals Examples
 
-- http://2014.djangocon.us/lightning_talks_open_spaces/
-- http://2015.djangocon.eu/proposals/
-- http://2015.pycon-au.org/cfp
+- https://2014.djangocon.us/lightning_talks_open_spaces/
+- https://2015.djangocon.eu/proposals/
+- https://2015.pycon-au.org/cfp
 - https://github.com/nodeconf/US-CFP
 - https://us.pycon.org/2015/speaking/cfp/
 

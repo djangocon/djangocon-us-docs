@@ -22,8 +22,8 @@ nav_order: 2
 ## 2 months out
 - [ ] Confirm with Venue team that there is a space for Private Wellness Room (including fridge for nursing parents to use)
 - [ ] Child care - check on reputable places near the venue we can recommend
-  - [ ] We have been giving stipend of $150/day, but confirm that’s accurate
-  - [ ] Create [blog post](https://2025.djangocon.us/news/childcare-during-djangocon/)
+    - [ ] We have been giving stipend of $150/day, but confirm that’s accurate
+    - [ ] Create [blog post](https://2025.djangocon.us/news/childcare-during-djangocon/)
 
 ## During conference
 

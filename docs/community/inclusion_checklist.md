@@ -20,11 +20,11 @@ nav_order: 5
 - [ ] Reach out to RailsGirls (some of those women probably also do Django!)
 - [ ] Reach out to ChickTech
 - [ ] Look at other national and regional conferences and reach out to speakers who would be a good fit for DjangoCon US to ask them to submit, especially on diverse topics such as:
-  - [ ] mental health
-  - [ ] committing to open source
-  - [ ] diversity in tech (women, people of color, parents, older people, veterans, LGBTQIA+ people, etc.)
-  - [ ] teaching/mentoring
-  - [ ] community
+    - [ ] mental health
+    - [ ] committing to open source
+    - [ ] diversity in tech (women, people of color, parents, older people, veterans, LGBTQIA+ people, etc.)
+    - [ ] teaching/mentoring
+    - [ ] community
 - [ ] Reach out to active regional diversity groups
 - [ ] Post CFP on r/PyLadies, r/Django, and r/Python with encouragement of underrepresented people to submit
 - [ ] Ask the committee and your social network for people who would make great (first-time) speakers
@@ -44,11 +44,11 @@ nav_order: 5
 - [ ] Reach out to RailsGirls (some of those women probably also do Django!)
 - [ ] Reach out to ChickTech
 - [ ] Reach out to active local diversity groups and programming user groups such as:
-  - [ ] Python User Groups
-  - [ ] Django User Groups
-  - [ ] Local PyLadies
-  - [ ] Local Django Girls
-  - [ ] Local GirlDevelopIt
+    - [ ] Python User Groups
+    - [ ] Django User Groups
+    - [ ] Local PyLadies
+    - [ ] Local Django Girls
+    - [ ] Local GirlDevelopIt
 - [ ] Review Opportunity Grant applications
 
 ## Venue/Hotel Accessibility
@@ -65,20 +65,20 @@ nav_order: 5
 
 ## Website
 
-- [ ] Run website through accessiblity checker
-- [ ] File accessiblity issues on GitHub
+- [ ] Run website through accessibility checker
+- [ ] File accessibility issues on GitHub
 - [ ] Ensure accessibility issues are addressed in a timely manner
 - [ ] Post accessibility information on website, including:
-  - [ ] Step-free access
-  - [ ] Gender-neutral bathrooms
-  - [ ] Accessible bathrooms
-  - [ ] Service animals welcome, and location of grassy areas for them
-  - [ ] Services for attendees who are hard of hearing
-  - [ ] Services for attendees who have low vision
-  - [ ] Child care availability
-  - [ ] Recovery groups
-  - [ ] Ability to accommodate dietary restrictions
-  - [ ] Invitation to contact us for accommodation not listed
+    - [ ] Step-free access
+    - [ ] Gender-neutral bathrooms
+    - [ ] Accessible bathrooms
+    - [ ] Service animals welcome, and location of grassy areas for them
+    - [ ] Services for attendees who are hard of hearing
+    - [ ] Services for attendees who have low vision
+    - [ ] Child care availability
+    - [ ] Recovery groups
+    - [ ] Ability to accommodate dietary restrictions
+    - [ ] Invitation to contact us for accommodation not listed
 - [ ] Confirm registration asks for dietary restrictions
 - [ ] Confirm existence of student/diversity rate for registration
 - [ ] Post on social media/blog about student/diversity rate

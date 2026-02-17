@@ -15,7 +15,7 @@ nav_order: 13
 - [ ] Publicize information about the next year 
 - [ ] Reset/cull the organizer mailing lists 
 
-## External / Attendee Communucation 
+## External / Attendee Communication 
 
 - [ ] Thank you blog post
 - [ ] Prepare post-conference survey and mail out 

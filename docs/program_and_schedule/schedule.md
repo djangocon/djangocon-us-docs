@@ -44,9 +44,9 @@ See [Special Events](../social_events/special_events.md) for other special event
 - Cost: free
 - Schedule the first day of talks before the keynote
 - Presentation that lasts about 30-60 minutes and covers:
-  - Code of Conduct
-  - Impostor syndrome
-  - Self care, using the quiet room, trying to exercise the extrovert muscle
+    - Code of Conduct
+    - Impostor syndrome
+    - Self care, using the quiet room, trying to exercise the extrovert muscle
 
 ### Other Sponsor Events
 
