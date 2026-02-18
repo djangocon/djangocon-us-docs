@@ -116,7 +116,13 @@ nav:
   - "Volunteer Team":
       - "volunteer_team/about.md"
       - "volunteer_team/checklist.md"
+      - "volunteer_team/handbook.md"
+      - "volunteer_team/session_emcee.md"
+      - "volunteer_team/session_manager.md"
       - "volunteer_team/registration.md"
+      - "volunteer_team/email_templates.md"
+      - "volunteer_team/blog_template.md"
+      - "volunteer_team/automation.md"
       - "volunteer_team/history.md"
   - "Website":
       - "website/about.md"
