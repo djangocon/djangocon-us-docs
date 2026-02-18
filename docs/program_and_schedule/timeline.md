@@ -59,23 +59,22 @@ nav_order: 7
 
 ## Example deadlines
 
-These deadlines were from 2024, where the conference was held the week of September 22. You can use these as a guideline for future conferences by adjusting forward/backward by the relevant number of weeks.
+These deadlines were from 2026, where the conference was held August 24-28. You can use these as a guideline for future conferences by adjusting forward/backward by the relevant number of weeks.
 
-- April 29 - CFP closes; notify talk reviewers who have messaged us about wanting to do reviews that they can start to review
-- May 10 - talk reviews done by this date
-- May 13 week - thunderdome
-- May 20 week - review speakers with CoC teams in DSF and PSF
-- First week of June- notification emails to talks/tutorials
-- June 14 - decision notifications sent out by no later than this date
-- June 21 - talk and tutorial speaker deadline to let us know if they accept our acceptance
-- June 28 - waitlisted talks deadline to let us know they accept waitlist
-- June 28 - export from pretalx to github schedule - but do not publish yet
-- July 8 - talk speakers let us know if time slot is ok
-- July 8 - notification date (stay quiet on socials until this has passed)
-- July 9 - publish the schedule as a blog post
-- July 19 - let waitlisted know if their talk was swapped into schedule or not
-  early August - send out Google drive link to online talks
-- August 19 - online talk recordings uploaded by this date
-- August 23 - hotel reservations by attendees must be received on or before this date
-- August 25 - redeem speaker ticket by this date
-- Sept 22 (Sun) - tutorials (in person this year)
+- March 16 (Mon) - CFP and Opportunity Grants close; notify talk reviewers who have messaged us about wanting to do reviews that they can start to review
+- April 10 (Fri) - talk reviews done by this date
+- April 13 week - thunderdome
+- April 20 week - review speakers with CoC teams in DSF and PSF
+- April 27 week - first round of acceptance emails to speakers
+- May 15 (Fri) - decision notifications sent out by no later than this date
+- May 20 (Wed) - talk and tutorial speaker deadline to let us know if they accept our acceptance
+- May 29 (Fri) - waitlisted talks deadline to let us know they accept waitlist
+- May 29 (Fri) - export from pretalx to github schedule - but do not publish yet
+- June 1 (Mon) - email proposed talk time to speakers
+- June 8 (Mon) - deadline for talk speakers let us know if time slot is ok
+- June 8 (Mon) - notification date (stay quiet on socials until this has passed)
+- June 15 (Mon) - publish the schedule as a blog post
+- June 19 (Fri) - let waitlisted know if their talk was swapped into schedule or not
+- July 24 (Fri) - hotel reservations by attendees must be received on or before this date
+- July 27 (Mon) - redeem speaker ticket by this date
+- Aug 24 (Mon) - first day of talks
